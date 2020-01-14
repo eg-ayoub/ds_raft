@@ -8,7 +8,7 @@ use std::io::Result;
 pub use crate::raft_server::log_entry;
 pub use crate::raft_server::rpc;
 
-#[derive(Debug, Clone, Copy)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum ServerState {
     Follower,
     Leader,
@@ -132,30 +132,37 @@ impl Server for RaftServer {
     }
 
     fn request_vote(&self) -> rpc::RPCMessage {
-        let mut req = rpc::RPCMessage {
-            call_type: rpc::RPCType::RequestVote,
-            call_parameters: rpc::RPCParameters{
-                rv_term: self.persistence.current_term,
-                rv_candidate_id: self.rank,
-                rv_last_log_index: self.persistence.log.len(),
-                rv_last_log_term: 0 
-            },
-        };
+        let mut last_term = 0;
         if self.persistence.log.len() != 0 {
-            req.call_parameters.rv_last_log_term = self.persistence.log[self.persistence.log.len() - 1].term;
+            last_term = self.persistence.log[self.persistence.log.len() - 1].term;
         }
-        req
+
+        rpc::RPCMessage {
+            message: rpc::Message,
+            rtype: rpc::RPCType::RequestVote,
+            rv_params: Some(rpc::RequestVoteParameters{
+                term: self.persistence.current_term,
+                candidate_id: self.rank,
+                last_log_index: self.persistence.log.len(),
+                last_log_term: last_term
+            }),
+            ae_params: None
+        }
     }
 
     fn empty_append(&self) -> rpc::RPCMessage {
         rpc::RPCMessage {
-            call_type: rpc::RPCType::AppendEntries,
-            call_parameters: rpc::RPCParameters{
-                rv_term: 0,
-                rv_candidate_id: 0,
-                rv_last_log_index: 0,
-                rv_last_log_term: 0 
-            }
+            message: rpc::Message,
+            rtype: rpc::RPCType::AppendEntries,
+            rv_params: None,
+            ae_params: Some(rpc::AppendEntriesParameters{
+                term: 0,
+                leader_id: self.rank,
+                prev_log_index: 0,
+                prev_log_term: 0,
+                entries: vec!(),
+                leader_commit: 0
+            })
         }
     }
 }
