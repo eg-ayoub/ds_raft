@@ -138,7 +138,7 @@ impl Server for RaftServer {
         }
 
         rpc::RPCMessage {
-            message: rpc::Message,
+            message: rpc::Request,
             rtype: rpc::RPCType::RequestVote,
             rv_params: Some(rpc::RequestVoteParameters{
                 term: self.persistence.current_term,
@@ -151,17 +151,21 @@ impl Server for RaftServer {
     }
 
     fn empty_append(&self) -> rpc::RPCMessage {
+        let mut last_term = 0;
+        if self.persistence.log.len() != 0 {
+            last_term = self.persistence.log[self.persistence.log.len() - 1].term;
+        }
         rpc::RPCMessage {
-            message: rpc::Message,
+            message: rpc::Request,
             rtype: rpc::RPCType::AppendEntries,
             rv_params: None,
             ae_params: Some(rpc::AppendEntriesParameters{
-                term: 0,
+                term: self.persistence.current_term,
                 leader_id: self.rank,
-                prev_log_index: 0,
-                prev_log_term: 0,
+                prev_log_index: self.persistence.log.len(),
+                prev_log_term: last_term,
                 entries: vec!(),
-                leader_commit: 0
+                leader_commit: self.commit_index
             })
         }
     }

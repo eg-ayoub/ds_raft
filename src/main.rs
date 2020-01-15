@@ -90,10 +90,7 @@ fn main() {
                 },
                 ServerState::Leader => {
                     let server = server_arc_main.lock().unwrap();
-                    let now = Instant::now();
-                    while now.elapsed().as_millis() <= 1000 {
-                        thread::yield_now();
-                    }
+                    info!("[{}] remains leader for term {}", rank, server.persistence.current_term);
                     let _msg = server.empty_append();
                     let msg = serde_json::to_string(&_msg).unwrap();
                     // * bcast 
@@ -102,21 +99,23 @@ fn main() {
                             universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
                         }
                     }
+                    let now = Instant::now();
+                    // let mut rngg = rand::thread_rng();
+                    // if rngg.gen_range(1, 10001) <= 10 {
+                    //     while now.elapsed().as_millis() <= 10000 {
+                    //         thread::yield_now();
+                    //     }
+                    // }
+                    while now.elapsed().as_millis() <= 1000 {
+                        thread::yield_now();
+                    }
                 },
                 ServerState::Candidate => {
                     let mut server = server_arc_main.lock().unwrap();
                     if size - server.vote_count < server.vote_count {
-                        info!("[{}] becomes leader.", rank);
+                        info!("[{}] becomes leader with {} votes", rank, server.vote_count);
                         server.state = ServerState::Leader;
                         server.init_leader_state(size);
-                        let _msg = server.empty_append();
-                        let msg = serde_json::to_string(&_msg).unwrap();
-                        // * bcast 
-                        for r in 0..size {
-                            if r != rank {
-                                universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
-                            }
-                        }
                     }else if start_of_election.elapsed().as_millis() >= 3000 {
                             info!("[{}] candidate has timed out. starting new election...", rank);
                             let mut server = server_arc_main.lock().unwrap();
@@ -149,6 +148,10 @@ fn main() {
         fn issue_requestvote(params: RequestVoteParameters, server: Arc<Mutex<RaftServer>>, out_queue: Arc<Mutex<VecDeque<RPCResponse>>>, from: Rank) {
             let mut server = server.lock().unwrap();
 
+            if params.term > server.persistence.current_term {
+                server.persistence.voted_for = -1;
+            }
+
             let mut response = RPCResponse {
                 response: Response,
                 rtype : RPCType::RequestVote,
@@ -161,10 +164,6 @@ fn main() {
 
             if params.term < server.persistence.current_term {
                 response.params.success = false;
-            }
-            
-            if params.term > server.persistence.current_term {
-                server.persistence.voted_for = -1;
             }
 
             let voted_bool = server.persistence.voted_for == -1 
@@ -180,8 +179,8 @@ fn main() {
                 response.params.success = false;
             }
 
-            // * Leader discovers new term
-            if params.term > server.persistence.current_term && server.state == ServerState::Leader {
+            // *  discovers new term
+            if params.term > server.persistence.current_term && server.state != ServerState::Follower {
                 server.state = ServerState::Follower;
             }
 
@@ -206,7 +205,6 @@ fn main() {
 
         fn issue_appendentries(params: AppendEntriesParameters, server: Arc<Mutex<RaftServer>>, out_queue: Arc<Mutex<VecDeque<RPCResponse>>>, from: Rank) {
             let mut server = server.lock().unwrap();
-            // TODO
             let mut response = RPCResponse {
                 response : Response,
                 rtype : RPCType::RequestVote,
@@ -221,10 +219,10 @@ fn main() {
                 response.params.success = false;
             }
 
-            // if params.term > server.persistence.current_term && server.state != ServerState::Leader {
-            //     server.state = ServerState::Follower;
-            //     info!("[{}] goes back to being a follower", server.rank);
-            // }
+            // *  discovers new term
+            if params.term > server.persistence.current_term && server.state != ServerState::Follower {
+                server.state = ServerState::Follower;
+            }
 
             if let Err(_) = server.write_persistence() {
                 warn!("[{}] could not write to disk ...", server.rank);
@@ -243,7 +241,6 @@ fn main() {
             let (message, status) = universe_arc_ingress.world().any_process().receive_vec::<u8>();
             let from = status.source_rank();
             let message_string = std::str::from_utf8(&message[..]).unwrap();
-            // info!("[{}] receives {}", rank, message_string);
 
             // * is the message an RPC?
             let msg_as_rpc = serde_json::from_str::<RPCMessage>(message_string); 
@@ -283,7 +280,6 @@ fn main() {
                 continue;
             }
 
-
             // * is this message a response? 
             let msg_as_resp = serde_json::from_str::<RPCResponse>(message_string);
             if let Err(_) = msg_as_resp {
@@ -293,21 +289,25 @@ fn main() {
                     RPCType::RequestVote => {
                         let mut server = server_arc_ingress.lock().unwrap();
                         if msg_as_resp.params.success {
-                            server.vote_count = server.vote_count + 1;
+                            if msg_as_resp.params.term == server.persistence.current_term {
+                                server.vote_count = server.vote_count + 1;
+                            }
                         }else if msg_as_resp.params.term > server.persistence.current_term {
-                            info!("[{}] candidate goes back to being a follower", server.rank);
                             server.persistence.current_term = msg_as_resp.params.term;
                             server.state = ServerState::Follower;
-                            assert_eq!(msg_as_resp.params.term, server.persistence.current_term);
                         }
                     },
                     RPCType::AppendEntries => {
+                        let mut server = server_arc_ingress.lock().unwrap();
+                        // ? fix me // this means candidate discovers the leader ? 
+                        if msg_as_resp.params.term > server.persistence.current_term {
+                            server.persistence.current_term = msg_as_resp.params.term;
+                            server.state = ServerState::Follower;
+                        }
                     }
                 }
                 continue;
             }
-            
-            // warn!("server has received unknown message : {}", message_string);
         }
     });
 

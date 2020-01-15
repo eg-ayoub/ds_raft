@@ -5,7 +5,7 @@ pub use crate::raft_server::log_entry;
 
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
-pub struct Message;
+pub struct Request;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct Response;
@@ -36,7 +36,7 @@ pub struct AppendEntriesParameters {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct RPCMessage {
-    pub message: Message,
+    pub message: Request,
     pub rtype: RPCType,
     pub rv_params: Option<RequestVoteParameters>,
     pub ae_params: Option<AppendEntriesParameters>
