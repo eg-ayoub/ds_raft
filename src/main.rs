@@ -90,7 +90,7 @@ fn main() {
                 },
                 ServerState::Leader => {
                     let server = server_arc_main.lock().unwrap();
-                    info!("[{}] remains leader for term {}", rank, server.persistence.current_term);
+                    // info!("[{}] remains leader for term {}", rank, server.persistence.current_term);
                     let _msg = server.empty_append();
                     let msg = serde_json::to_string(&_msg).unwrap();
                     // * bcast 
