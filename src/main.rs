@@ -21,9 +21,14 @@ use rand::Rng;
 use threadpool::ThreadPool;
 use mpi::topology::Rank;
 use std::collections::VecDeque;
+<<<<<<< HEAD
 use core::cmp::min;
 use simplelog::*;
 use std::fs::File;
+=======
+use log::{info, warn};
+use std::cmp::min;
+>>>>>>> 571e5c88bd168ba14e6a65890ecabfb298e06522
 
 
 
