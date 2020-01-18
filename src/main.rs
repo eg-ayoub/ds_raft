@@ -3,6 +3,7 @@ extern crate rand;
 
 #[macro_use]
 extern crate log;
+extern crate simplelog;
 
 mod raft_server;
 use std::sync::Arc;
@@ -15,18 +16,18 @@ use std::time::{Duration, Instant};
 use std::sync::mpsc::{self, RecvTimeoutError};
 use raft_server::server::*;
 use raft_server::rpc::*;
+use raft_server::log_entry::*;
 use rand::Rng;
 use threadpool::ThreadPool;
 use mpi::topology::Rank;
 use std::collections::VecDeque;
-use log::{info, warn};
+use core::cmp::min;
+use simplelog::*;
+use std::fs::File;
 
 
 
 fn main() {
-    // * logging
-    env_logger::init();
-
     // * cross-thread communication & MPI
     let (election_sender, election_receiver) = mpsc::channel();
     let out_queue : VecDeque<RPCResponse> = VecDeque::new();
@@ -41,6 +42,18 @@ fn main() {
         warn!("world size must be 2 at least!");
     }
 
+    // * logging
+    let mut configBuilder = ConfigBuilder::new();
+    configBuilder.set_time_format_str("%M:%S%.f");
+    let simpleLogger = SimpleLogger::new(LevelFilter::Info, configBuilder.build());
+    
+    CombinedLogger::init(
+        vec![
+            simpleLogger,
+            // WriteLogger::new(LevelFilter::Info, Config::default(), File::create("debug.log").unwrap()),
+        ]
+    ).unwrap();
+
     // * raft server stuff 
     let server = RaftServer::new(rank);
     let server_mut_arc = Arc::new(Mutex::new(server));
@@ -48,6 +61,11 @@ fn main() {
     fn get_state(server: Arc<Mutex<RaftServer>>) -> ServerState {
         let server = server.lock().unwrap();
         return server.state;
+    }
+
+    fn update_val(server: Arc<Mutex<RaftServer>>) {
+        let mut server = server.lock().unwrap();
+        server.apply_commited();
     }
 
     // * election heartbeat
@@ -60,6 +78,7 @@ fn main() {
     let server_arc_main = Arc::clone(&server_mut_arc);
     let main_thread = thread::spawn(move || {
         loop {
+            update_val(server_arc_main.clone());
             match get_state(server_arc_main.clone()) {
                 ServerState::Follower => {
                     match election_receiver.recv_timeout(election_timeout) {
@@ -89,26 +108,31 @@ fn main() {
                     }
                 },
                 ServerState::Leader => {
-                    let server = server_arc_main.lock().unwrap();
-                    // info!("[{}] remains leader for term {}", rank, server.persistence.current_term);
-                    let _msg = server.empty_append();
-                    let msg = serde_json::to_string(&_msg).unwrap();
-                    // * bcast 
-                    for r in 0..size {
-                        if r != rank {
-                            universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
-                        }
-                    }
                     let now = Instant::now();
-                    // let mut rngg = rand::thread_rng();
-                    // if rngg.gen_range(1, 10001) <= 10 {
-                    //     while now.elapsed().as_millis() <= 10000 {
-                    //         thread::yield_now();
-                    //     }
-                    // }
                     while now.elapsed().as_millis() <= 1000 {
                         thread::yield_now();
                     }
+                    let mut server = server_arc_main.lock().unwrap();
+                    server.update_commit_index(size);
+                    // server.dummy_incr();
+                    // * send messages
+                    for r in 0..size {
+                        if r != rank {
+                            let _msg = server.custom_append(r); // ? 
+                            let msg = serde_json::to_string(&_msg).unwrap();
+                            universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
+                        }
+                    }
+                    // For crash simulation
+                    let now = Instant::now();
+                    let mut rngg = rand::thread_rng();
+                    while now.elapsed().as_millis() <= 10000 {
+                        thread::yield_now();
+                    }
+                    // while now.elapsed().as_millis() <= 1000 {
+                    //     thread::yield_now();
+                    // }
+                    // end crash simulation
                 },
                 ServerState::Candidate => {
                     let mut server = server_arc_main.lock().unwrap();
@@ -116,6 +140,14 @@ fn main() {
                         info!("[{}] becomes leader with {} votes", rank, server.vote_count);
                         server.state = ServerState::Leader;
                         server.init_leader_state(size);
+                        let _msg = server.empty_append();
+                        let msg = serde_json::to_string(&_msg).unwrap();
+                        // * bcast 
+                        for r in 0..size {
+                            if r != rank {
+                                universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
+                            }
+                        }
                     }else if start_of_election.elapsed().as_millis() >= 3000 {
                             info!("[{}] candidate has timed out. starting new election...", rank);
                             let mut server = server_arc_main.lock().unwrap();
@@ -152,18 +184,11 @@ fn main() {
                 server.persistence.voted_for = -1;
             }
 
-            let mut response = RPCResponse {
-                response: Response,
-                rtype : RPCType::RequestVote,
-                params : RPCResponseParameters {
-                    term : server.persistence.current_term,
-                    success : true
-                },
-                to: from
-            };
+            let mut success = true;
+            let mut term = server.persistence.current_term;
 
             if params.term < server.persistence.current_term {
-                response.params.success = false;
+                success = false;
             }
 
             let voted_bool = server.persistence.voted_for == -1 
@@ -176,7 +201,7 @@ fn main() {
                 candidate_more_up_to_date =  params.last_log_index >= server.last_log_index();
             }
             if !(voted_bool && candidate_more_up_to_date) {
-                response.params.success = false;
+                success = false;
             }
 
             // *  discovers new term
@@ -190,33 +215,73 @@ fn main() {
             }
 
             // * update voted for
-            if response.params.success {
+            if success {
                 server.persistence.voted_for = params.candidate_id;
-                response.params.term = server.persistence.current_term;
+                term = server.persistence.current_term;
             }
 
             if let Err(_) = server.write_persistence() {
                 warn!("[{}] could not write to disk ...", server.rank);
             }
 
-            debug!("[{}] responds {} to <{}-RV>", server.rank, response.params.success, response.to);
+            let response = RPCResponse {
+                response: Response,
+                rtype : RPCType::RequestVote,
+                params : RPCResponseParameters {
+                    term : term,
+                    success : success,
+                    rv_params: Some(params),
+                    ae_params: None
+                },
+                to: from
+            };
+
+            // debug!("[{}] responds {} to <{}-RV>", server.rank, response.params.success, response.to);
             out_queue.lock().unwrap().push_back(response);
         }
 
         fn issue_appendentries(params: AppendEntriesParameters, server: Arc<Mutex<RaftServer>>, out_queue: Arc<Mutex<VecDeque<RPCResponse>>>, from: Rank) {
             let mut server = server.lock().unwrap();
-            let mut response = RPCResponse {
-                response : Response,
-                rtype : RPCType::RequestVote,
-                params : RPCResponseParameters {
-                    term : server.persistence.current_term,
-                    success : true
-                },
-                to: from
-            };
 
+            let mut success = true;
+
+            // * is the sender term stale ? 
             if params.term < server.persistence.current_term {
-                response.params.success = false;
+                success = false;
+            }
+
+            // * is the sender's prev in my log ?
+            let res = server.persistence.log.find(params.prev_log_index, params.prev_log_term);
+            match res {
+                Err(_m) => {
+                    // ! we do not treat byzantine faults, we reply flase in both cases
+                    success = false;
+                },
+                Ok(b) => {
+                    if !b {
+                        success = false;
+                    }
+                }
+            }
+
+            if success {
+                // * accept the entries ...
+                // * step 1 : find conflicts, truncate, and append sender's log
+                let conflict_start = server.persistence.log.find_conflicts(params.prev_log_index, &params.entries);
+                match conflict_start {
+                    Some(index) => {
+                        server.persistence.log.truncate(index);
+                        server.persistence.log.append_rest(index, params.prev_log_index, &params.entries);
+                    },
+                    None => {
+                        server.persistence.log.append_all(params.prev_log_index, &params.entries);
+                    }
+                }
+                // * step 2 : change commit indexes
+                if params.leader_commit > server.commit_index {
+                    server.commit_index = min(params.leader_commit, server.persistence.log.len());
+                }
+                // info!("[{}] log is now ci:{}|{}" ,server.rank, server.commit_index, server.persistence.log);
             }
 
             // *  discovers new term
@@ -228,7 +293,18 @@ fn main() {
                 warn!("[{}] could not write to disk ...", server.rank);
             }
 
-            // info!("[{}] responds {} to <{}-RV>", server.rank, response.params.success, response.to);
+            let response = RPCResponse {
+                response : Response,
+                rtype : RPCType::AppendEntries,
+                params : RPCResponseParameters {
+                    term : server.persistence.current_term,
+                    success : success,
+                    rv_params: None,
+                    ae_params: Some(params)
+                },
+                to: from
+            };
+            // info!("[{}] responds {} to <{}-AE>", server.rank, response.params.success, response.to);
             out_queue.lock().unwrap().push_back(response);
         }
 
@@ -299,15 +375,27 @@ fn main() {
                     },
                     RPCType::AppendEntries => {
                         let mut server = server_arc_ingress.lock().unwrap();
-                        // ? fix me // this means candidate discovers the leader ? 
-                        if msg_as_resp.params.term > server.persistence.current_term {
-                            server.persistence.current_term = msg_as_resp.params.term;
-                            server.state = ServerState::Follower;
+                        if !msg_as_resp.params.success {
+                            if msg_as_resp.params.term > server.persistence.current_term {
+                                server.persistence.current_term = msg_as_resp.params.term;
+                                server.state = ServerState::Follower;
+                            } else {
+                                server.decr_next_index(from);
+                            }
+                        } else {
+                            match msg_as_resp.params.ae_params {
+                                Some(params) => {
+                                    server.set_next_index(from, params.prev_log_index + params.entries.len() + 1);
+                                    server.set_match_index(from, params.prev_log_index + params.entries.len());
+                                },
+                                None => warn!("[{}] response without RPC's params", rank),
+                            }
                         }
                     }
                 }
                 continue;
             }
+
         }
     });
 

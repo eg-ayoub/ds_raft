@@ -1,0 +1,26 @@
+#!/usr/bin/awk -f
+
+BEGIN {
+  lm = -1;
+  ls = -1;
+  ln = -1;
+  rank = 0;
+}
+
+/leader/ {
+  split($1, a, ":");
+  split(a[2], b, ",");
+
+  if (lm == -1) {
+    lm = a[1];
+    ls = b[1];
+    ln = b[2];
+    rank = rank + 1;
+  } else {
+    print rank " " ((a[1] - lm)*60 + b[1]-ls)*1000 + (b[2]-ln)/1000000; 
+    lm = a[1];
+    ls = b[1];
+    ln = b[2];
+    rank = rank + 1;
+  }
+}
