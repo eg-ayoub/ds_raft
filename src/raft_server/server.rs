@@ -4,9 +4,12 @@ use std::fs::File;
 use std::io::prelude::*;
 use serde::{Serialize, Deserialize};
 use std::io::Result;
+use std::cmp::min;
 
 pub use crate::raft_server::log_entry;
 pub use crate::raft_server::rpc;
+
+use log_entry::*;
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum ServerState {
@@ -24,7 +27,7 @@ pub trait PersistentData {
 pub struct RaftPersistence {
     pub current_term: u64,
     pub voted_for: Rank,
-    pub log: Vec<log_entry::LogEntry>
+    pub log: Log
 }
 
 impl PersistentData for RaftPersistence {
@@ -47,7 +50,7 @@ impl PersistentData for RaftPersistence {
         return RaftPersistence {
             current_term: 0,
             voted_for: -1,
-            log: Vec::new()
+            log: Log::new()
         }
     }
 
@@ -69,8 +72,17 @@ pub trait Server {
     fn update_term(&mut self) -> Result<()>;
     fn request_vote(&self) -> rpc::RPCMessage;
     fn empty_append(&self) -> rpc::RPCMessage;
+    fn custom_append(&self, to: Rank) -> rpc::RPCMessage;
     fn last_log_index(&self) -> usize;
     fn last_log_term(&self) -> u64;
+    fn put_in_log(&mut self, entry: LogEntry);
+    fn decr_next_index(&mut self, of: Rank);
+    fn set_next_index(&mut self, of: Rank, index: usize);
+    fn set_match_index(&mut self, of: Rank, index: usize);
+    fn update_commit_index(&mut self, size: Rank);
+    fn apply_commited(&mut self);
+    fn dummy_incr(&mut self);
+    fn dummy_decr(&mut self);
 }
 
 #[derive(Debug)]
@@ -82,6 +94,7 @@ pub struct RaftServer {
     pub commit_index: usize,
     pub last_applied: usize,
     pub vote_count: Rank,
+    pub val: i32,
     // * volatile data on leaders
     pub next_index: HashMap<Rank, usize>,
     pub match_index: HashMap<Rank, usize>
@@ -96,7 +109,8 @@ impl Server for RaftServer {
             commit_index: 0,
             last_applied: 0,
             vote_count: 0,
-            next_index: HashMap::new(),
+            val: 0,
+            next_index: HashMap::new(), // ! should never reach 0
             match_index: HashMap::new(),
         }
     }
@@ -120,41 +134,28 @@ impl Server for RaftServer {
     }
 
     fn last_log_index(&self) -> usize {
-        return self.persistence.log.len();
+        self.persistence.log.len()
     }
 
     fn last_log_term(&self) -> u64 {
-        if self.persistence.log.len() != 0 {
-            return self.persistence.log[self.persistence.log.len() - 1].term;
-        }else{
-            return 0;
-        }
+        self.persistence.log.last_term()
     }
 
     fn request_vote(&self) -> rpc::RPCMessage {
-        let mut last_term = 0;
-        if self.persistence.log.len() != 0 {
-            last_term = self.persistence.log[self.persistence.log.len() - 1].term;
-        }
-
         rpc::RPCMessage {
             message: rpc::Request,
             rtype: rpc::RPCType::RequestVote,
             rv_params: Some(rpc::RequestVoteParameters{
                 term: self.persistence.current_term,
                 candidate_id: self.rank,
-                last_log_index: self.persistence.log.len(),
-                last_log_term: last_term
+                last_log_index: self.last_log_index(),
+                last_log_term: self.last_log_term()
             }),
             ae_params: None
         }
     }
 
     fn empty_append(&self) -> rpc::RPCMessage {
-        let mut last_term = 0;
-        if self.persistence.log.len() != 0 {
-            last_term = self.persistence.log[self.persistence.log.len() - 1].term;
-        }
         rpc::RPCMessage {
             message: rpc::Request,
             rtype: rpc::RPCType::AppendEntries,
@@ -162,11 +163,109 @@ impl Server for RaftServer {
             ae_params: Some(rpc::AppendEntriesParameters{
                 term: self.persistence.current_term,
                 leader_id: self.rank,
-                prev_log_index: self.persistence.log.len(),
-                prev_log_term: last_term,
+                prev_log_index: self.last_log_index(),
+                prev_log_term: self.last_log_term(),
                 entries: vec!(),
                 leader_commit: self.commit_index
             })
         }
     }
+
+    fn custom_append(&self, to: Rank) -> rpc::RPCMessage {
+        if self.last_log_index() >= self.next_index[&to] {
+
+            let mut term = 0;
+            if self.next_index[&to] > 1 {
+                term = self.persistence.log.get(self.next_index[&to] - 1).term;
+            }  
+
+            let mut entries = Vec::<LogEntry>::new();
+            for i in self.next_index[&to]..self.last_log_index()+1 {
+                entries.push(self.persistence.log.get(i));
+            }
+            return rpc::RPCMessage {
+                message: rpc::Request,
+                rtype: rpc::RPCType::AppendEntries,
+                rv_params: None,
+                ae_params: Some(rpc::AppendEntriesParameters{
+                    term: self.persistence.current_term,
+                    leader_id: self.rank,
+                    prev_log_index: self.next_index[&to] - 1,
+                    prev_log_term: term,
+                    entries: entries,
+                    leader_commit: self.commit_index
+                })
+            };
+        }
+        return self.empty_append();
+    }
+
+    fn put_in_log(&mut self, entry: LogEntry) {
+        self.persistence.log.put(entry);
+    }
+
+    fn dummy_incr(&mut self) {
+        let entry = LogEntry {
+            term: self.persistence.current_term,
+            operation: RaftOperation::Incr 
+        };
+        self.put_in_log(entry);
+    }
+
+    fn dummy_decr(&mut self) {
+        let entry = LogEntry {
+            term: self.persistence.current_term,
+            operation: RaftOperation::Decr 
+        };
+        self.put_in_log(entry);
+    }
+
+    fn decr_next_index(&mut self, of: Rank) {
+        let new_index = min(self.next_index[&of] - 1, 1);
+        self.next_index.remove(&of);
+        self.next_index.insert(of, new_index);
+    }
+
+    fn set_next_index(&mut self, of: Rank, index: usize) {
+        self.next_index.remove(&of);
+        self.next_index.insert(of, index);
+    }
+
+    fn set_match_index(&mut self, of: Rank, index: usize) {
+        self.match_index.remove(&of);
+        self.match_index.insert(of, index);
+    }
+
+    fn update_commit_index(&mut self, size: Rank) {
+        for n in self.commit_index+1..self.persistence.log.len() {
+            if self.persistence.log.get(n).term == self.persistence.current_term {
+                let mut count = 0;
+                for r in 0..size {
+                    if r != self.rank && self.match_index[&r] >= n{
+                        count = count + 1;
+                    }
+                }
+                if count > size - count {
+                    self.commit_index = n;
+                }
+            }
+        }
+    }
+
+    fn apply_commited(&mut self) {
+        if self.last_applied < self.commit_index {
+            self.last_applied = self.last_applied + 1;
+            let entry = self.persistence.log.get(self.last_applied);
+            match entry.operation {
+                RaftOperation::Incr => {
+                    self.val = self.val + 1;
+                },
+                RaftOperation::Decr => {
+                    self.val = self.val - 1;
+                }
+            }
+        }
+    }
+
+
 }

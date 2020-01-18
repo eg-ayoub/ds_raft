@@ -46,9 +46,11 @@ pub struct RPCMessage {
 pub struct RPCResponseParameters {
     pub term: u64,
     pub success: bool,
+    pub rv_params: Option<RequestVoteParameters>,
+    pub ae_params: Option<AppendEntriesParameters>
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct RPCResponse {
     pub response: Response,
     pub rtype: RPCType,
