@@ -66,7 +66,7 @@
 40:08.078524291 [ INFO] [30] has timed out. starting new election...
 40:08.079645575 [ INFO] [42] has timed out. starting new election...
 40:08.089856729 [ INFO] [30] becomes leader with 33 votes
-40:08.209462537 [ INFO] leader sends <1>
+40:08.209462537 [ INFO] leader sends 1
 40:08.209648520 [ INFO] follower appended <1>
 40:08.209700199 [ INFO] follower appended <1>
 40:08.209741551 [ INFO] follower appended <1>
@@ -130,7 +130,7 @@
 40:08.209018968 [ INFO] follower appended <1>
 40:08.209681463 [ INFO] follower appended <1>
 40:08.209991349 [ INFO] follower appended <1>
-40:08.313302820 [ INFO] leader sends <2>
+40:08.313302820 [ INFO] leader sends 2
 40:08.313591957 [ INFO] follower appended <2>
 40:08.313639711 [ INFO] follower appended <2>
 40:08.313689268 [ INFO] follower appended <2>
@@ -197,7 +197,7 @@
 40:08.381895070 [ INFO] [42] candidate has timed out. starting new election...
 40:08.402823712 [ INFO] [37] candidate has timed out. starting new election...
 40:08.417570176 [ INFO] leader commited 1
-40:08.417629711 [ INFO] leader sends <3>
+40:08.417629711 [ INFO] leader sends 3
 40:08.417795520 [ INFO] follower appended <3>
 40:08.417853669 [ INFO] follower commited 1
 40:08.417828809 [ INFO] follower appended <3>
@@ -321,7 +321,7 @@
 40:08.417168359 [ INFO] follower appended <3>
 40:08.417263517 [ INFO] follower commited 1
 40:08.522257936 [ INFO] leader commited 2
-40:08.522311809 [ INFO] leader sends <4>
+40:08.522311809 [ INFO] leader sends 4
 40:08.522462839 [ INFO] follower appended <4>
 40:08.522516998 [ INFO] follower commited 2
 40:08.522513215 [ INFO] follower appended <4>
@@ -445,7 +445,7 @@
 40:08.522317305 [ INFO] follower commited 2
 40:08.522277925 [ INFO] follower commited 2
 40:08.626628347 [ INFO] leader commited 3
-40:08.626797597 [ INFO] leader sends <5>
+40:08.626797597 [ INFO] leader sends 5
 40:08.627003026 [ INFO] follower appended <5>
 40:08.627051838 [ INFO] follower commited 3
 40:08.627051119 [ INFO] follower appended <5>
@@ -569,7 +569,7 @@
 40:08.626945715 [ INFO] follower appended <5>
 40:08.627025431 [ INFO] follower commited 3
 40:08.731192324 [ INFO] leader commited 4
-40:08.731241539 [ INFO] leader sends <6>
+40:08.731241539 [ INFO] leader sends 6
 40:08.731381309 [ INFO] follower appended <6>
 40:08.731427473 [ INFO] follower commited 4
 40:08.731435914 [ INFO] follower appended <6>
@@ -693,7 +693,7 @@
 40:08.731123049 [ INFO] follower appended <6>
 40:08.731169134 [ INFO] follower commited 4
 40:08.835489423 [ INFO] leader commited 5
-40:08.835540885 [ INFO] leader sends <7>
+40:08.835540885 [ INFO] leader sends 7
 40:08.841506805 [ INFO] follower appended <7>
 40:08.841553536 [ INFO] follower commited 5
 40:08.841560645 [ INFO] follower appended <7>
@@ -817,7 +817,7 @@
 40:08.841221936 [ INFO] follower commited 5
 40:08.841267381 [ INFO] follower commited 5
 40:08.945604208 [ INFO] leader commited 6
-40:08.945664822 [ INFO] leader sends <8>
+40:08.945664822 [ INFO] leader sends 8
 40:08.945895158 [ INFO] follower appended <8>
 40:08.945953362 [ INFO] follower commited 6
 40:08.945940687 [ INFO] follower appended <8>
@@ -941,7 +941,7 @@
 40:08.945863707 [ INFO] follower appended <8>
 40:08.945912467 [ INFO] follower commited 6
 40:09.050167248 [ INFO] leader commited 7
-40:09.050219763 [ INFO] leader sends <9>
+40:09.050219763 [ INFO] leader sends 9
 40:09.050367508 [ INFO] follower appended <9>
 40:09.050420035 [ INFO] follower commited 7
 40:09.050417832 [ INFO] follower appended <9>
@@ -1065,7 +1065,7 @@
 40:09.050378763 [ INFO] follower appended <9>
 40:09.050426962 [ INFO] follower commited 7
 40:09.154751256 [ INFO] leader commited 8
-40:09.154894310 [ INFO] leader sends <10>
+40:09.154894310 [ INFO] leader sends 10
 40:09.155106334 [ INFO] follower appended <10>
 40:09.155155218 [ INFO] follower commited 8
 40:09.155154792 [ INFO] follower appended <10>
@@ -1189,7 +1189,7 @@
 40:09.155119885 [ INFO] follower appended <10>
 40:09.155167812 [ INFO] follower commited 8
 40:09.259477873 [ INFO] leader commited 9
-40:09.259527557 [ INFO] leader sends <11>
+40:09.259527557 [ INFO] leader sends 11
 40:09.259677227 [ INFO] follower appended <11>
 40:09.259727074 [ INFO] follower commited 9
 40:09.259724791 [ INFO] follower appended <11>
@@ -1313,7 +1313,7 @@
 40:09.259807683 [ INFO] follower commited 9
 40:09.259856157 [ INFO] follower commited 9
 40:09.364166246 [ INFO] leader commited 10
-40:09.364214906 [ INFO] leader sends <12>
+40:09.364214906 [ INFO] leader sends 12
 40:09.364353752 [ INFO] follower appended <12>
 40:09.364399783 [ INFO] follower commited 10
 40:09.364400774 [ INFO] follower appended <12>
@@ -1437,7 +1437,7 @@
 40:09.364344306 [ INFO] follower appended <12>
 40:09.364395672 [ INFO] follower commited 10
 40:09.468518683 [ INFO] leader commited 11
-40:09.468644531 [ INFO] leader sends <13>
+40:09.468644531 [ INFO] leader sends 13
 40:09.468863180 [ INFO] follower appended <13>
 40:09.468909671 [ INFO] follower commited 11
 40:09.468911882 [ INFO] follower appended <13>
@@ -1561,7 +1561,7 @@
 40:09.469755060 [ INFO] follower appended <13>
 40:09.469800240 [ INFO] follower commited 11
 40:09.590529789 [ INFO] leader commited 12
-40:09.590588703 [ INFO] leader sends <14>
+40:09.590588703 [ INFO] leader sends 14
 40:09.590763456 [ INFO] follower appended <14>
 40:09.590795093 [ INFO] follower appended <14>
 40:09.590843636 [ INFO] follower commited 12
@@ -1685,7 +1685,7 @@
 40:09.590755958 [ INFO] follower commited 12
 40:09.590804868 [ INFO] follower commited 12
 40:09.695123585 [ INFO] leader commited 13
-40:09.695179272 [ INFO] leader sends <15>
+40:09.695179272 [ INFO] leader sends 15
 40:09.695338056 [ INFO] follower appended <15>
 40:09.695389503 [ INFO] follower commited 13
 40:09.695389113 [ INFO] follower appended <15>
@@ -1809,7 +1809,7 @@
 40:09.698362283 [ INFO] follower appended <15>
 40:09.698419134 [ INFO] follower commited 13
 40:09.802723233 [ INFO] leader commited 14
-40:09.802779411 [ INFO] leader sends <16>
+40:09.802779411 [ INFO] leader sends 16
 40:09.802933893 [ INFO] follower appended <16>
 40:09.802986079 [ INFO] follower commited 14
 40:09.802991312 [ INFO] follower appended <16>
@@ -1933,7 +1933,7 @@
 40:09.803202436 [ INFO] follower commited 14
 40:09.803142099 [ INFO] follower commited 14
 40:09.907511522 [ INFO] leader commited 15
-40:09.907574193 [ INFO] leader sends <17>
+40:09.907574193 [ INFO] leader sends 17
 40:09.933241196 [ INFO] follower appended <17>
 40:09.933296724 [ INFO] follower commited 15
 40:09.933300771 [ INFO] follower appended <17>
@@ -2057,7 +2057,7 @@
 40:09.933032313 [ INFO] follower appended <17>
 40:09.933083048 [ INFO] follower commited 15
 40:10.037389751 [ INFO] leader commited 16
-40:10.037444487 [ INFO] leader sends <18>
+40:10.037444487 [ INFO] leader sends 18
 40:10.037621785 [ INFO] follower appended <18>
 40:10.037674426 [ INFO] follower commited 16
 40:10.037670048 [ INFO] follower appended <18>
@@ -2181,7 +2181,7 @@
 40:10.037544550 [ INFO] follower appended <18>
 40:10.037599622 [ INFO] follower commited 16
 40:10.141921419 [ INFO] leader commited 17
-40:10.141974994 [ INFO] leader sends <19>
+40:10.141974994 [ INFO] leader sends 19
 40:10.142153872 [ INFO] follower appended <19>
 40:10.142212883 [ INFO] follower commited 17
 40:10.142195071 [ INFO] follower appended <19>
@@ -2305,7 +2305,7 @@
 40:10.142891053 [ INFO] follower commited 17
 40:10.142941362 [ INFO] follower commited 17
 40:10.247241071 [ INFO] leader commited 18
-40:10.247382205 [ INFO] leader sends <20>
+40:10.247382205 [ INFO] leader sends 20
 40:10.247596384 [ INFO] follower appended <20>
 40:10.247650863 [ INFO] follower commited 18
 40:10.247656732 [ INFO] follower appended <20>
@@ -2429,7 +2429,7 @@
 40:10.247631851 [ INFO] follower appended <20>
 40:10.247679892 [ INFO] follower commited 18
 40:10.351992468 [ INFO] leader commited 19
-40:10.352043938 [ INFO] leader sends <21>
+40:10.352043938 [ INFO] leader sends 21
 40:10.352211240 [ INFO] follower appended <21>
 40:10.352267477 [ INFO] follower commited 19
 40:10.352253092 [ INFO] follower appended <21>
@@ -2553,7 +2553,7 @@
 40:10.352199542 [ INFO] follower appended <21>
 40:10.352247075 [ INFO] follower commited 19
 40:10.456563268 [ INFO] leader commited 20
-40:10.456611331 [ INFO] leader sends <22>
+40:10.456611331 [ INFO] leader sends 22
 40:10.457518489 [ INFO] follower appended <22>
 40:10.457569027 [ INFO] follower commited 20
 40:10.457570708 [ INFO] follower appended <22>
@@ -2677,7 +2677,7 @@
 40:10.457589329 [ INFO] follower appended <22>
 40:10.457637504 [ INFO] follower commited 20
 40:10.561945372 [ INFO] leader commited 21
-40:10.562003124 [ INFO] leader sends <23>
+40:10.562003124 [ INFO] leader sends 23
 40:10.562156952 [ INFO] follower appended <23>
 40:10.562208323 [ INFO] follower commited 21
 40:10.562217090 [ INFO] follower appended <23>
@@ -2801,7 +2801,7 @@
 40:10.577519302 [ INFO] follower appended <23>
 40:10.577569434 [ INFO] follower commited 21
 40:10.666630618 [ INFO] leader commited 22
-40:10.666774939 [ INFO] leader sends <24>
+40:10.666774939 [ INFO] leader sends 24
 40:10.666996193 [ INFO] follower appended <24>
 40:10.667041787 [ INFO] follower appended <24>
 40:10.667050942 [ INFO] follower commited 22
@@ -2925,7 +2925,7 @@
 40:10.666896936 [ INFO] follower appended <24>
 40:10.666947570 [ INFO] follower commited 22
 40:10.771251598 [ INFO] leader commited 23
-40:10.771434792 [ INFO] leader sends <25>
+40:10.771434792 [ INFO] leader sends 25
 40:10.771646475 [ INFO] follower appended <25>
 40:10.771696371 [ INFO] follower commited 23
 40:10.771705637 [ INFO] follower appended <25>
@@ -3049,7 +3049,7 @@
 40:10.772090307 [ INFO] follower appended <25>
 40:10.772140311 [ INFO] follower commited 23
 40:10.876449223 [ INFO] leader commited 24
-40:10.876504114 [ INFO] leader sends <26>
+40:10.876504114 [ INFO] leader sends 26
 40:10.876660040 [ INFO] follower appended <26>
 40:10.876708883 [ INFO] follower commited 24
 40:10.876719384 [ INFO] follower appended <26>
@@ -3173,7 +3173,7 @@
 40:10.877528817 [ INFO] follower appended <26>
 40:10.877576480 [ INFO] follower commited 24
 40:10.981886200 [ INFO] leader commited 25
-40:10.981938537 [ INFO] leader sends <27>
+40:10.981938537 [ INFO] leader sends 27
 40:10.982093740 [ INFO] follower appended <27>
 40:10.982143946 [ INFO] follower commited 25
 40:10.982146184 [ INFO] follower appended <27>
@@ -3297,7 +3297,7 @@
 40:10.982337596 [ INFO] follower appended <27>
 40:10.982387596 [ INFO] follower commited 25
 40:11.086693418 [ INFO] leader commited 26
-40:11.086743138 [ INFO] leader sends <28>
+40:11.086743138 [ INFO] leader sends 28
 40:11.086952645 [ INFO] follower appended <28>
 40:11.087010152 [ INFO] follower commited 26
 40:11.086964719 [ INFO] follower appended <28>
@@ -3421,7 +3421,7 @@
 40:11.087091464 [ INFO] follower appended <28>
 40:11.087141972 [ INFO] follower commited 26
 40:11.191458295 [ INFO] leader commited 27
-40:11.191517874 [ INFO] leader sends <29>
+40:11.191517874 [ INFO] leader sends 29
 40:11.191751387 [ INFO] follower appended <29>
 40:11.191804175 [ INFO] follower commited 27
 40:11.191730842 [ INFO] follower appended <29>
@@ -3545,7 +3545,7 @@
 40:11.192350840 [ INFO] follower appended <29>
 40:11.192399275 [ INFO] follower commited 27
 40:11.296712509 [ INFO] leader commited 28
-40:11.296767354 [ INFO] leader sends <30>
+40:11.296767354 [ INFO] leader sends 30
 40:11.296920986 [ INFO] follower appended <30>
 40:11.296970555 [ INFO] follower commited 28
 40:11.296972427 [ INFO] follower appended <30>
@@ -3669,7 +3669,7 @@
 40:11.297043655 [ INFO] follower appended <30>
 40:11.297095910 [ INFO] follower commited 28
 40:11.401464733 [ INFO] leader commited 29
-40:11.401651993 [ INFO] leader sends <31>
+40:11.401651993 [ INFO] leader sends 31
 40:11.401880041 [ INFO] follower appended <31>
 40:11.401933924 [ INFO] follower commited 29
 40:11.401930823 [ INFO] follower appended <31>
@@ -3793,7 +3793,7 @@
 40:11.402211049 [ INFO] follower appended <31>
 40:11.402258648 [ INFO] follower commited 29
 40:11.506581807 [ INFO] leader commited 30
-40:11.506631283 [ INFO] leader sends <32>
+40:11.506631283 [ INFO] leader sends 32
 40:11.506795801 [ INFO] follower appended <32>
 40:11.506851367 [ INFO] follower commited 30
 40:11.506873657 [ INFO] follower appended <32>
@@ -3917,7 +3917,7 @@
 40:11.507385993 [ INFO] follower appended <32>
 40:11.507434239 [ INFO] follower commited 30
 40:11.611747731 [ INFO] leader commited 31
-40:11.611890225 [ INFO] leader sends <33>
+40:11.611890225 [ INFO] leader sends 33
 40:11.612163598 [ INFO] follower appended <33>
 40:11.612169832 [ INFO] follower appended <33>
 40:11.612225421 [ INFO] follower commited 31
@@ -4041,7 +4041,7 @@
 40:11.613059281 [ INFO] follower appended <33>
 40:11.613113059 [ INFO] follower commited 31
 40:11.717348183 [ INFO] leader commited 32
-40:11.717398733 [ INFO] leader sends <34>
+40:11.717398733 [ INFO] leader sends 34
 40:11.717558551 [ INFO] follower appended <34>
 40:11.717610462 [ INFO] follower commited 32
 40:11.717612671 [ INFO] follower appended <34>
@@ -4165,7 +4165,7 @@
 40:11.718229115 [ INFO] follower commited 32
 40:11.718275295 [ INFO] follower commited 32
 40:11.822567358 [ INFO] leader commited 33
-40:11.822616088 [ INFO] leader sends <35>
+40:11.822616088 [ INFO] leader sends 35
 40:11.822794430 [ INFO] follower appended <35>
 40:11.822852744 [ INFO] follower commited 33
 40:11.822843673 [ INFO] follower appended <35>
@@ -4289,7 +4289,7 @@
 40:11.823027657 [ INFO] follower commited 33
 40:11.823086093 [ INFO] follower commited 33
 40:11.927381788 [ INFO] leader commited 34
-40:11.927429812 [ INFO] leader sends <36>
+40:11.927429812 [ INFO] leader sends 36
 40:11.927589038 [ INFO] follower appended <36>
 40:11.927640596 [ INFO] follower commited 34
 40:11.927678883 [ INFO] follower appended <36>
@@ -4413,7 +4413,7 @@
 40:11.943285778 [ INFO] follower commited 34
 40:11.943284292 [ INFO] follower commited 34
 40:12.047585725 [ INFO] leader commited 35
-40:12.047770848 [ INFO] leader sends <37>
+40:12.047770848 [ INFO] leader sends 37
 40:12.047987685 [ INFO] follower appended <37>
 40:12.048041149 [ INFO] follower commited 35
 40:12.048053293 [ INFO] follower appended <37>
@@ -4537,7 +4537,7 @@
 40:12.048165519 [ INFO] follower commited 35
 40:12.048227570 [ INFO] follower commited 35
 40:12.152519431 [ INFO] leader commited 36
-40:12.152568498 [ INFO] leader sends <38>
+40:12.152568498 [ INFO] leader sends 38
 40:12.152773101 [ INFO] follower appended <38>
 40:12.152828281 [ INFO] follower commited 36
 40:12.152826072 [ INFO] follower appended <38>
@@ -4661,7 +4661,7 @@
 40:12.154289718 [ INFO] follower appended <38>
 40:12.154361525 [ INFO] follower commited 36
 40:12.258641734 [ INFO] leader commited 37
-40:12.258807922 [ INFO] leader sends <39>
+40:12.258807922 [ INFO] leader sends 39
 40:12.259017481 [ INFO] follower appended <39>
 40:12.259069971 [ INFO] follower commited 37
 40:12.259081932 [ INFO] follower appended <39>
@@ -4785,7 +4785,7 @@
 40:12.259203463 [ INFO] follower appended <39>
 40:12.259253627 [ INFO] follower commited 37
 40:12.363564896 [ INFO] leader commited 38
-40:12.363617181 [ INFO] leader sends <40>
+40:12.363617181 [ INFO] leader sends 40
 40:12.363791986 [ INFO] follower appended <40>
 40:12.363844474 [ INFO] follower commited 38
 40:12.363838929 [ INFO] follower appended <40>
@@ -4909,7 +4909,7 @@
 40:12.365073855 [ INFO] follower appended <40>
 40:12.365121958 [ INFO] follower commited 38
 40:12.469292494 [ INFO] leader commited 39
-40:12.469353274 [ INFO] leader sends <41>
+40:12.469353274 [ INFO] leader sends 41
 40:12.469636844 [ INFO] follower appended <41>
 40:12.469692336 [ INFO] follower commited 39
 40:12.469602236 [ INFO] follower appended <41>
@@ -5033,7 +5033,7 @@
 40:12.471858723 [ INFO] follower appended <41>
 40:12.471908851 [ INFO] follower commited 39
 40:12.575990380 [ INFO] leader commited 40
-40:12.576044478 [ INFO] leader sends <42>
+40:12.576044478 [ INFO] leader sends 42
 40:12.576199077 [ INFO] follower appended <42>
 40:12.576248298 [ INFO] follower commited 40
 40:12.576248233 [ INFO] follower appended <42>
@@ -5157,7 +5157,7 @@
 40:12.577185682 [ INFO] follower appended <42>
 40:12.577236031 [ INFO] follower commited 40
 40:12.681531257 [ INFO] leader commited 41
-40:12.681582761 [ INFO] leader sends <43>
+40:12.681582761 [ INFO] leader sends 43
 40:12.681740750 [ INFO] follower appended <43>
 40:12.681792916 [ INFO] follower commited 41
 40:12.681791302 [ INFO] follower appended <43>
@@ -5281,7 +5281,7 @@
 40:12.682190103 [ INFO] follower appended <43>
 40:12.682237527 [ INFO] follower commited 41
 40:12.786555402 [ INFO] leader commited 42
-40:12.786604070 [ INFO] leader sends <44>
+40:12.786604070 [ INFO] leader sends 44
 40:12.786772987 [ INFO] follower appended <44>
 40:12.786822675 [ INFO] follower commited 42
 40:12.786820131 [ INFO] follower appended <44>
@@ -5405,7 +5405,7 @@
 40:12.787219821 [ INFO] follower appended <44>
 40:12.787266521 [ INFO] follower commited 42
 40:12.891591233 [ INFO] leader commited 43
-40:12.891750401 [ INFO] leader sends <45>
+40:12.891750401 [ INFO] leader sends 45
 40:12.892004110 [ INFO] follower appended <45>
 40:12.892054237 [ INFO] follower commited 43
 40:12.892057307 [ INFO] follower appended <45>
@@ -5529,7 +5529,7 @@
 40:12.892938010 [ INFO] follower commited 43
 40:12.892990953 [ INFO] follower commited 43
 40:12.997302498 [ INFO] leader commited 44
-40:12.997350393 [ INFO] leader sends <46>
+40:12.997350393 [ INFO] leader sends 46
 40:12.997519668 [ INFO] follower appended <46>
 40:12.997571340 [ INFO] follower commited 44
 40:12.997567412 [ INFO] follower appended <46>
@@ -5653,7 +5653,7 @@
 40:12.998136753 [ INFO] follower appended <46>
 40:12.998188802 [ INFO] follower commited 44
 40:13.102665580 [ INFO] leader commited 45
-40:13.102711936 [ INFO] leader sends <47>
+40:13.102711936 [ INFO] leader sends 47
 40:13.102865015 [ INFO] follower appended <47>
 40:13.102914283 [ INFO] follower commited 45
 40:13.102914443 [ INFO] follower appended <47>
@@ -5777,7 +5777,7 @@
 40:13.103558532 [ INFO] follower appended <47>
 40:13.103608048 [ INFO] follower commited 45
 40:13.207927963 [ INFO] leader commited 46
-40:13.208072328 [ INFO] leader sends <48>
+40:13.208072328 [ INFO] leader sends 48
 40:13.208288792 [ INFO] follower appended <48>
 40:13.208337824 [ INFO] follower commited 46
 40:13.208354985 [ INFO] follower appended <48>
@@ -5901,7 +5901,7 @@
 40:13.208917600 [ INFO] follower appended <48>
 40:13.208964922 [ INFO] follower commited 46
 40:13.313273862 [ INFO] leader commited 47
-40:13.313321232 [ INFO] leader sends <49>
+40:13.313321232 [ INFO] leader sends 49
 40:13.313540240 [ INFO] follower appended <49>
 40:13.313594095 [ INFO] follower commited 47
 40:13.313536636 [ INFO] follower appended <49>
@@ -6025,7 +6025,7 @@
 40:13.314603290 [ INFO] follower appended <49>
 40:13.314659138 [ INFO] follower commited 47
 40:13.418619215 [ INFO] leader commited 48
-40:13.418666415 [ INFO] leader sends <50>
+40:13.418666415 [ INFO] leader sends 50
 40:13.418842983 [ INFO] follower appended <50>
 40:13.418899223 [ INFO] follower commited 48
 40:13.418936313 [ INFO] follower appended <50>
@@ -6149,7 +6149,7 @@
 40:13.419474905 [ INFO] follower appended <50>
 40:13.419523341 [ INFO] follower commited 48
 40:13.523604546 [ INFO] leader commited 49
-40:13.523770782 [ INFO] leader sends <51>
+40:13.523770782 [ INFO] leader sends 51
 40:13.524002625 [ INFO] follower appended <51>
 40:13.524052930 [ INFO] follower commited 49
 40:13.524063468 [ INFO] follower appended <51>
@@ -6273,7 +6273,7 @@
 40:13.524513796 [ INFO] follower appended <51>
 40:13.524567514 [ INFO] follower commited 49
 40:13.629519344 [ INFO] leader commited 50
-40:13.629571125 [ INFO] leader sends <52>
+40:13.629571125 [ INFO] leader sends 52
 40:13.629724701 [ INFO] follower appended <52>
 40:13.629775420 [ INFO] follower commited 50
 40:13.629774108 [ INFO] follower appended <52>
@@ -6397,7 +6397,7 @@
 40:13.630004648 [ INFO] follower appended <52>
 40:13.630061601 [ INFO] follower commited 50
 40:13.734349153 [ INFO] leader commited 51
-40:13.734401744 [ INFO] leader sends <53>
+40:13.734401744 [ INFO] leader sends 53
 40:13.734561496 [ INFO] follower appended <53>
 40:13.734615863 [ INFO] follower commited 51
 40:13.734614405 [ INFO] follower appended <53>
@@ -6521,7 +6521,7 @@
 40:13.734898095 [ INFO] follower appended <53>
 40:13.734948293 [ INFO] follower commited 51
 40:13.839245336 [ INFO] leader commited 52
-40:13.839295334 [ INFO] leader sends <54>
+40:13.839295334 [ INFO] leader sends 54
 40:13.839732226 [ INFO] follower appended <54>
 40:13.839794245 [ INFO] follower commited 52
 40:13.839767909 [ INFO] follower appended <54>
@@ -6645,7 +6645,7 @@
 40:13.839740205 [ INFO] follower appended <54>
 40:13.839786631 [ INFO] follower commited 52
 40:13.958523771 [ INFO] leader commited 53
-40:13.958576431 [ INFO] leader sends <55>
+40:13.958576431 [ INFO] leader sends 55
 40:13.958740909 [ INFO] follower appended <55>
 40:13.958796007 [ INFO] follower commited 53
 40:13.958788409 [ INFO] follower appended <55>
@@ -6769,7 +6769,7 @@
 40:13.960065062 [ INFO] follower appended <55>
 40:13.960128477 [ INFO] follower commited 53
 40:14.064417872 [ INFO] leader commited 54
-40:14.064473674 [ INFO] leader sends <56>
+40:14.064473674 [ INFO] leader sends 56
 40:14.064627378 [ INFO] follower appended <56>
 40:14.064675679 [ INFO] follower commited 54
 40:14.064677693 [ INFO] follower appended <56>
@@ -6893,7 +6893,7 @@
 40:14.077566902 [ INFO] follower appended <56>
 40:14.077618619 [ INFO] follower commited 54
 40:14.169989900 [ INFO] leader commited 55
-40:14.170036617 [ INFO] leader sends <57>
+40:14.170036617 [ INFO] leader sends 57
 40:14.170203164 [ INFO] follower appended <57>
 40:14.170252455 [ INFO] follower commited 55
 40:14.170257416 [ INFO] follower appended <57>
@@ -7017,7 +7017,7 @@
 40:14.170930471 [ INFO] follower commited 55
 40:14.170974432 [ INFO] follower commited 55
 40:14.275283843 [ INFO] leader commited 56
-40:14.275328731 [ INFO] leader sends <58>
+40:14.275328731 [ INFO] leader sends 58
 40:14.275491609 [ INFO] follower appended <58>
 40:14.275542187 [ INFO] follower commited 56
 40:14.275552672 [ INFO] follower appended <58>
@@ -7141,7 +7141,7 @@
 40:14.276405088 [ INFO] follower appended <58>
 40:14.276450944 [ INFO] follower commited 56
 40:14.380765761 [ INFO] leader commited 57
-40:14.380812647 [ INFO] leader sends <59>
+40:14.380812647 [ INFO] leader sends 59
 40:14.380979255 [ INFO] follower appended <59>
 40:14.381029083 [ INFO] follower commited 57
 40:14.381044376 [ INFO] follower appended <59>
@@ -7265,7 +7265,7 @@
 40:14.386031665 [ INFO] follower appended <59>
 40:14.386083253 [ INFO] follower commited 57
 40:14.486758549 [ INFO] leader commited 58
-40:14.486805631 [ INFO] leader sends <60>
+40:14.486805631 [ INFO] leader sends 60
 40:14.486943280 [ INFO] follower appended <60>
 40:14.486992189 [ INFO] follower commited 58
 40:14.486998039 [ INFO] follower appended <60>
@@ -7389,7 +7389,7 @@
 40:14.487331246 [ INFO] follower appended <60>
 40:14.487381864 [ INFO] follower commited 58
 40:14.591688182 [ INFO] leader commited 59
-40:14.591735406 [ INFO] leader sends <61>
+40:14.591735406 [ INFO] leader sends 61
 40:14.591933066 [ INFO] follower appended <61>
 40:14.591987388 [ INFO] follower commited 59
 40:14.591939980 [ INFO] follower appended <61>
@@ -7513,7 +7513,7 @@
 40:14.593086165 [ INFO] follower appended <61>
 40:14.593131223 [ INFO] follower commited 59
 40:14.697251800 [ INFO] leader commited 60
-40:14.697440416 [ INFO] leader sends <62>
+40:14.697440416 [ INFO] leader sends 62
 40:14.697675129 [ INFO] follower appended <62>
 40:14.697723801 [ INFO] follower commited 60
 40:14.697725997 [ INFO] follower appended <62>
@@ -7637,7 +7637,7 @@
 40:14.700907778 [ INFO] follower appended <62>
 40:14.700953201 [ INFO] follower commited 60
 40:14.805362383 [ INFO] leader commited 61
-40:14.805418504 [ INFO] leader sends <63>
+40:14.805418504 [ INFO] leader sends 63
 40:14.805595108 [ INFO] follower appended <63>
 40:14.805645893 [ INFO] follower commited 61
 40:14.805658621 [ INFO] follower appended <63>
@@ -7761,7 +7761,7 @@
 40:14.807194904 [ INFO] follower appended <63>
 40:14.807245875 [ INFO] follower commited 61
 40:14.911552286 [ INFO] leader commited 62
-40:14.911604076 [ INFO] leader sends <64>
+40:14.911604076 [ INFO] leader sends 64
 40:14.911804246 [ INFO] follower appended <64>
 40:14.911856698 [ INFO] follower commited 62
 40:14.911856576 [ INFO] follower appended <64>
@@ -7885,7 +7885,7 @@
 40:14.913105521 [ INFO] follower appended <64>
 40:14.913162467 [ INFO] follower commited 62
 40:15.017466502 [ INFO] leader commited 63
-40:15.017519741 [ INFO] leader sends <65>
+40:15.017519741 [ INFO] leader sends 65
 40:15.017671775 [ INFO] follower appended <65>
 40:15.017723180 [ INFO] follower commited 63
 40:15.017723708 [ INFO] follower appended <65>
@@ -8009,7 +8009,7 @@
 40:15.020357882 [ INFO] follower appended <65>
 40:15.020408553 [ INFO] follower commited 63
 40:15.124717534 [ INFO] leader commited 64
-40:15.124862310 [ INFO] leader sends <66>
+40:15.124862310 [ INFO] leader sends 66
 40:15.125069524 [ INFO] follower appended <66>
 40:15.125121536 [ INFO] follower commited 64
 40:15.125126951 [ INFO] follower appended <66>
@@ -8133,7 +8133,7 @@
 40:15.126038588 [ INFO] follower appended <66>
 40:15.126085202 [ INFO] follower commited 64
 40:15.230407698 [ INFO] leader commited 65
-40:15.230548123 [ INFO] leader sends <67>
+40:15.230548123 [ INFO] leader sends 67
 40:15.230793690 [ INFO] follower appended <67>
 40:15.230843559 [ INFO] follower commited 65
 40:15.230854164 [ INFO] follower appended <67>
@@ -8257,7 +8257,7 @@
 40:15.232499515 [ INFO] follower appended <67>
 40:15.232551489 [ INFO] follower commited 65
 40:15.336877234 [ INFO] leader commited 66
-40:15.336941722 [ INFO] leader sends <68>
+40:15.336941722 [ INFO] leader sends 68
 40:15.337124430 [ INFO] follower appended <68>
 40:15.337175041 [ INFO] follower commited 66
 40:15.337227624 [ INFO] follower appended <68>
@@ -8381,7 +8381,7 @@
 40:15.338183625 [ INFO] follower commited 66
 40:15.338196182 [ INFO] follower commited 66
 40:15.442492728 [ INFO] leader commited 67
-40:15.442539708 [ INFO] leader sends <69>
+40:15.442539708 [ INFO] leader sends 69
 40:15.442752226 [ INFO] follower appended <69>
 40:15.442808054 [ INFO] follower commited 67
 40:15.442738963 [ INFO] follower appended <69>
@@ -8505,7 +8505,7 @@
 40:15.443561482 [ INFO] follower appended <69>
 40:15.443616595 [ INFO] follower commited 67
 40:15.547851460 [ INFO] leader commited 68
-40:15.547896289 [ INFO] leader sends <70>
+40:15.547896289 [ INFO] leader sends 70
 40:15.548067050 [ INFO] follower appended <70>
 40:15.548123247 [ INFO] follower commited 68
 40:15.548126080 [ INFO] follower appended <70>
@@ -8629,7 +8629,7 @@
 40:15.549647713 [ INFO] follower commited 68
 40:15.549639760 [ INFO] follower commited 68
 40:15.653960139 [ INFO] leader commited 69
-40:15.654114428 [ INFO] leader sends <71>
+40:15.654114428 [ INFO] leader sends 71
 40:15.654351860 [ INFO] follower appended <71>
 40:15.654391996 [ INFO] follower appended <71>
 40:15.654444976 [ INFO] follower commited 69
@@ -8753,7 +8753,7 @@
 40:15.655109212 [ INFO] follower appended <71>
 40:15.655167481 [ INFO] follower commited 69
 40:15.759293243 [ INFO] leader commited 70
-40:15.759344245 [ INFO] leader sends <72>
+40:15.759344245 [ INFO] leader sends 72
 40:15.759507939 [ INFO] follower appended <72>
 40:15.759564481 [ INFO] follower commited 70
 40:15.759545970 [ INFO] follower appended <72>
@@ -8877,7 +8877,7 @@
 40:15.760928117 [ INFO] follower appended <72>
 40:15.760985224 [ INFO] follower commited 70
 40:15.865100928 [ INFO] leader commited 71
-40:15.865154868 [ INFO] leader sends <73>
+40:15.865154868 [ INFO] leader sends 73
 40:15.865333734 [ INFO] follower appended <73>
 40:15.865388995 [ INFO] follower commited 71
 40:15.865388995 [ INFO] follower appended <73>
@@ -9001,7 +9001,7 @@
 40:15.866128287 [ INFO] follower appended <73>
 40:15.866176223 [ INFO] follower commited 71
 40:15.970495602 [ INFO] leader commited 72
-40:15.970541575 [ INFO] leader sends <74>
+40:15.970541575 [ INFO] leader sends 74
 40:15.970697866 [ INFO] follower appended <74>
 40:15.970752555 [ INFO] follower commited 72
 40:15.970745082 [ INFO] follower appended <74>
@@ -9125,7 +9125,7 @@
 40:15.971870381 [ INFO] follower appended <74>
 40:15.971918355 [ INFO] follower commited 72
 40:16.076235852 [ INFO] leader commited 73
-40:16.076285462 [ INFO] leader sends <75>
+40:16.076285462 [ INFO] leader sends 75
 40:16.076460776 [ INFO] follower appended <75>
 40:16.076513928 [ INFO] follower commited 73
 40:16.076506240 [ INFO] follower appended <75>
@@ -9249,7 +9249,7 @@
 40:16.077465427 [ INFO] follower commited 73
 40:16.077529549 [ INFO] follower commited 73
 40:16.181840335 [ INFO] leader commited 74
-40:16.181892508 [ INFO] leader sends <76>
+40:16.181892508 [ INFO] leader sends 76
 40:16.182046023 [ INFO] follower appended <76>
 40:16.182098196 [ INFO] follower commited 74
 40:16.182096764 [ INFO] follower appended <76>
@@ -9373,7 +9373,7 @@
 40:16.201545343 [ INFO] follower appended <76>
 40:16.201597720 [ INFO] follower commited 74
 40:16.287077929 [ INFO] leader commited 75
-40:16.287131088 [ INFO] leader sends <77>
+40:16.287131088 [ INFO] leader sends 77
 40:16.287300940 [ INFO] follower appended <77>
 40:16.287352612 [ INFO] follower commited 75
 40:16.287342957 [ INFO] follower appended <77>
@@ -9497,7 +9497,7 @@
 40:16.288969498 [ INFO] follower appended <77>
 40:16.289022053 [ INFO] follower commited 75
 40:16.393317935 [ INFO] leader commited 76
-40:16.393364132 [ INFO] leader sends <78>
+40:16.393364132 [ INFO] leader sends 78
 40:16.393519468 [ INFO] follower appended <78>
 40:16.393567870 [ INFO] follower commited 76
 40:16.393571244 [ INFO] follower appended <78>
@@ -9621,7 +9621,7 @@
 40:16.395750548 [ INFO] follower commited 76
 40:16.395798969 [ INFO] follower commited 76
 40:16.500113899 [ INFO] leader commited 77
-40:16.500164722 [ INFO] leader sends <79>
+40:16.500164722 [ INFO] leader sends 79
 40:16.501526687 [ INFO] follower appended <79>
 40:16.501574418 [ INFO] follower commited 77
 40:16.501620820 [ INFO] follower appended <79>
@@ -9745,7 +9745,7 @@
 40:16.501945209 [ INFO] follower appended <79>
 40:16.501995575 [ INFO] follower commited 77
 40:16.606684028 [ INFO] leader commited 78
-40:16.606736738 [ INFO] leader sends <80>
+40:16.606736738 [ INFO] leader sends 80
 40:16.606892645 [ INFO] follower appended <80>
 40:16.606942178 [ INFO] follower commited 78
 40:16.606952476 [ INFO] follower appended <80>
@@ -9869,7 +9869,7 @@
 40:16.607764644 [ INFO] follower appended <80>
 40:16.607816632 [ INFO] follower commited 78
 40:16.712144924 [ INFO] leader commited 79
-40:16.712198553 [ INFO] leader sends <81>
+40:16.712198553 [ INFO] leader sends 81
 40:16.712351107 [ INFO] follower appended <81>
 40:16.712399659 [ INFO] follower commited 79
 40:16.712406793 [ INFO] follower appended <81>
@@ -9993,7 +9993,7 @@
 40:16.713031104 [ INFO] follower commited 79
 40:16.713081250 [ INFO] follower commited 79
 40:16.825535876 [ INFO] leader commited 80
-40:16.825589325 [ INFO] leader sends <82>
+40:16.825589325 [ INFO] leader sends 82
 40:16.825735910 [ INFO] follower appended <82>
 40:16.825784130 [ INFO] follower commited 80
 40:16.825838230 [ INFO] follower appended <82>
@@ -10117,7 +10117,7 @@
 40:16.826464716 [ INFO] follower appended <82>
 40:16.826538831 [ INFO] follower commited 80
 40:16.930830065 [ INFO] leader commited 81
-40:16.930882595 [ INFO] leader sends <83>
+40:16.930882595 [ INFO] leader sends 83
 40:16.931041169 [ INFO] follower appended <83>
 40:16.931089829 [ INFO] follower commited 81
 40:16.931099890 [ INFO] follower appended <83>
@@ -10241,7 +10241,7 @@
 40:16.931838427 [ INFO] follower appended <83>
 40:16.931890902 [ INFO] follower commited 81
 40:17.041524137 [ INFO] leader commited 82
-40:17.041577612 [ INFO] leader sends <84>
+40:17.041577612 [ INFO] leader sends 84
 40:17.065523621 [ INFO] follower appended <84>
 40:17.065571240 [ INFO] follower commited 82
 40:17.065589744 [ INFO] follower appended <84>
@@ -10365,7 +10365,7 @@
 40:17.065950047 [ INFO] follower commited 82
 40:17.065809465 [ INFO] follower commited 82
 40:17.170320501 [ INFO] leader commited 83
-40:17.170380049 [ INFO] leader sends <85>
+40:17.170380049 [ INFO] leader sends 85
 40:17.170539677 [ INFO] follower appended <85>
 40:17.170590007 [ INFO] follower commited 83
 40:17.170602507 [ INFO] follower appended <85>
@@ -10489,7 +10489,7 @@
 40:17.172398041 [ INFO] follower appended <85>
 40:17.172447751 [ INFO] follower commited 83
 40:17.276766484 [ INFO] leader commited 84
-40:17.276824762 [ INFO] leader sends <86>
+40:17.276824762 [ INFO] leader sends 86
 40:17.276968761 [ INFO] follower appended <86>
 40:17.277018881 [ INFO] follower commited 84
 40:17.277037364 [ INFO] follower appended <86>
@@ -10613,7 +10613,7 @@
 40:17.278575294 [ INFO] follower appended <86>
 40:17.278623343 [ INFO] follower commited 84
 40:17.382944739 [ INFO] leader commited 85
-40:17.383145324 [ INFO] leader sends <87>
+40:17.383145324 [ INFO] leader sends 87
 40:17.383376099 [ INFO] follower appended <87>
 40:17.383422966 [ INFO] follower commited 85
 40:17.383433774 [ INFO] follower appended <87>
@@ -10737,7 +10737,7 @@
 40:17.384589093 [ INFO] follower appended <87>
 40:17.384632632 [ INFO] follower commited 85
 40:17.489195464 [ INFO] leader commited 86
-40:17.489249843 [ INFO] leader sends <88>
+40:17.489249843 [ INFO] leader sends 88
 40:17.489403092 [ INFO] follower appended <88>
 40:17.489458132 [ INFO] follower commited 86
 40:17.489458953 [ INFO] follower appended <88>
@@ -10861,7 +10861,7 @@
 40:17.490845201 [ INFO] follower appended <88>
 40:17.490889204 [ INFO] follower commited 86
 40:17.595311386 [ INFO] leader commited 87
-40:17.595505284 [ INFO] leader sends <89>
+40:17.595505284 [ INFO] leader sends 89
 40:17.595722528 [ INFO] follower appended <89>
 40:17.595772401 [ INFO] follower commited 87
 40:17.595823860 [ INFO] follower appended <89>
@@ -10985,7 +10985,7 @@
 40:17.598640256 [ INFO] follower appended <89>
 40:17.598693306 [ INFO] follower commited 87
 40:17.702820307 [ INFO] leader commited 88
-40:17.702877060 [ INFO] leader sends <90>
+40:17.702877060 [ INFO] leader sends 90
 40:17.703022348 [ INFO] follower appended <90>
 40:17.703068525 [ INFO] follower commited 88
 40:17.703078416 [ INFO] follower appended <90>
@@ -11109,7 +11109,7 @@
 40:17.706136071 [ INFO] follower appended <90>
 40:17.706182788 [ INFO] follower commited 88
 40:17.810499979 [ INFO] leader commited 89
-40:17.810554314 [ INFO] leader sends <91>
+40:17.810554314 [ INFO] leader sends 91
 40:17.810717731 [ INFO] follower appended <91>
 40:17.810770959 [ INFO] follower commited 89
 40:17.810787142 [ INFO] follower appended <91>
@@ -11233,7 +11233,7 @@
 40:17.813346941 [ INFO] follower appended <91>
 40:17.813405842 [ INFO] follower commited 89
 40:17.917566110 [ INFO] leader commited 90
-40:17.917723940 [ INFO] leader sends <92>
+40:17.917723940 [ INFO] leader sends 92
 40:17.917943772 [ INFO] follower appended <92>
 40:17.917992213 [ INFO] follower commited 90
 40:17.918004194 [ INFO] follower appended <92>
@@ -11357,7 +11357,7 @@
 40:17.919951537 [ INFO] follower appended <92>
 40:17.920008935 [ INFO] follower commited 90
 40:18.024093246 [ INFO] leader commited 91
-40:18.024146461 [ INFO] leader sends <93>
+40:18.024146461 [ INFO] leader sends 93
 40:18.024292746 [ INFO] follower appended <93>
 40:18.024341078 [ INFO] follower commited 91
 40:18.024349201 [ INFO] follower appended <93>
@@ -11481,7 +11481,7 @@
 40:18.025550574 [ INFO] follower commited 91
 40:18.025588083 [ INFO] follower commited 91
 40:18.129915149 [ INFO] leader commited 92
-40:18.129975062 [ INFO] leader sends <94>
+40:18.129975062 [ INFO] leader sends 94
 40:18.130147217 [ INFO] follower appended <94>
 40:18.130202177 [ INFO] follower commited 92
 40:18.130210222 [ INFO] follower appended <94>
@@ -11605,7 +11605,7 @@
 40:18.132267752 [ INFO] follower appended <94>
 40:18.132321368 [ INFO] follower commited 92
 40:18.236085615 [ INFO] leader commited 93
-40:18.236136433 [ INFO] leader sends <95>
+40:18.236136433 [ INFO] leader sends 95
 40:18.236303774 [ INFO] follower appended <95>
 40:18.236356672 [ INFO] follower commited 93
 40:18.236368974 [ INFO] follower appended <95>
@@ -11729,7 +11729,7 @@
 40:18.238498418 [ INFO] follower appended <95>
 40:18.238585727 [ INFO] follower commited 93
 40:18.342622423 [ INFO] leader commited 94
-40:18.342672912 [ INFO] leader sends <96>
+40:18.342672912 [ INFO] leader sends 96
 40:18.342874417 [ INFO] follower appended <96>
 40:18.342926558 [ INFO] follower commited 94
 40:18.342877460 [ INFO] follower appended <96>
@@ -11853,7 +11853,7 @@
 40:18.345316723 [ INFO] follower appended <96>
 40:18.345370018 [ INFO] follower commited 94
 40:18.449644154 [ INFO] leader commited 95
-40:18.449833459 [ INFO] leader sends <97>
+40:18.449833459 [ INFO] leader sends 97
 40:18.450063492 [ INFO] follower appended <97>
 40:18.450114638 [ INFO] follower commited 95
 40:18.450124193 [ INFO] follower appended <97>
@@ -11977,7 +11977,7 @@
 40:18.451734922 [ INFO] follower appended <97>
 40:18.451792590 [ INFO] follower commited 95
 40:18.556078724 [ INFO] leader commited 96
-40:18.556132792 [ INFO] leader sends <98>
+40:18.556132792 [ INFO] leader sends 98
 40:18.557522808 [ INFO] follower appended <98>
 40:18.557575668 [ INFO] follower commited 96
 40:18.557576229 [ INFO] follower appended <98>
@@ -12101,7 +12101,7 @@
 40:18.559187006 [ INFO] follower appended <98>
 40:18.559239554 [ INFO] follower commited 96
 40:18.663541416 [ INFO] leader commited 97
-40:18.663592869 [ INFO] leader sends <99>
+40:18.663592869 [ INFO] leader sends 99
 40:18.663749910 [ INFO] follower appended <99>
 40:18.663802290 [ INFO] follower commited 97
 40:18.663812872 [ INFO] follower appended <99>
@@ -12225,7 +12225,7 @@
 40:18.665668066 [ INFO] follower appended <99>
 40:18.665725704 [ INFO] follower commited 97
 40:18.770017402 [ INFO] leader commited 98
-40:18.770080267 [ INFO] leader sends <100>
+40:18.770080267 [ INFO] leader sends 100
 40:18.770229405 [ INFO] follower appended <100>
 40:18.770277397 [ INFO] follower commited 98
 40:18.770285686 [ INFO] follower appended <100>
@@ -12349,7 +12349,7 @@
 40:18.771559777 [ INFO] follower appended <100>
 40:18.771612951 [ INFO] follower commited 98
 40:18.875922490 [ INFO] leader commited 99
-40:18.876114783 [ INFO] leader sends <101>
+40:18.876114783 [ INFO] leader sends 101
 40:18.876346918 [ INFO] follower appended <101>
 40:18.876397871 [ INFO] follower commited 99
 40:18.876402553 [ INFO] follower appended <101>
@@ -12473,7 +12473,7 @@
 40:18.894253081 [ INFO] follower appended <101>
 40:18.894305041 [ INFO] follower commited 99
 40:18.998481521 [ INFO] leader commited 100
-40:18.998537748 [ INFO] leader sends <102>
+40:18.998537748 [ INFO] leader sends 102
 40:19.009519613 [ INFO] follower appended <102>
 40:19.009574007 [ INFO] follower commited 100
 40:19.009571512 [ INFO] follower appended <102>
@@ -12597,7 +12597,7 @@
 40:19.011189639 [ INFO] follower appended <102>
 40:19.011238137 [ INFO] follower commited 100
 40:19.115683684 [ INFO] leader commited 101
-40:19.115869936 [ INFO] leader sends <103>
+40:19.115869936 [ INFO] leader sends 103
 40:19.116107734 [ INFO] follower appended <103>
 40:19.116162218 [ INFO] follower commited 101
 40:19.116154221 [ INFO] follower appended <103>
@@ -12721,7 +12721,7 @@
 40:19.118597977 [ INFO] follower appended <103>
 40:19.118646645 [ INFO] follower commited 101
 40:19.222995321 [ INFO] leader commited 102
-40:19.223049830 [ INFO] leader sends <104>
+40:19.223049830 [ INFO] leader sends 104
 40:19.223202490 [ INFO] follower appended <104>
 40:19.223252652 [ INFO] follower commited 102
 40:19.223252695 [ INFO] follower appended <104>
@@ -12845,7 +12845,7 @@
 40:19.228182563 [ INFO] follower appended <104>
 40:19.228244024 [ INFO] follower commited 102
 40:19.332351854 [ INFO] leader commited 103
-40:19.332404911 [ INFO] leader sends <105>
+40:19.332404911 [ INFO] leader sends 105
 40:19.332562986 [ INFO] follower appended <105>
 40:19.332617507 [ INFO] follower commited 103
 40:19.332614664 [ INFO] follower appended <105>
@@ -12969,7 +12969,7 @@
 40:19.334597331 [ INFO] follower appended <105>
 40:19.334651162 [ INFO] follower commited 103
 40:19.438925648 [ INFO] leader commited 104
-40:19.438977759 [ INFO] leader sends <106>
+40:19.438977759 [ INFO] leader sends 106
 40:19.439130701 [ INFO] follower appended <106>
 40:19.439183276 [ INFO] follower commited 104
 40:19.439175320 [ INFO] follower appended <106>
@@ -13093,7 +13093,7 @@
 40:19.441384900 [ INFO] follower appended <106>
 40:19.441435014 [ INFO] follower commited 104
 40:19.545535714 [ INFO] leader commited 105
-40:19.545589059 [ INFO] leader sends <107>
+40:19.545589059 [ INFO] leader sends 107
 40:19.545748975 [ INFO] follower appended <107>
 40:19.545800944 [ INFO] follower commited 105
 40:19.545797425 [ INFO] follower appended <107>
@@ -13217,7 +13217,7 @@
 40:19.561517949 [ INFO] follower appended <107>
 40:19.561567049 [ INFO] follower commited 105
 40:19.652071951 [ INFO] leader commited 106
-40:19.652127542 [ INFO] leader sends <108>
+40:19.652127542 [ INFO] leader sends 108
 40:19.652286945 [ INFO] follower appended <108>
 40:19.652340158 [ INFO] follower commited 106
 40:19.652340561 [ INFO] follower appended <108>
@@ -13341,7 +13341,7 @@
 40:19.654399690 [ INFO] follower appended <108>
 40:19.654453784 [ INFO] follower commited 106
 40:19.758762525 [ INFO] leader commited 107
-40:19.758818405 [ INFO] leader sends <109>
+40:19.758818405 [ INFO] leader sends 109
 40:19.758973790 [ INFO] follower appended <109>
 40:19.759022942 [ INFO] follower commited 107
 40:19.759040042 [ INFO] follower appended <109>
@@ -13465,7 +13465,7 @@
 40:19.762461573 [ INFO] follower appended <109>
 40:19.762509164 [ INFO] follower commited 107
 40:19.866832032 [ INFO] leader commited 108
-40:19.866969424 [ INFO] leader sends <110>
+40:19.866969424 [ INFO] leader sends 110
 40:19.881518234 [ INFO] follower appended <110>
 40:19.881572236 [ INFO] follower commited 108
 40:19.881569821 [ INFO] follower appended <110>
@@ -13589,7 +13589,7 @@
 40:19.886369473 [ INFO] follower commited 108
 40:19.886373052 [ INFO] follower commited 108
 40:19.990679353 [ INFO] leader commited 109
-40:19.990745684 [ INFO] leader sends <111>
+40:19.990745684 [ INFO] leader sends 111
 40:19.990900610 [ INFO] follower appended <111>
 40:19.990951072 [ INFO] follower commited 109
 40:19.990951020 [ INFO] follower appended <111>
@@ -13713,7 +13713,7 @@
 40:19.994897146 [ INFO] follower appended <111>
 40:19.994947218 [ INFO] follower commited 109
 40:20.099258421 [ INFO] leader commited 110
-40:20.099447608 [ INFO] leader sends <112>
+40:20.099447608 [ INFO] leader sends 112
 40:20.109511109 [ INFO] follower appended <112>
 40:20.109558115 [ INFO] follower commited 110
 40:20.109569477 [ INFO] follower appended <112>
@@ -13837,7 +13837,7 @@
 40:20.112826260 [ INFO] follower appended <112>
 40:20.112871578 [ INFO] follower commited 110
 40:20.217234979 [ INFO] leader commited 111
-40:20.217289722 [ INFO] leader sends <113>
+40:20.217289722 [ INFO] leader sends 113
 40:20.217437592 [ INFO] follower appended <113>
 40:20.217497622 [ INFO] follower commited 111
 40:20.217499537 [ INFO] follower appended <113>
@@ -13961,7 +13961,7 @@
 40:20.222124251 [ INFO] follower appended <113>
 40:20.222172561 [ INFO] follower commited 111
 40:20.326538682 [ INFO] leader commited 112
-40:20.326603507 [ INFO] leader sends <114>
+40:20.326603507 [ INFO] leader sends 114
 40:20.326757265 [ INFO] follower appended <114>
 40:20.326808403 [ INFO] follower commited 112
 40:20.326813274 [ INFO] follower appended <114>
@@ -14085,7 +14085,7 @@
 40:20.331865510 [ INFO] follower appended <114>
 40:20.331912605 [ INFO] follower commited 112
 40:20.436251090 [ INFO] leader commited 113
-40:20.436394700 [ INFO] leader sends <115>
+40:20.436394700 [ INFO] leader sends 115
 40:20.436614022 [ INFO] follower appended <115>
 40:20.436660158 [ INFO] follower commited 113
 40:20.436675963 [ INFO] follower appended <115>
@@ -14209,7 +14209,7 @@
 40:20.440864376 [ INFO] follower appended <115>
 40:20.440916891 [ INFO] follower commited 113
 40:20.545220526 [ INFO] leader commited 114
-40:20.545275230 [ INFO] leader sends <116>
+40:20.545275230 [ INFO] leader sends 116
 40:20.545435782 [ INFO] follower appended <116>
 40:20.545492671 [ INFO] follower commited 114
 40:20.545534834 [ INFO] follower appended <116>
@@ -14333,7 +14333,7 @@
 40:20.547307647 [ INFO] follower appended <116>
 40:20.547373058 [ INFO] follower commited 114
 40:20.651857306 [ INFO] leader commited 115
-40:20.651988161 [ INFO] leader sends <117>
+40:20.651988161 [ INFO] leader sends 117
 40:20.652221014 [ INFO] follower appended <117>
 40:20.652273093 [ INFO] follower commited 115
 40:20.652281062 [ INFO] follower appended <117>
@@ -14457,7 +14457,7 @@
 40:20.655268090 [ INFO] follower appended <117>
 40:20.655318960 [ INFO] follower commited 115
 40:20.759633209 [ INFO] leader commited 116
-40:20.759687047 [ INFO] leader sends <118>
+40:20.759687047 [ INFO] leader sends 118
 40:20.759842726 [ INFO] follower appended <118>
 40:20.759892844 [ INFO] follower commited 116
 40:20.759903737 [ INFO] follower appended <118>
@@ -14581,7 +14581,7 @@
 40:20.762661499 [ INFO] follower commited 116
 40:20.762622754 [ INFO] follower commited 116
 40:20.866983270 [ INFO] leader commited 117
-40:20.867038433 [ INFO] leader sends <119>
+40:20.867038433 [ INFO] leader sends 119
 40:20.867201517 [ INFO] follower appended <119>
 40:20.867255018 [ INFO] follower commited 117
 40:20.867258040 [ INFO] follower appended <119>
@@ -14705,7 +14705,7 @@
 40:20.871037279 [ INFO] follower appended <119>
 40:20.871088430 [ INFO] follower commited 117
 40:20.975402849 [ INFO] leader commited 118
-40:20.975596085 [ INFO] leader sends <120>
+40:20.975596085 [ INFO] leader sends 120
 40:20.975831099 [ INFO] follower appended <120>
 40:20.975882047 [ INFO] follower commited 118
 40:20.975882336 [ INFO] follower appended <120>
@@ -14829,7 +14829,7 @@
 40:20.979205163 [ INFO] follower appended <120>
 40:20.979255086 [ INFO] follower commited 118
 40:21.083573757 [ INFO] leader commited 119
-40:21.083630254 [ INFO] leader sends <121>
+40:21.083630254 [ INFO] leader sends 121
 40:21.083787804 [ INFO] follower appended <121>
 40:21.083838526 [ INFO] follower commited 119
 40:21.083845816 [ INFO] follower appended <121>
@@ -14953,7 +14953,7 @@
 40:21.086984963 [ INFO] follower appended <121>
 40:21.087038988 [ INFO] follower commited 119
 40:21.191344170 [ INFO] leader commited 120
-40:21.191395731 [ INFO] leader sends <122>
+40:21.191395731 [ INFO] leader sends 122
 40:21.191555732 [ INFO] follower appended <122>
 40:21.191609026 [ INFO] follower commited 120
 40:21.191616301 [ INFO] follower appended <122>
@@ -15077,7 +15077,7 @@
 40:21.196091266 [ INFO] follower appended <122>
 40:21.196148153 [ INFO] follower commited 120
 40:21.300022904 [ INFO] leader commited 121
-40:21.300226691 [ INFO] leader sends <123>
+40:21.300226691 [ INFO] leader sends 123
 40:21.300480403 [ INFO] follower appended <123>
 40:21.300529202 [ INFO] follower commited 121
 40:21.300539690 [ INFO] follower appended <123>
@@ -15201,7 +15201,7 @@
 40:21.303704742 [ INFO] follower appended <123>
 40:21.303753642 [ INFO] follower commited 121
 40:21.408066542 [ INFO] leader commited 122
-40:21.408251218 [ INFO] leader sends <124>
+40:21.408251218 [ INFO] leader sends 124
 40:21.408483535 [ INFO] follower appended <124>
 40:21.408534456 [ INFO] follower commited 122
 40:21.408534644 [ INFO] follower appended <124>
@@ -15325,7 +15325,7 @@
 40:21.410137049 [ INFO] follower appended <124>
 40:21.410189929 [ INFO] follower commited 122
 40:21.514595187 [ INFO] leader commited 123
-40:21.514649653 [ INFO] leader sends <125>
+40:21.514649653 [ INFO] leader sends 125
 40:21.514808145 [ INFO] follower appended <125>
 40:21.514854239 [ INFO] follower commited 123
 40:21.514863258 [ INFO] follower appended <125>
@@ -15449,7 +15449,7 @@
 40:21.516478224 [ INFO] follower appended <125>
 40:21.516524413 [ INFO] follower commited 123
 40:21.620834539 [ INFO] leader commited 124
-40:21.620883373 [ INFO] leader sends <126>
+40:21.620883373 [ INFO] leader sends 126
 40:21.625521952 [ INFO] follower appended <126>
 40:21.625572173 [ INFO] follower commited 124
 40:21.625573040 [ INFO] follower appended <126>
@@ -15573,7 +15573,7 @@
 40:21.628760904 [ INFO] follower appended <126>
 40:21.628812833 [ INFO] follower commited 124
 40:21.733116911 [ INFO] leader commited 125
-40:21.733169885 [ INFO] leader sends <127>
+40:21.733169885 [ INFO] leader sends 127
 40:21.733326325 [ INFO] follower appended <127>
 40:21.733376766 [ INFO] follower commited 125
 40:21.733387279 [ INFO] follower appended <127>
@@ -15697,7 +15697,7 @@
 40:21.735349192 [ INFO] follower appended <127>
 40:21.735399765 [ INFO] follower commited 125
 40:21.840098698 [ INFO] leader commited 126
-40:21.840152628 [ INFO] leader sends <128>
+40:21.840152628 [ INFO] leader sends 128
 40:21.840309506 [ INFO] follower appended <128>
 40:21.840356844 [ INFO] follower commited 126
 40:21.840360115 [ INFO] follower appended <128>
@@ -15821,7 +15821,7 @@
 40:21.843220066 [ INFO] follower appended <128>
 40:21.843270082 [ INFO] follower commited 126
 40:21.957525005 [ INFO] leader commited 127
-40:21.957583411 [ INFO] leader sends <129>
+40:21.957583411 [ INFO] leader sends 129
 40:21.989509170 [ INFO] follower appended <129>
 40:21.989567139 [ INFO] follower commited 127
 40:21.989575806 [ INFO] follower appended <129>
@@ -15952,7 +15952,7 @@
 40:22.203853520 [ INFO] [62] has timed out. starting new election...
 40:22.205618790 [ INFO] [47] has timed out. starting new election...
 40:22.232283935 [ INFO] [13] becomes leader with 33 votes
-40:22.341459990 [ INFO] leader sends <130>
+40:22.341459990 [ INFO] leader sends 130
 40:22.341626011 [ INFO] follower appended <130>
 40:22.341670244 [ INFO] follower appended <130>
 40:22.341715513 [ INFO] follower appended <130>
@@ -16016,7 +16016,7 @@
 40:22.357519338 [ INFO] follower appended <130>
 40:22.354896981 [ INFO] follower appended <130>
 40:22.358830027 [ INFO] follower appended <130>
-40:22.449463558 [ INFO] leader sends <131>
+40:22.449463558 [ INFO] leader sends 131
 40:22.449653396 [ INFO] follower appended <131>
 40:22.449693380 [ INFO] follower appended <131>
 40:22.449738151 [ INFO] follower appended <131>
@@ -16085,7 +16085,7 @@
 40:22.518825470 [ INFO] [47] candidate has timed out. starting new election...
 40:22.544434248 [ INFO] [62] candidate has timed out. starting new election...
 40:22.553550474 [ INFO] leader commited 130
-40:22.553602092 [ INFO] leader sends <132>
+40:22.553602092 [ INFO] leader sends 132
 40:22.553757813 [ INFO] follower appended <132>
 40:22.553809723 [ INFO] follower commited 128
 40:22.553807331 [ INFO] follower appended <132>
@@ -16308,7 +16308,7 @@
 40:22.554188122 [ INFO] follower commited 130
 40:22.613467083 [ INFO] [4] candidate has timed out. starting new election...
 40:22.661517065 [ INFO] leader commited 131
-40:22.661568588 [ INFO] leader sends <133>
+40:22.661568588 [ INFO] leader sends 133
 40:22.661723303 [ INFO] follower appended <133>
 40:22.661776488 [ INFO] follower commited 131
 40:22.661767594 [ INFO] follower appended <133>
@@ -16418,7 +16418,7 @@
 40:22.661839393 [ INFO] follower appended <133>
 40:22.661890204 [ INFO] follower commited 131
 40:22.765721601 [ INFO] leader commited 132
-40:22.765771703 [ INFO] leader sends <134>
+40:22.765771703 [ INFO] leader sends 134
 40:22.765935186 [ INFO] follower appended <134>
 40:22.765988702 [ INFO] follower commited 132
 40:22.765983074 [ INFO] follower appended <134>
@@ -16528,7 +16528,7 @@
 40:22.766244117 [ INFO] follower appended <134>
 40:22.766296384 [ INFO] follower commited 132
 40:22.881534377 [ INFO] leader commited 133
-40:22.881587807 [ INFO] leader sends <135>
+40:22.881587807 [ INFO] leader sends 135
 40:22.881741471 [ INFO] follower appended <135>
 40:22.881793444 [ INFO] follower commited 133
 40:22.881787445 [ INFO] follower appended <135>
@@ -16638,7 +16638,7 @@
 40:22.895255337 [ INFO] follower appended <135>
 40:22.895304894 [ INFO] follower commited 133
 40:23.009531684 [ INFO] leader commited 134
-40:23.009580821 [ INFO] leader sends <136>
+40:23.009580821 [ INFO] leader sends 136
 40:23.009730129 [ INFO] follower appended <136>
 40:23.009783191 [ INFO] follower commited 134
 40:23.009775627 [ INFO] follower appended <136>
@@ -16748,7 +16748,7 @@
 40:23.009267162 [ INFO] follower appended <136>
 40:23.009336010 [ INFO] follower commited 134
 40:23.113885010 [ INFO] leader commited 135
-40:23.113930862 [ INFO] leader sends <137>
+40:23.113930862 [ INFO] leader sends 137
 40:23.114146864 [ INFO] follower appended <137>
 40:23.114199388 [ INFO] follower commited 135
 40:23.114100887 [ INFO] follower appended <137>
@@ -16858,7 +16858,7 @@
 40:23.116586176 [ INFO] follower appended <137>
 40:23.116647706 [ INFO] follower commited 135
 40:23.220956534 [ INFO] leader commited 136
-40:23.221147030 [ INFO] leader sends <138>
+40:23.221147030 [ INFO] leader sends 138
 40:23.221362028 [ INFO] follower appended <138>
 40:23.221412279 [ INFO] follower commited 136
 40:23.221411765 [ INFO] follower appended <138>
@@ -16968,7 +16968,7 @@
 40:23.222225005 [ INFO] follower appended <138>
 40:23.222274994 [ INFO] follower commited 136
 40:23.326588844 [ INFO] leader commited 137
-40:23.326639282 [ INFO] leader sends <139>
+40:23.326639282 [ INFO] leader sends 139
 40:23.326808006 [ INFO] follower appended <139>
 40:23.326858583 [ INFO] follower commited 137
 40:23.326861819 [ INFO] follower appended <139>
@@ -17078,7 +17078,7 @@
 40:23.333507510 [ INFO] follower appended <139>
 40:23.333556475 [ INFO] follower commited 137
 40:23.431908160 [ INFO] leader commited 138
-40:23.431955315 [ INFO] leader sends <140>
+40:23.431955315 [ INFO] leader sends 140
 40:23.432102394 [ INFO] follower appended <140>
 40:23.432153033 [ INFO] follower commited 138
 40:23.432154014 [ INFO] follower appended <140>
@@ -17188,7 +17188,7 @@
 40:23.433018661 [ INFO] follower appended <140>
 40:23.433069195 [ INFO] follower commited 138
 40:23.537384990 [ INFO] leader commited 139
-40:23.537435855 [ INFO] leader sends <141>
+40:23.537435855 [ INFO] leader sends 141
 40:23.537641341 [ INFO] follower appended <141>
 40:23.537691112 [ INFO] follower commited 139
 40:23.537696836 [ INFO] follower appended <141>
@@ -17298,7 +17298,7 @@
 40:23.543393475 [ INFO] follower appended <141>
 40:23.543439221 [ INFO] follower commited 139
 40:23.642594398 [ INFO] leader commited 140
-40:23.642638295 [ INFO] leader sends <142>
+40:23.642638295 [ INFO] leader sends 142
 40:23.642900226 [ INFO] follower appended <142>
 40:23.642948685 [ INFO] follower commited 140
 40:23.642851772 [ INFO] follower appended <142>
@@ -17408,7 +17408,7 @@
 40:23.648811342 [ INFO] follower appended <142>
 40:23.648855625 [ INFO] follower commited 140
 40:23.748519238 [ INFO] leader commited 141
-40:23.748570237 [ INFO] leader sends <143>
+40:23.748570237 [ INFO] leader sends 143
 40:23.748735668 [ INFO] follower appended <143>
 40:23.748780673 [ INFO] follower appended <143>
 40:23.748805968 [ INFO] follower commited 141
@@ -17518,7 +17518,7 @@
 40:23.753543842 [ INFO] follower appended <143>
 40:23.753644519 [ INFO] follower commited 141
 40:23.854980857 [ INFO] leader commited 142
-40:23.855113460 [ INFO] leader sends <144>
+40:23.855113460 [ INFO] leader sends 144
 40:23.855338734 [ INFO] follower appended <144>
 40:23.855390582 [ INFO] follower commited 142
 40:23.855437517 [ INFO] follower appended <144>
@@ -17628,7 +17628,7 @@
 40:23.857861706 [ INFO] follower appended <144>
 40:23.857910403 [ INFO] follower commited 142
 40:23.962229106 [ INFO] leader commited 143
-40:23.962281297 [ INFO] leader sends <145>
+40:23.962281297 [ INFO] leader sends 145
 40:23.962432171 [ INFO] follower appended <145>
 40:23.962480468 [ INFO] follower commited 143
 40:23.962484302 [ INFO] follower appended <145>
@@ -17738,7 +17738,7 @@
 40:23.966370261 [ INFO] follower appended <145>
 40:23.966432594 [ INFO] follower commited 143
 40:24.070736056 [ INFO] leader commited 144
-40:24.070789623 [ INFO] leader sends <146>
+40:24.070789623 [ INFO] leader sends 146
 40:24.070934124 [ INFO] follower appended <146>
 40:24.070985229 [ INFO] follower commited 144
 40:24.071002924 [ INFO] follower appended <146>
@@ -17848,7 +17848,7 @@
 40:24.073399262 [ INFO] follower appended <146>
 40:24.073453455 [ INFO] follower commited 144
 40:24.190538452 [ INFO] leader commited 145
-40:24.190603768 [ INFO] leader sends <147>
+40:24.190603768 [ INFO] leader sends 147
 40:24.190787820 [ INFO] follower appended <147>
 40:24.190840763 [ INFO] follower commited 145
 40:24.190836108 [ INFO] follower appended <147>
@@ -17958,7 +17958,7 @@
 40:24.191492630 [ INFO] follower appended <147>
 40:24.191544239 [ INFO] follower commited 145
 40:24.295872492 [ INFO] leader commited 146
-40:24.295923887 [ INFO] leader sends <148>
+40:24.295923887 [ INFO] leader sends 148
 40:24.296083205 [ INFO] follower appended <148>
 40:24.296135810 [ INFO] follower commited 146
 40:24.296135077 [ INFO] follower appended <148>
@@ -18068,7 +18068,7 @@
 40:24.297460039 [ INFO] follower appended <148>
 40:24.297512586 [ INFO] follower commited 146
 40:24.401833812 [ INFO] leader commited 147
-40:24.401885603 [ INFO] leader sends <149>
+40:24.401885603 [ INFO] leader sends 149
 40:24.402044384 [ INFO] follower appended <149>
 40:24.402096058 [ INFO] follower appended <149>
 40:24.402114566 [ INFO] follower commited 147
@@ -18178,7 +18178,7 @@
 40:24.402789162 [ INFO] follower appended <149>
 40:24.402852514 [ INFO] follower commited 147
 40:24.507150893 [ INFO] leader commited 148
-40:24.507296463 [ INFO] leader sends <150>
+40:24.507296463 [ INFO] leader sends 150
 40:24.521524748 [ INFO] follower appended <150>
 40:24.521576383 [ INFO] follower commited 148
 40:24.521579941 [ INFO] follower appended <150>
@@ -18288,7 +18288,7 @@
 40:24.523253799 [ INFO] follower appended <150>
 40:24.523310448 [ INFO] follower commited 148
 40:24.627617836 [ INFO] leader commited 149
-40:24.627668382 [ INFO] leader sends <151>
+40:24.627668382 [ INFO] leader sends 151
 40:24.627825328 [ INFO] follower appended <151>
 40:24.627877991 [ INFO] follower commited 149
 40:24.627875782 [ INFO] follower appended <151>
@@ -18398,7 +18398,7 @@
 40:24.629661263 [ INFO] follower appended <151>
 40:24.629711465 [ INFO] follower commited 149
 40:24.734028725 [ INFO] leader commited 150
-40:24.734166385 [ INFO] leader sends <152>
+40:24.734166385 [ INFO] leader sends 152
 40:24.734385239 [ INFO] follower appended <152>
 40:24.734445822 [ INFO] follower commited 150
 40:24.734447784 [ INFO] follower appended <152>
@@ -18508,7 +18508,7 @@
 40:24.736139732 [ INFO] follower appended <152>
 40:24.736239184 [ INFO] follower commited 150
 40:24.840510140 [ INFO] leader commited 151
-40:24.840558472 [ INFO] leader sends <153>
+40:24.840558472 [ INFO] leader sends 153
 40:24.840719387 [ INFO] follower appended <153>
 40:24.840771995 [ INFO] follower commited 151
 40:24.840765794 [ INFO] follower appended <153>
@@ -18618,7 +18618,7 @@
 40:24.842558594 [ INFO] follower appended <153>
 40:24.842608494 [ INFO] follower commited 151
 40:24.946927303 [ INFO] leader commited 152
-40:24.946975017 [ INFO] leader sends <154>
+40:24.946975017 [ INFO] leader sends 154
 40:24.947131753 [ INFO] follower appended <154>
 40:24.947174283 [ INFO] follower appended <154>
 40:24.947201362 [ INFO] follower commited 152
@@ -18728,7 +18728,7 @@
 40:24.948923431 [ INFO] follower appended <154>
 40:24.948973554 [ INFO] follower commited 152
 40:25.053295489 [ INFO] leader commited 153
-40:25.053348444 [ INFO] leader sends <155>
+40:25.053348444 [ INFO] leader sends 155
 40:25.065573864 [ INFO] follower appended <155>
 40:25.065627348 [ INFO] follower commited 153
 40:25.065575074 [ INFO] follower appended <155>
@@ -18838,7 +18838,7 @@
 40:25.066927178 [ INFO] follower appended <155>
 40:25.066980718 [ INFO] follower commited 153
 40:25.171292724 [ INFO] leader commited 154
-40:25.171339795 [ INFO] leader sends <156>
+40:25.171339795 [ INFO] leader sends 156
 40:25.171544239 [ INFO] follower appended <156>
 40:25.171597404 [ INFO] follower commited 154
 40:25.171499316 [ INFO] follower appended <156>
@@ -18948,7 +18948,7 @@
 40:25.172727794 [ INFO] follower appended <156>
 40:25.172780794 [ INFO] follower commited 154
 40:25.277097307 [ INFO] leader commited 155
-40:25.277142301 [ INFO] leader sends <157>
+40:25.277142301 [ INFO] leader sends 157
 40:25.277327836 [ INFO] follower appended <157>
 40:25.277363365 [ INFO] follower appended <157>
 40:25.277407721 [ INFO] follower commited 155
@@ -19058,7 +19058,7 @@
 40:25.279336104 [ INFO] follower appended <157>
 40:25.279388326 [ INFO] follower commited 155
 40:25.383706174 [ INFO] leader commited 156
-40:25.383757903 [ INFO] leader sends <158>
+40:25.383757903 [ INFO] leader sends 158
 40:25.383930516 [ INFO] follower appended <158>
 40:25.384002007 [ INFO] follower commited 156
 40:25.383976070 [ INFO] follower appended <158>
@@ -19168,7 +19168,7 @@
 40:25.386100629 [ INFO] follower appended <158>
 40:25.386153488 [ INFO] follower commited 156
 40:25.490477426 [ INFO] leader commited 157
-40:25.490611100 [ INFO] leader sends <159>
+40:25.490611100 [ INFO] leader sends 159
 40:25.490834884 [ INFO] follower appended <159>
 40:25.490876015 [ INFO] follower appended <159>
 40:25.490901590 [ INFO] follower commited 157
@@ -19278,7 +19278,7 @@
 40:25.492958155 [ INFO] follower appended <159>
 40:25.493011170 [ INFO] follower commited 157
 40:25.597573613 [ INFO] leader commited 158
-40:25.597624072 [ INFO] leader sends <160>
+40:25.597624072 [ INFO] leader sends 160
 40:25.597781355 [ INFO] follower appended <160>
 40:25.597837109 [ INFO] follower commited 158
 40:25.597823692 [ INFO] follower appended <160>
@@ -19388,7 +19388,7 @@
 40:25.601428035 [ INFO] follower appended <160>
 40:25.601487079 [ INFO] follower commited 158
 40:25.705733276 [ INFO] leader commited 159
-40:25.705933528 [ INFO] leader sends <161>
+40:25.705933528 [ INFO] leader sends 161
 40:25.721563676 [ INFO] follower appended <161>
 40:25.721615568 [ INFO] follower commited 159
 40:25.721518783 [ INFO] follower appended <161>
@@ -19498,7 +19498,7 @@
 40:25.724772965 [ INFO] follower appended <161>
 40:25.724824189 [ INFO] follower commited 159
 40:25.829139321 [ INFO] leader commited 160
-40:25.829194402 [ INFO] leader sends <162>
+40:25.829194402 [ INFO] leader sends 162
 40:25.829352776 [ INFO] follower appended <162>
 40:25.829411507 [ INFO] follower commited 160
 40:25.829441724 [ INFO] follower appended <162>
@@ -19608,7 +19608,7 @@
 40:25.832683322 [ INFO] follower appended <162>
 40:25.832736890 [ INFO] follower commited 160
 40:25.937051587 [ INFO] leader commited 161
-40:25.937205607 [ INFO] leader sends <163>
+40:25.937205607 [ INFO] leader sends 163
 40:25.937425552 [ INFO] follower appended <163>
 40:25.937485263 [ INFO] follower commited 161
 40:25.937484990 [ INFO] follower appended <163>
@@ -19718,7 +19718,7 @@
 40:25.940408123 [ INFO] follower appended <163>
 40:25.940462694 [ INFO] follower commited 161
 40:26.044771311 [ INFO] leader commited 162
-40:26.044964983 [ INFO] leader sends <164>
+40:26.044964983 [ INFO] leader sends 164
 40:26.045179178 [ INFO] follower appended <164>
 40:26.045230076 [ INFO] follower commited 162
 40:26.045235516 [ INFO] follower appended <164>
@@ -19828,7 +19828,7 @@
 40:26.048191471 [ INFO] follower appended <164>
 40:26.048244208 [ INFO] follower commited 162
 40:26.152561476 [ INFO] leader commited 163
-40:26.152612588 [ INFO] leader sends <165>
+40:26.152612588 [ INFO] leader sends 165
 40:26.152813401 [ INFO] follower appended <165>
 40:26.152865851 [ INFO] follower appended <165>
 40:26.152920919 [ INFO] follower commited 163
@@ -19938,7 +19938,7 @@
 40:26.155229904 [ INFO] follower appended <165>
 40:26.155281491 [ INFO] follower commited 163
 40:26.259598846 [ INFO] leader commited 164
-40:26.259644516 [ INFO] leader sends <166>
+40:26.259644516 [ INFO] leader sends 166
 40:26.260995906 [ INFO] follower appended <166>
 40:26.261046175 [ INFO] follower commited 164
 40:26.261047518 [ INFO] follower appended <166>
@@ -20048,7 +20048,7 @@
 40:26.263352536 [ INFO] follower appended <166>
 40:26.263404182 [ INFO] follower commited 164
 40:26.367721976 [ INFO] leader commited 165
-40:26.367774026 [ INFO] leader sends <167>
+40:26.367774026 [ INFO] leader sends 167
 40:26.367927524 [ INFO] follower appended <167>
 40:26.367980236 [ INFO] follower commited 165
 40:26.367977421 [ INFO] follower appended <167>
@@ -20156,7 +20156,7 @@
 40:26.370392365 [ INFO] follower appended <167>
 40:26.370442222 [ INFO] follower commited 165
 40:26.481521794 [ INFO] leader commited 166
-40:26.481569915 [ INFO] leader sends <168>
+40:26.481569915 [ INFO] leader sends 168
 40:26.481719720 [ INFO] follower appended <168>
 40:26.481763228 [ INFO] follower appended <168>
 40:26.481786683 [ INFO] follower commited 166
@@ -20268,7 +20268,7 @@
 40:26.483624296 [ INFO] follower appended <168>
 40:26.483675324 [ INFO] follower commited 166
 40:26.587995638 [ INFO] leader commited 167
-40:26.588043776 [ INFO] leader sends <169>
+40:26.588043776 [ INFO] leader sends 169
 40:26.588213870 [ INFO] follower appended <169>
 40:26.588244644 [ INFO] follower appended <169>
 40:26.588282555 [ INFO] follower commited 167
@@ -20378,7 +20378,7 @@
 40:26.590597519 [ INFO] follower appended <169>
 40:26.590649180 [ INFO] follower commited 167
 40:26.695451597 [ INFO] leader commited 168
-40:26.695504212 [ INFO] leader sends <170>
+40:26.695504212 [ INFO] leader sends 170
 40:26.695655270 [ INFO] follower appended <170>
 40:26.695706992 [ INFO] follower commited 168
 40:26.695695122 [ INFO] follower appended <170>
@@ -20488,7 +20488,7 @@
 40:26.697669058 [ INFO] follower appended <170>
 40:26.697719552 [ INFO] follower commited 168
 40:26.802037011 [ INFO] leader commited 169
-40:26.802087713 [ INFO] leader sends <171>
+40:26.802087713 [ INFO] leader sends 171
 40:26.802246526 [ INFO] follower appended <171>
 40:26.802289280 [ INFO] follower appended <171>
 40:26.802331117 [ INFO] follower appended <171>
@@ -20598,7 +20598,7 @@
 40:26.817751426 [ INFO] follower appended <171>
 40:26.817801991 [ INFO] follower commited 169
 40:26.934526636 [ INFO] leader commited 170
-40:26.934579522 [ INFO] leader sends <172>
+40:26.934579522 [ INFO] leader sends 172
 40:26.934736851 [ INFO] follower appended <172>
 40:26.934791138 [ INFO] follower commited 170
 40:26.934787104 [ INFO] follower appended <172>
@@ -20708,7 +20708,7 @@
 40:26.936951602 [ INFO] follower appended <172>
 40:26.937003946 [ INFO] follower commited 170
 40:27.041319947 [ INFO] leader commited 171
-40:27.041369376 [ INFO] leader sends <173>
+40:27.041369376 [ INFO] leader sends 173
 40:27.041531240 [ INFO] follower appended <173>
 40:27.041602864 [ INFO] follower commited 171
 40:27.041579469 [ INFO] follower appended <173>
@@ -20818,7 +20818,7 @@
 40:27.043734794 [ INFO] follower appended <173>
 40:27.043787168 [ INFO] follower commited 171
 40:27.148100215 [ INFO] leader commited 172
-40:27.148148920 [ INFO] leader sends <174>
+40:27.148148920 [ INFO] leader sends 174
 40:27.148322210 [ INFO] follower appended <174>
 40:27.148375619 [ INFO] follower commited 172
 40:27.148356744 [ INFO] follower appended <174>
@@ -20928,7 +20928,7 @@
 40:27.151068381 [ INFO] follower appended <174>
 40:27.151118851 [ INFO] follower commited 172
 40:27.255435712 [ INFO] leader commited 173
-40:27.255488393 [ INFO] leader sends <175>
+40:27.255488393 [ INFO] leader sends 175
 40:27.261523 [ INFO] follower appended <175>
 40:27.261577977 [ INFO] follower commited 173
 40:27.261616611 [ INFO] follower appended <175>
@@ -21038,7 +21038,7 @@
 40:27.264656553 [ INFO] follower appended <175>
 40:27.264706030 [ INFO] follower commited 173
 40:27.369527722 [ INFO] leader commited 174
-40:27.369578841 [ INFO] leader sends <176>
+40:27.369578841 [ INFO] leader sends 176
 40:27.369739660 [ INFO] follower appended <176>
 40:27.369802084 [ INFO] follower commited 174
 40:27.369788229 [ INFO] follower appended <176>
@@ -21148,7 +21148,7 @@
 40:27.372147093 [ INFO] follower appended <176>
 40:27.372198070 [ INFO] follower commited 174
 40:27.476531275 [ INFO] leader commited 175
-40:27.476573406 [ INFO] leader sends <177>
+40:27.476573406 [ INFO] leader sends 177
 40:27.476731188 [ INFO] follower appended <177>
 40:27.476798896 [ INFO] follower commited 175
 40:27.476776958 [ INFO] follower appended <177>
@@ -21258,7 +21258,7 @@
 40:27.480506211 [ INFO] follower appended <177>
 40:27.480556776 [ INFO] follower commited 175
 40:27.584876546 [ INFO] leader commited 176
-40:27.584925490 [ INFO] leader sends <178>
+40:27.584925490 [ INFO] leader sends 178
 40:27.585080991 [ INFO] follower appended <178>
 40:27.585138404 [ INFO] follower appended <178>
 40:27.585148621 [ INFO] follower commited 176
@@ -21368,7 +21368,7 @@
 40:27.588975315 [ INFO] follower appended <178>
 40:27.589026171 [ INFO] follower commited 176
 40:27.693340394 [ INFO] leader commited 177
-40:27.693552239 [ INFO] leader sends <179>
+40:27.693552239 [ INFO] leader sends 179
 40:27.697535997 [ INFO] follower appended <179>
 40:27.697590151 [ INFO] follower commited 177
 40:27.697567416 [ INFO] follower appended <179>
@@ -21478,7 +21478,7 @@
 40:27.700989425 [ INFO] follower appended <179>
 40:27.701040384 [ INFO] follower commited 177
 40:27.805358093 [ INFO] leader commited 178
-40:27.805411419 [ INFO] leader sends <180>
+40:27.805411419 [ INFO] leader sends 180
 40:27.805574141 [ INFO] follower appended <180>
 40:27.805620817 [ INFO] follower appended <180>
 40:27.805642855 [ INFO] follower commited 178
@@ -21588,7 +21588,7 @@
 40:27.809635456 [ INFO] follower appended <180>
 40:27.809686499 [ INFO] follower commited 178
 40:27.914007051 [ INFO] leader commited 179
-40:27.914152502 [ INFO] leader sends <181>
+40:27.914152502 [ INFO] leader sends 181
 40:27.921514797 [ INFO] follower appended <181>
 40:27.921563674 [ INFO] follower commited 179
 40:27.921569559 [ INFO] follower appended <181>
@@ -21698,7 +21698,7 @@
 40:27.925261176 [ INFO] follower appended <181>
 40:27.925311304 [ INFO] follower commited 179
 40:28.029633213 [ INFO] leader commited 180
-40:28.029830537 [ INFO] leader sends <182>
+40:28.029830537 [ INFO] leader sends 182
 40:28.030055442 [ INFO] follower appended <182>
 40:28.030097581 [ INFO] follower appended <182>
 40:28.030122356 [ INFO] follower commited 180
@@ -21808,7 +21808,7 @@
 40:28.035091843 [ INFO] follower appended <182>
 40:28.035143782 [ INFO] follower commited 180
 40:28.139456403 [ INFO] leader commited 181
-40:28.139606586 [ INFO] leader sends <183>
+40:28.139606586 [ INFO] leader sends 183
 40:28.141522861 [ INFO] follower appended <183>
 40:28.141574729 [ INFO] follower appended <183>
 40:28.141591259 [ INFO] follower commited 181
@@ -21918,7 +21918,7 @@
 40:28.146537354 [ INFO] follower appended <183>
 40:28.146587677 [ INFO] follower commited 181
 40:28.250907099 [ INFO] leader commited 182
-40:28.250955643 [ INFO] leader sends <184>
+40:28.250955643 [ INFO] leader sends 184
 40:28.251108456 [ INFO] follower appended <184>
 40:28.251160469 [ INFO] follower commited 182
 40:28.251158448 [ INFO] follower appended <184>
@@ -22028,7 +22028,7 @@
 40:28.256593224 [ INFO] follower appended <184>
 40:28.256645029 [ INFO] follower commited 182
 40:28.360960159 [ INFO] leader commited 183
-40:28.361165728 [ INFO] leader sends <185>
+40:28.361165728 [ INFO] leader sends 185
 40:28.361388650 [ INFO] follower appended <185>
 40:28.361442103 [ INFO] follower commited 183
 40:28.361440148 [ INFO] follower appended <185>
@@ -22138,7 +22138,7 @@
 40:28.365864790 [ INFO] follower appended <185>
 40:28.365913077 [ INFO] follower commited 183
 40:28.470243507 [ INFO] leader commited 184
-40:28.470298271 [ INFO] leader sends <186>
+40:28.470298271 [ INFO] leader sends 186
 40:28.470458880 [ INFO] follower appended <186>
 40:28.470509601 [ INFO] follower commited 184
 40:28.470548171 [ INFO] follower appended <186>
@@ -22248,7 +22248,7 @@
 40:28.474254809 [ INFO] follower appended <186>
 40:28.474305317 [ INFO] follower commited 184
 40:28.578626518 [ INFO] leader commited 185
-40:28.578677597 [ INFO] leader sends <187>
+40:28.578677597 [ INFO] leader sends 187
 40:28.578890100 [ INFO] follower appended <187>
 40:28.578938854 [ INFO] follower appended <187>
 40:28.578959351 [ INFO] follower commited 185
@@ -22358,7 +22358,7 @@
 40:28.583427424 [ INFO] follower appended <187>
 40:28.583477611 [ INFO] follower commited 185
 40:28.687794321 [ INFO] leader commited 186
-40:28.687842232 [ INFO] leader sends <188>
+40:28.687842232 [ INFO] leader sends 188
 40:28.687996042 [ INFO] follower appended <188>
 40:28.688050623 [ INFO] follower commited 186
 40:28.688057611 [ INFO] follower appended <188>
@@ -22468,7 +22468,7 @@
 40:28.692972730 [ INFO] follower appended <188>
 40:28.693021578 [ INFO] follower commited 186
 40:28.797340997 [ INFO] leader commited 187
-40:28.797390460 [ INFO] leader sends <189>
+40:28.797390460 [ INFO] leader sends 189
 40:28.797550019 [ INFO] follower appended <189>
 40:28.797601163 [ INFO] follower commited 187
 40:28.797600616 [ INFO] follower appended <189>
@@ -22578,7 +22578,7 @@
 40:28.801179624 [ INFO] follower appended <189>
 40:28.801272221 [ INFO] follower commited 187
 40:28.905544189 [ INFO] leader commited 188
-40:28.905596234 [ INFO] leader sends <190>
+40:28.905596234 [ INFO] leader sends 190
 40:28.937523440 [ INFO] follower appended <190>
 40:28.937575431 [ INFO] follower commited 188
 40:28.937574981 [ INFO] follower appended <190>
@@ -22688,7 +22688,7 @@
 40:28.940174037 [ INFO] follower appended <190>
 40:28.940225310 [ INFO] follower commited 188
 40:29.045522118 [ INFO] leader commited 189
-40:29.045573860 [ INFO] leader sends <191>
+40:29.045573860 [ INFO] leader sends 191
 40:29.045740074 [ INFO] follower appended <191>
 40:29.045796554 [ INFO] follower commited 189
 40:29.045827972 [ INFO] follower appended <191>
@@ -22798,7 +22798,7 @@
 40:29.049076077 [ INFO] follower appended <191>
 40:29.049128005 [ INFO] follower commited 189
 40:29.153541757 [ INFO] leader commited 190
-40:29.153600366 [ INFO] leader sends <192>
+40:29.153600366 [ INFO] leader sends 192
 40:29.153764068 [ INFO] follower appended <192>
 40:29.153832760 [ INFO] follower commited 190
 40:29.153811915 [ INFO] follower appended <192>
@@ -22908,7 +22908,7 @@
 40:29.169530600 [ INFO] follower appended <192>
 40:29.169591045 [ INFO] follower commited 190
 40:29.261632848 [ INFO] leader commited 191
-40:29.261681656 [ INFO] leader sends <193>
+40:29.261681656 [ INFO] leader sends 193
 40:29.261835152 [ INFO] follower appended <193>
 40:29.261889982 [ INFO] follower commited 191
 40:29.261883827 [ INFO] follower appended <193>
@@ -23018,7 +23018,7 @@
 40:29.277527763 [ INFO] follower appended <193>
 40:29.277576925 [ INFO] follower commited 191
 40:29.369714076 [ INFO] leader commited 192
-40:29.369764902 [ INFO] leader sends <194>
+40:29.369764902 [ INFO] leader sends 194
 40:29.369990536 [ INFO] follower appended <194>
 40:29.370044672 [ INFO] follower commited 192
 40:29.370026417 [ INFO] follower appended <194>
@@ -23128,7 +23128,7 @@
 40:29.374093451 [ INFO] follower appended <194>
 40:29.374146990 [ INFO] follower commited 192
 40:29.478460100 [ INFO] leader commited 193
-40:29.478504197 [ INFO] leader sends <195>
+40:29.478504197 [ INFO] leader sends 195
 40:29.478713241 [ INFO] follower appended <195>
 40:29.478767035 [ INFO] follower commited 193
 40:29.478730120 [ INFO] follower appended <195>
@@ -23238,7 +23238,7 @@
 40:29.483358378 [ INFO] follower appended <195>
 40:29.483408801 [ INFO] follower commited 193
 40:29.587746175 [ INFO] leader commited 194
-40:29.587947582 [ INFO] leader sends <196>
+40:29.587947582 [ INFO] leader sends 196
 40:29.588202626 [ INFO] follower appended <196>
 40:29.588259686 [ INFO] follower commited 194
 40:29.588260473 [ INFO] follower appended <196>
@@ -23348,7 +23348,7 @@
 40:29.592481815 [ INFO] follower appended <196>
 40:29.592532511 [ INFO] follower commited 194
 40:29.696849226 [ INFO] leader commited 195
-40:29.696901170 [ INFO] leader sends <197>
+40:29.696901170 [ INFO] leader sends 197
 40:29.697058968 [ INFO] follower appended <197>
 40:29.697115360 [ INFO] follower commited 195
 40:29.697103702 [ INFO] follower appended <197>
@@ -23458,7 +23458,7 @@
 40:29.702177867 [ INFO] follower appended <197>
 40:29.702228085 [ INFO] follower commited 195
 40:29.806544222 [ INFO] leader commited 196
-40:29.806752508 [ INFO] leader sends <198>
+40:29.806752508 [ INFO] leader sends 198
 40:29.806982629 [ INFO] follower appended <198>
 40:29.807039797 [ INFO] follower commited 196
 40:29.807022298 [ INFO] follower appended <198>
@@ -23568,7 +23568,7 @@
 40:29.813753419 [ INFO] follower appended <198>
 40:29.813809569 [ INFO] follower commited 196
 40:29.918120655 [ INFO] leader commited 197
-40:29.918172098 [ INFO] leader sends <199>
+40:29.918172098 [ INFO] leader sends 199
 40:29.918331144 [ INFO] follower appended <199>
 40:29.918384404 [ INFO] follower commited 197
 40:29.918372047 [ INFO] follower appended <199>
@@ -23678,7 +23678,7 @@
 40:29.922963360 [ INFO] follower appended <199>
 40:29.923015550 [ INFO] follower commited 197
 40:30.027331457 [ INFO] leader commited 198
-40:30.027381644 [ INFO] leader sends <200>
+40:30.027381644 [ INFO] leader sends 200
 40:30.027547802 [ INFO] follower appended <200>
 40:30.027600296 [ INFO] follower commited 198
 40:30.027583266 [ INFO] follower appended <200>
@@ -23788,7 +23788,7 @@
 40:30.032216599 [ INFO] follower appended <200>
 40:30.032265506 [ INFO] follower commited 198
 40:30.137520991 [ INFO] leader commited 199
-40:30.137572641 [ INFO] leader sends <201>
+40:30.137572641 [ INFO] leader sends 201
 40:30.137730729 [ INFO] follower appended <201>
 40:30.137780554 [ INFO] follower commited 199
 40:30.137779952 [ INFO] follower appended <201>
@@ -23898,7 +23898,7 @@
 40:30.141674353 [ INFO] follower appended <201>
 40:30.141723597 [ INFO] follower commited 199
 40:30.246045890 [ INFO] leader commited 200
-40:30.246096757 [ INFO] leader sends <202>
+40:30.246096757 [ INFO] leader sends 202
 40:30.246253638 [ INFO] follower appended <202>
 40:30.246305697 [ INFO] follower commited 200
 40:30.246305456 [ INFO] follower appended <202>
@@ -24008,7 +24008,7 @@
 40:30.251320007 [ INFO] follower appended <202>
 40:30.251368387 [ INFO] follower commited 200
 40:30.355687057 [ INFO] leader commited 201
-40:30.355733691 [ INFO] leader sends <203>
+40:30.355733691 [ INFO] leader sends 203
 40:30.355888315 [ INFO] follower appended <203>
 40:30.355940009 [ INFO] follower commited 201
 40:30.355977546 [ INFO] follower appended <203>
@@ -24118,7 +24118,7 @@
 40:30.361116977 [ INFO] follower appended <203>
 40:30.361167395 [ INFO] follower commited 201
 40:30.465494632 [ INFO] leader commited 202
-40:30.465546403 [ INFO] leader sends <204>
+40:30.465546403 [ INFO] leader sends 204
 40:30.465698675 [ INFO] follower appended <204>
 40:30.465747640 [ INFO] follower commited 202
 40:30.465749924 [ INFO] follower appended <204>
@@ -24228,7 +24228,7 @@
 40:30.470846505 [ INFO] follower appended <204>
 40:30.470897509 [ INFO] follower commited 202
 40:30.575207972 [ INFO] leader commited 203
-40:30.575258014 [ INFO] leader sends <205>
+40:30.575258014 [ INFO] leader sends 205
 40:30.575475175 [ INFO] follower appended <205>
 40:30.575526942 [ INFO] follower commited 203
 40:30.575437567 [ INFO] follower appended <205>
@@ -24338,7 +24338,7 @@
 40:30.580549816 [ INFO] follower appended <205>
 40:30.580600054 [ INFO] follower commited 203
 40:30.684917011 [ INFO] leader commited 204
-40:30.685117706 [ INFO] leader sends <206>
+40:30.685117706 [ INFO] leader sends 206
 40:30.685341757 [ INFO] follower appended <206>
 40:30.685393550 [ INFO] follower commited 204
 40:30.685433911 [ INFO] follower appended <206>
@@ -24448,7 +24448,7 @@
 40:30.689554414 [ INFO] follower appended <206>
 40:30.689607147 [ INFO] follower commited 204
 40:30.794672389 [ INFO] leader commited 205
-40:30.794723319 [ INFO] leader sends <207>
+40:30.794723319 [ INFO] leader sends 207
 40:30.794892805 [ INFO] follower appended <207>
 40:30.794948338 [ INFO] follower commited 205
 40:30.794925423 [ INFO] follower appended <207>
@@ -24558,7 +24558,7 @@
 40:30.801145330 [ INFO] follower appended <207>
 40:30.801197295 [ INFO] follower commited 205
 40:30.905512309 [ INFO] leader commited 206
-40:30.905564646 [ INFO] leader sends <208>
+40:30.905564646 [ INFO] leader sends 208
 40:30.905723511 [ INFO] follower appended <208>
 40:30.905778086 [ INFO] follower commited 206
 40:30.905753482 [ INFO] follower appended <208>
@@ -24668,7 +24668,7 @@
 40:30.928479068 [ INFO] follower appended <208>
 40:30.928531703 [ INFO] follower commited 206
 40:31.032851534 [ INFO] leader commited 207
-40:31.032902867 [ INFO] leader sends <209>
+40:31.032902867 [ INFO] leader sends 209
 40:31.045521889 [ INFO] follower appended <209>
 40:31.045573086 [ INFO] follower commited 207
 40:31.045562174 [ INFO] follower appended <209>
@@ -24778,7 +24778,7 @@
 40:31.050929568 [ INFO] follower appended <209>
 40:31.050982221 [ INFO] follower commited 207
 40:31.155297501 [ INFO] leader commited 208
-40:31.155495942 [ INFO] leader sends <210>
+40:31.155495942 [ INFO] leader sends 210
 40:31.155715095 [ INFO] follower appended <210>
 40:31.155752954 [ INFO] follower appended <210>
 40:31.155782820 [ INFO] follower commited 208
@@ -24888,7 +24888,7 @@
 40:31.176808860 [ INFO] follower appended <210>
 40:31.176859844 [ INFO] follower commited 208
 40:31.281177015 [ INFO] leader commited 209
-40:31.281228283 [ INFO] leader sends <211>
+40:31.281228283 [ INFO] leader sends 211
 40:31.282764956 [ INFO] follower appended <211>
 40:31.282811870 [ INFO] follower commited 209
 40:31.282217525 [ INFO] follower appended <211>
@@ -24998,7 +24998,7 @@
 40:31.286942579 [ INFO] follower appended <211>
 40:31.286993312 [ INFO] follower commited 209
 40:31.391309171 [ INFO] leader commited 210
-40:31.391464414 [ INFO] leader sends <212>
+40:31.391464414 [ INFO] leader sends 212
 40:31.397519749 [ INFO] follower appended <212>
 40:31.397565429 [ INFO] follower appended <212>
 40:31.397581898 [ INFO] follower commited 210
@@ -25108,7 +25108,7 @@
 40:31.403459135 [ INFO] follower appended <212>
 40:31.403510046 [ INFO] follower commited 210
 40:31.507826715 [ INFO] leader commited 211
-40:31.507876194 [ INFO] leader sends <213>
+40:31.507876194 [ INFO] leader sends 213
 40:31.508031277 [ INFO] follower appended <213>
 40:31.508072747 [ INFO] follower appended <213>
 40:31.508098311 [ INFO] follower commited 211
@@ -25218,7 +25218,7 @@
 40:31.521509632 [ INFO] follower appended <213>
 40:31.521558594 [ INFO] follower commited 211
 40:31.617192188 [ INFO] leader commited 212
-40:31.617239677 [ INFO] leader sends <214>
+40:31.617239677 [ INFO] leader sends 214
 40:31.617399342 [ INFO] follower appended <214>
 40:31.617469767 [ INFO] follower commited 212
 40:31.617457422 [ INFO] follower appended <214>
@@ -25328,7 +25328,7 @@
 40:31.622931372 [ INFO] follower appended <214>
 40:31.622982246 [ INFO] follower commited 212
 40:31.727300519 [ INFO] leader commited 213
-40:31.727350891 [ INFO] leader sends <215>
+40:31.727350891 [ INFO] leader sends 215
 40:31.727577638 [ INFO] follower appended <215>
 40:31.727630935 [ INFO] follower commited 213
 40:31.727623381 [ INFO] follower appended <215>
@@ -25438,7 +25438,7 @@
 40:31.735063547 [ INFO] follower appended <215>
 40:31.735118855 [ INFO] follower commited 213
 40:31.839363319 [ INFO] leader commited 214
-40:31.839414224 [ INFO] leader sends <216>
+40:31.839414224 [ INFO] leader sends 216
 40:31.839571437 [ INFO] follower appended <216>
 40:31.839625271 [ INFO] follower commited 214
 40:31.839614294 [ INFO] follower appended <216>
@@ -25548,7 +25548,7 @@
 40:31.846982628 [ INFO] follower appended <216>
 40:31.847046524 [ INFO] follower commited 214
 40:31.951333103 [ INFO] leader commited 215
-40:31.951378632 [ INFO] leader sends <217>
+40:31.951378632 [ INFO] leader sends 217
 40:31.951536399 [ INFO] follower appended <217>
 40:31.951576897 [ INFO] follower appended <217>
 40:31.951627700 [ INFO] follower commited 215
@@ -25658,7 +25658,7 @@
 40:31.969528861 [ INFO] follower appended <217>
 40:31.969585540 [ INFO] follower commited 215
 40:32.061664853 [ INFO] leader commited 216
-40:32.061711388 [ INFO] leader sends <218>
+40:32.061711388 [ INFO] leader sends 218
 40:32.061890446 [ INFO] follower appended <218>
 40:32.061942805 [ INFO] follower commited 216
 40:32.061938651 [ INFO] follower appended <218>
@@ -25768,7 +25768,7 @@
 40:32.067858692 [ INFO] follower appended <218>
 40:32.067910712 [ INFO] follower commited 216
 40:32.185520890 [ INFO] leader commited 217
-40:32.185574766 [ INFO] leader sends <219>
+40:32.185574766 [ INFO] leader sends 219
 40:32.185731039 [ INFO] follower appended <219>
 40:32.185784625 [ INFO] follower commited 217
 40:32.185793246 [ INFO] follower appended <219>
@@ -25878,7 +25878,7 @@
 40:32.190919233 [ INFO] follower appended <219>
 40:32.190970450 [ INFO] follower commited 217
 40:32.295281650 [ INFO] leader commited 218
-40:32.295334734 [ INFO] leader sends <220>
+40:32.295334734 [ INFO] leader sends 220
 40:32.295487581 [ INFO] follower appended <220>
 40:32.295542493 [ INFO] follower commited 218
 40:32.295533089 [ INFO] follower appended <220>
@@ -25988,7 +25988,7 @@
 40:32.300704325 [ INFO] follower appended <220>
 40:32.300758079 [ INFO] follower commited 218
 40:32.405065648 [ INFO] leader commited 219
-40:32.405118514 [ INFO] leader sends <221>
+40:32.405118514 [ INFO] leader sends 221
 40:32.405320174 [ INFO] follower appended <221>
 40:32.405370943 [ INFO] follower commited 219
 40:32.405292754 [ INFO] follower appended <221>
@@ -26098,7 +26098,7 @@
 40:32.411325320 [ INFO] follower appended <221>
 40:32.411378567 [ INFO] follower commited 219
 40:32.515684872 [ INFO] leader commited 220
-40:32.515738186 [ INFO] leader sends <222>
+40:32.515738186 [ INFO] leader sends 222
 40:32.515913796 [ INFO] follower appended <222>
 40:32.515971984 [ INFO] follower commited 220
 40:32.515945131 [ INFO] follower appended <222>
@@ -26208,7 +26208,7 @@
 40:32.522228479 [ INFO] follower appended <222>
 40:32.522278728 [ INFO] follower commited 220
 40:32.626599981 [ INFO] leader commited 221
-40:32.626761035 [ INFO] leader sends <223>
+40:32.626761035 [ INFO] leader sends 223
 40:32.626981779 [ INFO] follower appended <223>
 40:32.627037509 [ INFO] follower commited 221
 40:32.627068162 [ INFO] follower appended <223>
@@ -26318,7 +26318,7 @@
 40:32.636161450 [ INFO] follower appended <223>
 40:32.636213831 [ INFO] follower commited 221
 40:32.740514450 [ INFO] leader commited 222
-40:32.740563964 [ INFO] leader sends <224>
+40:32.740563964 [ INFO] leader sends 224
 40:32.740722189 [ INFO] follower appended <224>
 40:32.740776594 [ INFO] follower commited 222
 40:32.740761252 [ INFO] follower appended <224>
@@ -26428,7 +26428,7 @@
 40:32.747105974 [ INFO] follower appended <224>
 40:32.747165710 [ INFO] follower commited 222
 40:32.851473495 [ INFO] leader commited 223
-40:32.851521779 [ INFO] leader sends <225>
+40:32.851521779 [ INFO] leader sends 225
 40:32.851678892 [ INFO] follower appended <225>
 40:32.851734259 [ INFO] follower commited 223
 40:32.851730363 [ INFO] follower appended <225>
@@ -26538,7 +26538,7 @@
 40:32.859159121 [ INFO] follower appended <225>
 40:32.859209898 [ INFO] follower commited 223
 40:32.963512227 [ INFO] leader commited 224
-40:32.963702643 [ INFO] leader sends <226>
+40:32.963702643 [ INFO] leader sends 226
 40:32.963919106 [ INFO] follower appended <226>
 40:32.963973129 [ INFO] follower commited 224
 40:32.963961837 [ INFO] follower appended <226>
@@ -26648,7 +26648,7 @@
 40:32.987516958 [ INFO] follower appended <226>
 40:32.987566366 [ INFO] follower commited 224
 40:33.091859982 [ INFO] leader commited 225
-40:33.091908701 [ INFO] leader sends <227>
+40:33.091908701 [ INFO] leader sends 227
 40:33.092070125 [ INFO] follower appended <227>
 40:33.092126005 [ INFO] follower commited 225
 40:33.092106320 [ INFO] follower appended <227>
@@ -26758,7 +26758,7 @@
 40:33.099898963 [ INFO] follower appended <227>
 40:33.099956818 [ INFO] follower commited 225
 40:33.204264190 [ INFO] leader commited 226
-40:33.204466430 [ INFO] leader sends <228>
+40:33.204466430 [ INFO] leader sends 228
 40:33.204686864 [ INFO] follower appended <228>
 40:33.204741659 [ INFO] follower commited 226
 40:33.204723466 [ INFO] follower appended <228>
@@ -26868,7 +26868,7 @@
 40:33.213335690 [ INFO] follower appended <228>
 40:33.213389322 [ INFO] follower commited 226
 40:33.317698826 [ INFO] leader commited 227
-40:33.317899430 [ INFO] leader sends <229>
+40:33.317899430 [ INFO] leader sends 229
 40:33.318159820 [ INFO] follower appended <229>
 40:33.318211020 [ INFO] follower commited 227
 40:33.318124113 [ INFO] follower appended <229>
@@ -26978,7 +26978,7 @@
 40:33.324713297 [ INFO] follower appended <229>
 40:33.324766859 [ INFO] follower commited 227
 40:33.429077146 [ INFO] leader commited 228
-40:33.429126337 [ INFO] leader sends <230>
+40:33.429126337 [ INFO] leader sends 230
 40:33.429332677 [ INFO] follower appended <230>
 40:33.429385443 [ INFO] follower commited 228
 40:33.429292924 [ INFO] follower appended <230>
@@ -27088,7 +27088,7 @@
 40:33.436193656 [ INFO] follower appended <230>
 40:33.436246458 [ INFO] follower commited 228
 40:33.540560590 [ INFO] leader commited 229
-40:33.540610210 [ INFO] leader sends <231>
+40:33.540610210 [ INFO] leader sends 231
 40:33.540769442 [ INFO] follower appended <231>
 40:33.540812824 [ INFO] follower appended <231>
 40:33.540867215 [ INFO] follower commited 229
@@ -27198,7 +27198,7 @@
 40:33.548619380 [ INFO] follower appended <231>
 40:33.548669490 [ INFO] follower commited 229
 40:33.652987846 [ INFO] leader commited 230
-40:33.653139061 [ INFO] leader sends <232>
+40:33.653139061 [ INFO] leader sends 232
 40:33.653360054 [ INFO] follower appended <232>
 40:33.653416317 [ INFO] follower commited 230
 40:33.653439563 [ INFO] follower appended <232>
@@ -27308,7 +27308,7 @@
 40:33.661890153 [ INFO] follower appended <232>
 40:33.661943206 [ INFO] follower commited 230
 40:33.766258782 [ INFO] leader commited 231
-40:33.766310653 [ INFO] leader sends <233>
+40:33.766310653 [ INFO] leader sends 233
 40:33.766474201 [ INFO] follower appended <233>
 40:33.766508114 [ INFO] follower appended <233>
 40:33.766531502 [ INFO] follower commited 231
@@ -27418,7 +27418,7 @@
 40:33.775258546 [ INFO] follower appended <233>
 40:33.775320681 [ INFO] follower commited 231
 40:33.879631991 [ INFO] leader commited 232
-40:33.879686034 [ INFO] leader sends <234>
+40:33.879686034 [ INFO] leader sends 234
 40:33.879852007 [ INFO] follower appended <234>
 40:33.879913169 [ INFO] follower commited 232
 40:33.879886005 [ INFO] follower appended <234>
@@ -27528,7 +27528,7 @@
 40:33.887171505 [ INFO] follower appended <234>
 40:33.887223966 [ INFO] follower commited 232
 40:33.991540410 [ INFO] leader commited 233
-40:33.991589532 [ INFO] leader sends <235>
+40:33.991589532 [ INFO] leader sends 235
 40:33.991782830 [ INFO] follower appended <235>
 40:33.991831640 [ INFO] follower commited 233
 40:33.991820665 [ INFO] follower appended <235>
@@ -27638,7 +27638,7 @@
 40:33.998900974 [ INFO] follower appended <235>
 40:33.998953475 [ INFO] follower commited 233
 40:34.103268257 [ INFO] leader commited 234
-40:34.103319062 [ INFO] leader sends <236>
+40:34.103319062 [ INFO] leader sends 236
 40:34.113539469 [ INFO] follower appended <236>
 40:34.113599028 [ INFO] follower commited 234
 40:34.113567469 [ INFO] follower appended <236>
@@ -27748,7 +27748,7 @@
 40:34.122205914 [ INFO] follower appended <236>
 40:34.122255487 [ INFO] follower commited 234
 40:34.226577405 [ INFO] leader commited 235
-40:34.226630647 [ INFO] leader sends <237>
+40:34.226630647 [ INFO] leader sends 237
 40:34.226796053 [ INFO] follower appended <237>
 40:34.226830347 [ INFO] follower appended <237>
 40:34.226877252 [ INFO] follower commited 235
@@ -27858,7 +27858,7 @@
 40:34.235993727 [ INFO] follower appended <237>
 40:34.236046028 [ INFO] follower commited 235
 40:34.340362020 [ INFO] leader commited 236
-40:34.340563759 [ INFO] leader sends <238>
+40:34.340563759 [ INFO] leader sends 238
 40:34.340844337 [ INFO] follower appended <238>
 40:34.340895746 [ INFO] follower commited 236
 40:34.340820267 [ INFO] follower appended <238>
@@ -27968,7 +27968,7 @@
 40:34.348892296 [ INFO] follower appended <238>
 40:34.348944707 [ INFO] follower commited 236
 40:34.453260251 [ INFO] leader commited 237
-40:34.453463503 [ INFO] leader sends <239>
+40:34.453463503 [ INFO] leader sends 239
 40:34.453689583 [ INFO] follower appended <239>
 40:34.453720727 [ INFO] follower appended <239>
 40:34.453762181 [ INFO] follower commited 237
@@ -28078,7 +28078,7 @@
 40:34.461638828 [ INFO] follower appended <239>
 40:34.461691487 [ INFO] follower commited 237
 40:34.566007262 [ INFO] leader commited 238
-40:34.566213263 [ INFO] leader sends <240>
+40:34.566213263 [ INFO] leader sends 240
 40:34.566431428 [ INFO] follower appended <240>
 40:34.566486277 [ INFO] follower commited 238
 40:34.566483578 [ INFO] follower appended <240>
@@ -28188,7 +28188,7 @@
 40:34.574044090 [ INFO] follower appended <240>
 40:34.574096601 [ INFO] follower commited 238
 40:34.678413745 [ INFO] leader commited 239
-40:34.678478115 [ INFO] leader sends <241>
+40:34.678478115 [ INFO] leader sends 241
 40:34.678634695 [ INFO] follower appended <241>
 40:34.678689778 [ INFO] follower commited 239
 40:34.678684739 [ INFO] follower appended <241>
@@ -28298,7 +28298,7 @@
 40:34.686520565 [ INFO] follower appended <241>
 40:34.686571458 [ INFO] follower commited 239
 40:34.790890804 [ INFO] leader commited 240
-40:34.791046455 [ INFO] leader sends <242>
+40:34.791046455 [ INFO] leader sends 242
 40:34.791266993 [ INFO] follower appended <242>
 40:34.791320745 [ INFO] follower commited 240
 40:34.791330294 [ INFO] follower appended <242>
@@ -28408,7 +28408,7 @@
 40:34.798848591 [ INFO] follower appended <242>
 40:34.798899271 [ INFO] follower commited 240
 40:34.903198669 [ INFO] leader commited 241
-40:34.903261669 [ INFO] leader sends <243>
+40:34.903261669 [ INFO] leader sends 243
 40:34.903422164 [ INFO] follower appended <243>
 40:34.903462011 [ INFO] follower appended <243>
 40:34.903476407 [ INFO] follower commited 241
@@ -28518,7 +28518,7 @@
 40:34.912100872 [ INFO] follower appended <243>
 40:34.912151417 [ INFO] follower commited 241
 40:35.016464553 [ INFO] leader commited 242
-40:35.016518634 [ INFO] leader sends <244>
+40:35.016518634 [ INFO] leader sends 244
 40:35.016684671 [ INFO] follower appended <244>
 40:35.016741674 [ INFO] follower commited 242
 40:35.016716684 [ INFO] follower appended <244>
@@ -28628,7 +28628,7 @@
 40:35.031540287 [ INFO] follower appended <244>
 40:35.031595470 [ INFO] follower commited 242
 40:35.128530203 [ INFO] leader commited 243
-40:35.128669254 [ INFO] leader sends <245>
+40:35.128669254 [ INFO] leader sends 245
 40:35.128888145 [ INFO] follower appended <245>
 40:35.128942526 [ INFO] follower commited 243
 40:35.128930187 [ INFO] follower appended <245>
@@ -28738,7 +28738,7 @@
 40:35.136459357 [ INFO] follower appended <245>
 40:35.136509803 [ INFO] follower commited 243
 40:35.240834067 [ INFO] leader commited 244
-40:35.240992195 [ INFO] leader sends <246>
+40:35.240992195 [ INFO] leader sends 246
 40:35.241215984 [ INFO] follower appended <246>
 40:35.241271030 [ INFO] follower commited 244
 40:35.241263947 [ INFO] follower appended <246>
@@ -28848,7 +28848,7 @@
 40:35.265528691 [ INFO] follower appended <246>
 40:35.265581733 [ INFO] follower commited 244
 40:35.352679794 [ INFO] leader commited 245
-40:35.352727743 [ INFO] leader sends <247>
+40:35.352727743 [ INFO] leader sends 247
 40:35.352963357 [ INFO] follower appended <247>
 40:35.353021193 [ INFO] follower commited 245
 40:35.352992853 [ INFO] follower appended <247>
@@ -28958,7 +28958,7 @@
 40:35.361121897 [ INFO] follower appended <247>
 40:35.361189951 [ INFO] follower commited 245
 40:35.465494254 [ INFO] leader commited 246
-40:35.465633438 [ INFO] leader sends <248>
+40:35.465633438 [ INFO] leader sends 248
 40:35.465855478 [ INFO] follower appended <248>
 40:35.465912454 [ INFO] follower commited 246
 40:35.465892675 [ INFO] follower appended <248>
@@ -29068,7 +29068,7 @@
 40:35.487451792 [ INFO] follower appended <248>
 40:35.487506135 [ INFO] follower commited 246
 40:35.591804726 [ INFO] leader commited 247
-40:35.591853552 [ INFO] leader sends <249>
+40:35.591853552 [ INFO] leader sends 249
 40:35.592002267 [ INFO] follower appended <249>
 40:35.592058136 [ INFO] follower commited 247
 40:35.592055077 [ INFO] follower appended <249>
@@ -29178,7 +29178,7 @@
 40:35.599710439 [ INFO] follower appended <249>
 40:35.599764396 [ INFO] follower commited 247
 40:35.704071360 [ INFO] leader commited 248
-40:35.704214646 [ INFO] leader sends <250>
+40:35.704214646 [ INFO] leader sends 250
 40:35.704450806 [ INFO] follower appended <250>
 40:35.704505866 [ INFO] follower commited 248
 40:35.704486948 [ INFO] follower appended <250>
@@ -29288,7 +29288,7 @@
 40:35.712144211 [ INFO] follower appended <250>
 40:35.712192685 [ INFO] follower commited 248
 40:35.816506343 [ INFO] leader commited 249
-40:35.816554052 [ INFO] leader sends <251>
+40:35.816554052 [ INFO] leader sends 251
 40:35.816727678 [ INFO] follower appended <251>
 40:35.816782256 [ INFO] follower commited 249
 40:35.816778833 [ INFO] follower appended <251>
@@ -29398,7 +29398,7 @@
 40:35.824739834 [ INFO] follower appended <251>
 40:35.824797107 [ INFO] follower commited 249
 40:35.929108742 [ INFO] leader commited 250
-40:35.929296222 [ INFO] leader sends <252>
+40:35.929296222 [ INFO] leader sends 252
 40:35.929519575 [ INFO] follower appended <252>
 40:35.929575740 [ INFO] follower commited 250
 40:35.929563529 [ INFO] follower appended <252>
@@ -29508,7 +29508,7 @@
 40:35.939517453 [ INFO] follower appended <252>
 40:35.939579229 [ INFO] follower commited 250
 40:36.043875678 [ INFO] leader commited 251
-40:36.043927037 [ INFO] leader sends <253>
+40:36.043927037 [ INFO] leader sends 253
 40:36.044092111 [ INFO] follower appended <253>
 40:36.044131900 [ INFO] follower appended <253>
 40:36.044178245 [ INFO] follower commited 251
@@ -29618,7 +29618,7 @@
 40:36.064679525 [ INFO] follower appended <253>
 40:36.064738575 [ INFO] follower commited 251
 40:36.169037853 [ INFO] leader commited 252
-40:36.169086597 [ INFO] leader sends <254>
+40:36.169086597 [ INFO] leader sends 254
 40:36.169250678 [ INFO] follower appended <254>
 40:36.169285356 [ INFO] follower appended <254>
 40:36.169336811 [ INFO] follower commited 252
@@ -29728,7 +29728,7 @@
 40:36.192733669 [ INFO] follower appended <254>
 40:36.192788455 [ INFO] follower commited 252
 40:36.301531863 [ INFO] leader commited 253
-40:36.301583186 [ INFO] leader sends <255>
+40:36.301583186 [ INFO] leader sends 255
 40:36.301739195 [ INFO] follower appended <255>
 40:36.301813643 [ INFO] follower commited 253
 40:36.301822644 [ INFO] follower appended <255>
@@ -29838,7 +29838,7 @@
 40:36.309197193 [ INFO] follower appended <255>
 40:36.309250204 [ INFO] follower commited 253
 40:36.413578882 [ INFO] leader commited 254
-40:36.413634754 [ INFO] leader sends <256>
+40:36.413634754 [ INFO] leader sends 256
 40:36.413853176 [ INFO] follower appended <256>
 40:36.413897243 [ INFO] follower appended <256>
 40:36.413924482 [ INFO] follower commited 254
@@ -29948,7 +29948,7 @@
 40:36.422326011 [ INFO] follower appended <256>
 40:36.422378128 [ INFO] follower commited 254
 40:36.526682390 [ INFO] leader commited 255
-40:36.526738885 [ INFO] leader sends <257>
+40:36.526738885 [ INFO] leader sends 257
 40:36.526945134 [ INFO] follower appended <257>
 40:36.526986749 [ INFO] follower appended <257>
 40:36.527027712 [ INFO] follower commited 255
@@ -30058,7 +30058,7 @@
 40:36.535397166 [ INFO] follower appended <257>
 40:36.535461010 [ INFO] follower commited 255
 40:36.639764553 [ INFO] leader commited 256
-40:36.639814976 [ INFO] leader sends <258>
+40:36.639814976 [ INFO] leader sends 258
 40:36.639988380 [ INFO] follower appended <258>
 40:36.640044104 [ INFO] follower commited 256
 40:36.640073199 [ INFO] follower appended <258>
@@ -30168,7 +30168,7 @@
 40:36.648059874 [ INFO] follower appended <258>
 40:36.648110971 [ INFO] follower commited 256
 40:36.752429659 [ INFO] leader commited 257
-40:36.752482386 [ INFO] leader sends <259>
+40:36.752482386 [ INFO] leader sends 259
 40:36.757520874 [ INFO] follower appended <259>
 40:36.757574249 [ INFO] follower commited 257
 40:36.757571270 [ INFO] follower appended <259>
@@ -30278,7 +30278,7 @@
 40:36.765969345 [ INFO] follower appended <259>
 40:36.766021937 [ INFO] follower commited 257
 40:36.870348661 [ INFO] leader commited 258
-40:36.870400033 [ INFO] leader sends <260>
+40:36.870400033 [ INFO] leader sends 260
 40:36.870610380 [ INFO] follower appended <260>
 40:36.870665577 [ INFO] follower commited 258
 40:36.870568974 [ INFO] follower appended <260>
@@ -30388,7 +30388,7 @@
 40:36.879163605 [ INFO] follower appended <260>
 40:36.879214457 [ INFO] follower commited 258
 40:36.983537902 [ INFO] leader commited 259
-40:36.983589133 [ INFO] leader sends <261>
+40:36.983589133 [ INFO] leader sends 261
 40:36.983745548 [ INFO] follower appended <261>
 40:36.983799333 [ INFO] follower commited 259
 40:36.983791848 [ INFO] follower appended <261>
@@ -30498,7 +30498,7 @@
 40:36.992356109 [ INFO] follower appended <261>
 40:36.992406583 [ INFO] follower commited 259
 40:37.096726946 [ INFO] leader commited 260
-40:37.096870488 [ INFO] leader sends <262>
+40:37.096870488 [ INFO] leader sends 262
 40:37.097108709 [ INFO] follower appended <262>
 40:37.097161987 [ INFO] follower commited 260
 40:37.097152089 [ INFO] follower appended <262>
@@ -30608,7 +30608,7 @@
 40:37.105942267 [ INFO] follower appended <262>
 40:37.105996755 [ INFO] follower commited 260
 40:37.210236410 [ INFO] leader commited 261
-40:37.210288737 [ INFO] leader sends <263>
+40:37.210288737 [ INFO] leader sends 263
 40:37.210499576 [ INFO] follower appended <263>
 40:37.210550530 [ INFO] follower commited 261
 40:37.210453391 [ INFO] follower appended <263>
@@ -30718,7 +30718,7 @@
 40:37.221438434 [ INFO] follower appended <263>
 40:37.221489864 [ INFO] follower commited 261
 40:37.333517870 [ INFO] leader commited 262
-40:37.333568005 [ INFO] leader sends <264>
+40:37.333568005 [ INFO] leader sends 264
 40:37.333708787 [ INFO] follower appended <264>
 40:37.333757045 [ INFO] follower commited 262
 40:37.333756900 [ INFO] follower appended <264>
@@ -30828,7 +30828,7 @@
 40:37.356106497 [ INFO] follower appended <264>
 40:37.356160523 [ INFO] follower commited 262
 40:37.460468509 [ INFO] leader commited 263
-40:37.460518097 [ INFO] leader sends <265>
+40:37.460518097 [ INFO] leader sends 265
 40:37.460711259 [ INFO] follower appended <265>
 40:37.460759099 [ INFO] follower commited 263
 40:37.460671069 [ INFO] follower appended <265>
@@ -30938,7 +30938,7 @@
 40:37.469438918 [ INFO] follower appended <265>
 40:37.469517581 [ INFO] follower commited 263
 40:37.573758343 [ INFO] leader commited 264
-40:37.573808367 [ INFO] leader sends <266>
+40:37.573808367 [ INFO] leader sends 266
 40:37.573976604 [ INFO] follower appended <266>
 40:37.574045657 [ INFO] follower commited 264
 40:37.574004823 [ INFO] follower appended <266>
@@ -31048,7 +31048,7 @@
 40:37.583595928 [ INFO] follower appended <266>
 40:37.583655206 [ INFO] follower commited 264
 40:37.687948574 [ INFO] leader commited 265
-40:37.688012271 [ INFO] leader sends <267>
+40:37.688012271 [ INFO] leader sends 267
 40:37.688173533 [ INFO] follower appended <267>
 40:37.688208832 [ INFO] follower appended <267>
 40:37.688245194 [ INFO] follower commited 265
@@ -31158,7 +31158,7 @@
 40:37.697339154 [ INFO] follower appended <267>
 40:37.697390567 [ INFO] follower commited 265
 40:37.801693863 [ INFO] leader commited 266
-40:37.801744507 [ INFO] leader sends <268>
+40:37.801744507 [ INFO] leader sends 268
 40:37.801900604 [ INFO] follower appended <268>
 40:37.801947470 [ INFO] follower appended <268>
 40:37.802002993 [ INFO] follower commited 266
@@ -31268,7 +31268,7 @@
 40:37.811563870 [ INFO] follower appended <268>
 40:37.811615842 [ INFO] follower commited 266
 40:37.915913747 [ INFO] leader commited 267
-40:37.916132478 [ INFO] leader sends <269>
+40:37.916132478 [ INFO] leader sends 269
 40:37.916357970 [ INFO] follower appended <269>
 40:37.916413410 [ INFO] follower commited 267
 40:37.916405977 [ INFO] follower appended <269>
@@ -31378,7 +31378,7 @@
 40:37.925637609 [ INFO] follower appended <269>
 40:37.925689662 [ INFO] follower commited 267
 40:38.030002826 [ INFO] leader commited 268
-40:38.030055293 [ INFO] leader sends <270>
+40:38.030055293 [ INFO] leader sends 270
 40:38.030215199 [ INFO] follower appended <270>
 40:38.030269365 [ INFO] follower commited 268
 40:38.030258985 [ INFO] follower appended <270>
@@ -31488,7 +31488,7 @@
 40:38.039416674 [ INFO] follower appended <270>
 40:38.039471717 [ INFO] follower commited 268
 40:38.143772707 [ INFO] leader commited 269
-40:38.143819752 [ INFO] leader sends <271>
+40:38.143819752 [ INFO] leader sends 271
 40:38.143979246 [ INFO] follower appended <271>
 40:38.144031215 [ INFO] follower commited 269
 40:38.144016487 [ INFO] follower appended <271>
@@ -31598,7 +31598,7 @@
 40:38.153266233 [ INFO] follower appended <271>
 40:38.153316928 [ INFO] follower commited 269
 40:38.257631866 [ INFO] leader commited 270
-40:38.257681362 [ INFO] leader sends <272>
+40:38.257681362 [ INFO] leader sends 272
 40:38.257837570 [ INFO] follower appended <272>
 40:38.257878151 [ INFO] follower appended <272>
 40:38.257930491 [ INFO] follower commited 270
@@ -31708,7 +31708,7 @@
 40:38.269555214 [ INFO] follower appended <272>
 40:38.269606394 [ INFO] follower commited 270
 40:38.373921746 [ INFO] leader commited 271
-40:38.373973093 [ INFO] leader sends <273>
+40:38.373973093 [ INFO] leader sends 273
 40:38.374129295 [ INFO] follower appended <273>
 40:38.374184660 [ INFO] follower commited 271
 40:38.374172416 [ INFO] follower appended <273>
@@ -31818,7 +31818,7 @@
 40:38.385401257 [ INFO] follower appended <273>
 40:38.385453601 [ INFO] follower commited 271
 40:38.489765826 [ INFO] leader commited 272
-40:38.489820011 [ INFO] leader sends <274>
+40:38.489820011 [ INFO] leader sends 274
 40:38.489987599 [ INFO] follower appended <274>
 40:38.490038818 [ INFO] follower commited 272
 40:38.490031315 [ INFO] follower appended <274>
@@ -31928,7 +31928,7 @@
 40:38.499447907 [ INFO] follower appended <274>
 40:38.499497399 [ INFO] follower commited 272
 40:38.603812114 [ INFO] leader commited 273
-40:38.603963390 [ INFO] leader sends <275>
+40:38.603963390 [ INFO] leader sends 275
 40:38.604183883 [ INFO] follower appended <275>
 40:38.604223959 [ INFO] follower appended <275>
 40:38.604276478 [ INFO] follower commited 273
@@ -32038,7 +32038,7 @@
 40:38.613710879 [ INFO] follower appended <275>
 40:38.613762270 [ INFO] follower commited 273
 40:38.718074524 [ INFO] leader commited 274
-40:38.718221770 [ INFO] leader sends <276>
+40:38.718221770 [ INFO] leader sends 276
 40:38.718434416 [ INFO] follower appended <276>
 40:38.718486979 [ INFO] follower commited 274
 40:38.718492058 [ INFO] follower appended <276>
@@ -32148,7 +32148,7 @@
 40:38.728073816 [ INFO] follower appended <276>
 40:38.728124190 [ INFO] follower commited 274
 40:38.832440630 [ INFO] leader commited 275
-40:38.832493091 [ INFO] leader sends <277>
+40:38.832493091 [ INFO] leader sends 277
 40:38.832645515 [ INFO] follower appended <277>
 40:38.832698950 [ INFO] follower commited 275
 40:38.832706120 [ INFO] follower appended <277>
@@ -32258,7 +32258,7 @@
 40:38.842532812 [ INFO] follower appended <277>
 40:38.842585477 [ INFO] follower commited 275
 40:38.946895666 [ INFO] leader commited 276
-40:38.946945850 [ INFO] leader sends <278>
+40:38.946945850 [ INFO] leader sends 278
 40:38.953533168 [ INFO] follower appended <278>
 40:38.953583425 [ INFO] follower commited 276
 40:38.953576678 [ INFO] follower appended <278>
@@ -32368,7 +32368,7 @@
 40:38.963007790 [ INFO] follower appended <278>
 40:38.963059208 [ INFO] follower commited 276
 40:39.067374016 [ INFO] leader commited 277
-40:39.067532213 [ INFO] leader sends <279>
+40:39.067532213 [ INFO] leader sends 279
 40:39.067746953 [ INFO] follower appended <279>
 40:39.067797098 [ INFO] follower commited 277
 40:39.067809018 [ INFO] follower appended <279>
@@ -32478,7 +32478,7 @@
 40:39.077145278 [ INFO] follower appended <279>
 40:39.077197070 [ INFO] follower commited 277
 40:39.181512672 [ INFO] leader commited 278
-40:39.181561991 [ INFO] leader sends <280>
+40:39.181561991 [ INFO] leader sends 280
 40:39.181722828 [ INFO] follower appended <280>
 40:39.181761907 [ INFO] follower appended <280>
 40:39.181814404 [ INFO] follower commited 278
@@ -32588,7 +32588,7 @@
 40:39.191416651 [ INFO] follower appended <280>
 40:39.191469209 [ INFO] follower commited 278
 40:39.295771288 [ INFO] leader commited 279
-40:39.295821818 [ INFO] leader sends <281>
+40:39.295821818 [ INFO] leader sends 281
 40:39.296024433 [ INFO] follower appended <281>
 40:39.296076226 [ INFO] follower commited 279
 40:39.295994151 [ INFO] follower appended <281>
@@ -32698,7 +32698,7 @@
 40:39.305998511 [ INFO] follower appended <281>
 40:39.306046898 [ INFO] follower commited 279
 40:39.410365426 [ INFO] leader commited 280
-40:39.410416037 [ INFO] leader sends <282>
+40:39.410416037 [ INFO] leader sends 282
 40:39.410570004 [ INFO] follower appended <282>
 40:39.410614337 [ INFO] follower appended <282>
 40:39.410637769 [ INFO] follower commited 280
@@ -32808,7 +32808,7 @@
 40:39.420359867 [ INFO] follower appended <282>
 40:39.420415072 [ INFO] follower commited 280
 40:39.524723182 [ INFO] leader commited 281
-40:39.524875587 [ INFO] leader sends <283>
+40:39.524875587 [ INFO] leader sends 283
 40:39.525091668 [ INFO] follower appended <283>
 40:39.525144990 [ INFO] follower commited 281
 40:39.525142948 [ INFO] follower appended <283>
@@ -32918,7 +32918,7 @@
 40:39.535666599 [ INFO] follower appended <283>
 40:39.535721859 [ INFO] follower commited 281
 40:39.640028976 [ INFO] leader commited 282
-40:39.640233635 [ INFO] leader sends <284>
+40:39.640233635 [ INFO] leader sends 284
 40:39.640501843 [ INFO] follower appended <284>
 40:39.640552492 [ INFO] follower commited 282
 40:39.640452526 [ INFO] follower appended <284>
@@ -33028,7 +33028,7 @@
 40:39.650592438 [ INFO] follower appended <284>
 40:39.650642818 [ INFO] follower commited 282
 40:39.754953883 [ INFO] leader commited 283
-40:39.755006861 [ INFO] leader sends <285>
+40:39.755006861 [ INFO] leader sends 285
 40:39.755223244 [ INFO] follower appended <285>
 40:39.755290081 [ INFO] follower commited 283
 40:39.755208792 [ INFO] follower appended <285>
@@ -33138,7 +33138,7 @@
 40:39.765150133 [ INFO] follower appended <285>
 40:39.765202057 [ INFO] follower commited 283
 40:39.869521632 [ INFO] leader commited 284
-40:39.869571976 [ INFO] leader sends <286>
+40:39.869571976 [ INFO] leader sends 286
 40:39.869727414 [ INFO] follower appended <286>
 40:39.869779595 [ INFO] follower commited 284
 40:39.869771081 [ INFO] follower appended <286>
@@ -33248,7 +33248,7 @@
 40:39.879974160 [ INFO] follower appended <286>
 40:39.880024101 [ INFO] follower commited 284
 40:39.984342818 [ INFO] leader commited 285
-40:39.984538497 [ INFO] leader sends <287>
+40:39.984538497 [ INFO] leader sends 287
 40:39.984751870 [ INFO] follower appended <287>
 40:39.984804854 [ INFO] follower commited 285
 40:39.984798059 [ INFO] follower appended <287>
@@ -33358,7 +33358,7 @@
 40:39.994979679 [ INFO] follower appended <287>
 40:39.995030663 [ INFO] follower commited 285
 40:40.099342782 [ INFO] leader commited 286
-40:40.099389124 [ INFO] leader sends <288>
+40:40.099389124 [ INFO] leader sends 288
 40:40.099547021 [ INFO] follower appended <288>
 40:40.099605799 [ INFO] follower commited 286
 40:40.099587736 [ INFO] follower appended <288>
@@ -33468,7 +33468,7 @@
 40:40.109361919 [ INFO] follower appended <288>
 40:40.109416537 [ INFO] follower commited 286
 40:40.213721114 [ INFO] leader commited 287
-40:40.213771723 [ INFO] leader sends <289>
+40:40.213771723 [ INFO] leader sends 289
 40:40.213928360 [ INFO] follower appended <289>
 40:40.213967816 [ INFO] follower appended <289>
 40:40.213999512 [ INFO] follower commited 287
@@ -33578,7 +33578,7 @@
 40:40.224239907 [ INFO] follower appended <289>
 40:40.224284243 [ INFO] follower commited 287
 40:40.328607983 [ INFO] leader commited 288
-40:40.328652895 [ INFO] leader sends <290>
+40:40.328652895 [ INFO] leader sends 290
 40:40.328820204 [ INFO] follower appended <290>
 40:40.328890411 [ INFO] follower commited 288
 40:40.328870792 [ INFO] follower appended <290>
@@ -33688,7 +33688,7 @@
 40:40.338382386 [ INFO] follower appended <290>
 40:40.338449977 [ INFO] follower commited 288
 40:40.443947390 [ INFO] leader commited 289
-40:40.443996743 [ INFO] leader sends <291>
+40:40.443996743 [ INFO] leader sends 291
 40:40.444150459 [ INFO] follower appended <291>
 40:40.444201605 [ INFO] follower commited 289
 40:40.444194932 [ INFO] follower appended <291>
@@ -33798,7 +33798,7 @@
 40:40.454853422 [ INFO] follower appended <291>
 40:40.454904920 [ INFO] follower commited 289
 40:40.559212041 [ INFO] leader commited 290
-40:40.559366947 [ INFO] leader sends <292>
+40:40.559366947 [ INFO] leader sends 292
 40:40.559588258 [ INFO] follower appended <292>
 40:40.559631961 [ INFO] follower appended <292>
 40:40.559659460 [ INFO] follower commited 290
@@ -33908,7 +33908,7 @@
 40:40.570142239 [ INFO] follower appended <292>
 40:40.570196600 [ INFO] follower commited 290
 40:40.674531124 [ INFO] leader commited 291
-40:40.674576039 [ INFO] leader sends <293>
+40:40.674576039 [ INFO] leader sends 293
 40:40.674728265 [ INFO] follower appended <293>
 40:40.674782279 [ INFO] follower commited 291
 40:40.674776565 [ INFO] follower appended <293>
@@ -34018,7 +34018,7 @@
 40:40.685456947 [ INFO] follower appended <293>
 40:40.685506536 [ INFO] follower commited 291
 40:40.789822632 [ INFO] leader commited 292
-40:40.789874386 [ INFO] leader sends <294>
+40:40.789874386 [ INFO] leader sends 294
 40:40.790029648 [ INFO] follower appended <294>
 40:40.790081818 [ INFO] follower commited 292
 40:40.790123297 [ INFO] follower appended <294>
@@ -34128,7 +34128,7 @@
 40:40.800750034 [ INFO] follower appended <294>
 40:40.800799733 [ INFO] follower commited 292
 40:40.905116700 [ INFO] leader commited 293
-40:40.905167087 [ INFO] leader sends <295>
+40:40.905167087 [ INFO] leader sends 295
 40:40.905325990 [ INFO] follower appended <295>
 40:40.905381458 [ INFO] follower commited 293
 40:40.905419570 [ INFO] follower appended <295>
@@ -34238,7 +34238,7 @@
 40:40.915866830 [ INFO] follower appended <295>
 40:40.915920034 [ INFO] follower commited 293
 40:41.020229806 [ INFO] leader commited 294
-40:41.020281028 [ INFO] leader sends <296>
+40:41.020281028 [ INFO] leader sends 296
 40:41.021520360 [ INFO] follower appended <296>
 40:41.021572893 [ INFO] follower commited 294
 40:41.021576949 [ INFO] follower appended <296>
@@ -34348,7 +34348,7 @@
 40:41.032403620 [ INFO] follower appended <296>
 40:41.032459488 [ INFO] follower commited 294
 40:41.136750968 [ INFO] leader commited 295
-40:41.136801999 [ INFO] leader sends <297>
+40:41.136801999 [ INFO] leader sends 297
 40:41.136965456 [ INFO] follower appended <297>
 40:41.137019583 [ INFO] follower commited 295
 40:41.137011278 [ INFO] follower appended <297>
@@ -34458,7 +34458,7 @@
 40:41.147847306 [ INFO] follower appended <297>
 40:41.147900930 [ INFO] follower commited 295
 40:41.252207406 [ INFO] leader commited 296
-40:41.252256499 [ INFO] leader sends <298>
+40:41.252256499 [ INFO] leader sends 298
 40:41.252417145 [ INFO] follower appended <298>
 40:41.252467910 [ INFO] follower commited 296
 40:41.252453466 [ INFO] follower appended <298>
@@ -34568,7 +34568,7 @@
 40:41.263465216 [ INFO] follower appended <298>
 40:41.263519412 [ INFO] follower commited 296
 40:41.367809962 [ INFO] leader commited 297
-40:41.367862041 [ INFO] leader sends <299>
+40:41.367862041 [ INFO] leader sends 299
 40:41.368018101 [ INFO] follower appended <299>
 40:41.368069315 [ INFO] follower commited 297
 40:41.368073261 [ INFO] follower appended <299>
@@ -34678,7 +34678,7 @@
 40:41.379381165 [ INFO] follower appended <299>
 40:41.379436551 [ INFO] follower commited 297
 40:41.483738691 [ INFO] leader commited 298
-40:41.483783221 [ INFO] leader sends <300>
+40:41.483783221 [ INFO] leader sends 300
 40:41.483933461 [ INFO] follower appended <300>
 40:41.483985889 [ INFO] follower commited 298
 40:41.483986916 [ INFO] follower appended <300>
@@ -34788,7 +34788,7 @@
 40:41.494969866 [ INFO] follower appended <300>
 40:41.495023328 [ INFO] follower commited 298
 40:41.599333547 [ INFO] leader commited 299
-40:41.599479235 [ INFO] leader sends <301>
+40:41.599479235 [ INFO] leader sends 301
 40:41.609514703 [ INFO] follower appended <301>
 40:41.609565133 [ INFO] follower commited 299
 40:41.609569647 [ INFO] follower appended <301>
@@ -34898,7 +34898,7 @@
 40:41.620381041 [ INFO] follower appended <301>
 40:41.620433610 [ INFO] follower commited 299
 40:41.724743244 [ INFO] leader commited 300
-40:41.724795868 [ INFO] leader sends <302>
+40:41.724795868 [ INFO] leader sends 302
 40:41.724961005 [ INFO] follower appended <302>
 40:41.725014212 [ INFO] follower commited 300
 40:41.724989828 [ INFO] follower appended <302>
@@ -35008,7 +35008,7 @@
 40:41.736295982 [ INFO] follower appended <302>
 40:41.736349683 [ INFO] follower commited 300
 40:41.840659701 [ INFO] leader commited 301
-40:41.840714103 [ INFO] leader sends <303>
+40:41.840714103 [ INFO] leader sends 303
 40:41.853528477 [ INFO] follower appended <303>
 40:41.853578377 [ INFO] follower commited 301
 40:41.853561560 [ INFO] follower appended <303>
@@ -35118,7 +35118,7 @@
 40:41.864912866 [ INFO] follower appended <303>
 40:41.864963958 [ INFO] follower commited 301
 40:41.969283874 [ INFO] leader commited 302
-40:41.969337479 [ INFO] leader sends <304>
+40:41.969337479 [ INFO] leader sends 304
 40:41.969505482 [ INFO] follower appended <304>
 40:41.969559605 [ INFO] follower commited 302
 40:41.969544993 [ INFO] follower appended <304>
@@ -35228,7 +35228,7 @@
 40:41.982546972 [ INFO] follower appended <304>
 40:41.982600476 [ INFO] follower commited 302
 40:42.086902481 [ INFO] leader commited 303
-40:42.086962792 [ INFO] leader sends <305>
+40:42.086962792 [ INFO] leader sends 305
 40:42.087110018 [ INFO] follower appended <305>
 40:42.087159916 [ INFO] follower commited 303
 40:42.087155445 [ INFO] follower appended <305>
@@ -35338,7 +35338,7 @@
 40:42.096038115 [ INFO] follower appended <305>
 40:42.096090931 [ INFO] follower commited 303
 40:42.200392904 [ INFO] leader commited 304
-40:42.200447863 [ INFO] leader sends <306>
+40:42.200447863 [ INFO] leader sends 306
 40:42.200641107 [ INFO] follower appended <306>
 40:42.200692340 [ INFO] follower commited 304
 40:42.200587361 [ INFO] follower appended <306>
@@ -35448,7 +35448,7 @@
 40:42.213374218 [ INFO] follower appended <306>
 40:42.213426836 [ INFO] follower commited 304
 40:42.317731218 [ INFO] leader commited 305
-40:42.317787092 [ INFO] leader sends <307>
+40:42.317787092 [ INFO] leader sends 307
 40:42.317942813 [ INFO] follower appended <307>
 40:42.317994552 [ INFO] follower commited 305
 40:42.317992234 [ INFO] follower appended <307>
@@ -35558,7 +35558,7 @@
 40:42.330644342 [ INFO] follower appended <307>
 40:42.330698703 [ INFO] follower commited 305
 40:42.435010079 [ INFO] leader commited 306
-40:42.435062826 [ INFO] leader sends <308>
+40:42.435062826 [ INFO] leader sends 308
 40:42.435343053 [ INFO] follower appended <308>
 40:42.435391994 [ INFO] follower commited 306
 40:42.435393533 [ INFO] follower appended <308>
@@ -35668,7 +35668,7 @@
 40:42.446919097 [ INFO] follower appended <308>
 40:42.446972505 [ INFO] follower commited 306
 40:42.551289069 [ INFO] leader commited 307
-40:42.551490269 [ INFO] leader sends <309>
+40:42.551490269 [ INFO] leader sends 309
 40:42.551705228 [ INFO] follower appended <309>
 40:42.551759212 [ INFO] follower commited 307
 40:42.551752265 [ INFO] follower appended <309>
@@ -35778,7 +35778,7 @@
 40:42.563548600 [ INFO] follower appended <309>
 40:42.563599379 [ INFO] follower commited 307
 40:42.667916114 [ INFO] leader commited 308
-40:42.667964779 [ INFO] leader sends <310>
+40:42.667964779 [ INFO] leader sends 310
 40:42.668127567 [ INFO] follower appended <310>
 40:42.668176721 [ INFO] follower commited 308
 40:42.668170229 [ INFO] follower appended <310>
@@ -35888,7 +35888,7 @@
 40:42.680121834 [ INFO] follower appended <310>
 40:42.680191980 [ INFO] follower commited 308
 40:42.784488186 [ INFO] leader commited 309
-40:42.784534352 [ INFO] leader sends <311>
+40:42.784534352 [ INFO] leader sends 311
 40:42.784680892 [ INFO] follower appended <311>
 40:42.784731988 [ INFO] follower commited 309
 40:42.784727589 [ INFO] follower appended <311>
@@ -35998,7 +35998,7 @@
 40:42.796245699 [ INFO] follower appended <311>
 40:42.796314761 [ INFO] follower commited 309
 40:42.900597090 [ INFO] leader commited 310
-40:42.900644366 [ INFO] leader sends <312>
+40:42.900644366 [ INFO] leader sends 312
 40:42.900790240 [ INFO] follower appended <312>
 40:42.900843410 [ INFO] follower commited 310
 40:42.900834732 [ INFO] follower appended <312>
@@ -36108,7 +36108,7 @@
 40:42.910985983 [ INFO] follower appended <312>
 40:42.911052851 [ INFO] follower commited 310
 40:43.016596350 [ INFO] leader commited 311
-40:43.016646679 [ INFO] leader sends <313>
+40:43.016646679 [ INFO] leader sends 313
 40:43.016813053 [ INFO] follower appended <313>
 40:43.016882602 [ INFO] follower commited 311
 40:43.016843585 [ INFO] follower appended <313>
@@ -36218,7 +36218,7 @@
 40:43.028768379 [ INFO] follower appended <313>
 40:43.028822179 [ INFO] follower commited 311
 40:43.133131511 [ INFO] leader commited 312
-40:43.133185687 [ INFO] leader sends <314>
+40:43.133185687 [ INFO] leader sends 314
 40:43.133381091 [ INFO] follower appended <314>
 40:43.133424017 [ INFO] follower commited 312
 40:43.133356065 [ INFO] follower appended <314>
@@ -36328,7 +36328,7 @@
 40:43.144930987 [ INFO] follower appended <314>
 40:43.144984169 [ INFO] follower commited 312
 40:43.249294279 [ INFO] leader commited 313
-40:43.249343958 [ INFO] leader sends <315>
+40:43.249343958 [ INFO] leader sends 315
 40:43.249510133 [ INFO] follower appended <315>
 40:43.249565875 [ INFO] follower commited 313
 40:43.249550088 [ INFO] follower appended <315>
@@ -36438,7 +36438,7 @@
 40:43.261673583 [ INFO] follower appended <315>
 40:43.261727668 [ INFO] follower commited 313
 40:43.366034211 [ INFO] leader commited 314
-40:43.366082507 [ INFO] leader sends <316>
+40:43.366082507 [ INFO] leader sends 316
 40:43.366235462 [ INFO] follower appended <316>
 40:43.366288978 [ INFO] follower commited 314
 40:43.366324903 [ INFO] follower appended <316>
@@ -36548,7 +36548,7 @@
 40:43.378492816 [ INFO] follower appended <316>
 40:43.378548285 [ INFO] follower commited 314
 40:43.482852621 [ INFO] leader commited 315
-40:43.482904387 [ INFO] leader sends <317>
+40:43.482904387 [ INFO] leader sends 317
 40:43.483060937 [ INFO] follower appended <317>
 40:43.483103463 [ INFO] follower appended <317>
 40:43.483133614 [ INFO] follower commited 315
@@ -36658,7 +36658,7 @@
 40:43.509953976 [ INFO] follower appended <317>
 40:43.510004013 [ INFO] follower commited 315
 40:43.614316456 [ INFO] leader commited 316
-40:43.614363454 [ INFO] leader sends <318>
+40:43.614363454 [ INFO] leader sends 318
 40:43.614516184 [ INFO] follower appended <318>
 40:43.614567026 [ INFO] follower commited 316
 40:43.614558282 [ INFO] follower appended <318>
@@ -36768,7 +36768,7 @@
 40:43.626746844 [ INFO] follower appended <318>
 40:43.626793836 [ INFO] follower commited 316
 40:43.731115480 [ INFO] leader commited 317
-40:43.731166182 [ INFO] leader sends <319>
+40:43.731166182 [ INFO] leader sends 319
 40:43.733517910 [ INFO] follower appended <319>
 40:43.733571874 [ INFO] follower commited 317
 40:43.733572363 [ INFO] follower appended <319>
@@ -36878,7 +36878,7 @@
 40:43.743748293 [ INFO] follower appended <319>
 40:43.743793909 [ INFO] follower commited 317
 40:43.849638113 [ INFO] leader commited 318
-40:43.849685485 [ INFO] leader sends <320>
+40:43.849685485 [ INFO] leader sends 320
 40:43.849838859 [ INFO] follower appended <320>
 40:43.849890938 [ INFO] follower commited 318
 40:43.849882981 [ INFO] follower appended <320>
@@ -36988,7 +36988,7 @@
 40:43.862204542 [ INFO] follower appended <320>
 40:43.862255339 [ INFO] follower commited 318
 40:43.966570629 [ INFO] leader commited 319
-40:43.966616755 [ INFO] leader sends <321>
+40:43.966616755 [ INFO] leader sends 321
 40:43.966790718 [ INFO] follower appended <321>
 40:43.966847294 [ INFO] follower commited 319
 40:43.966826702 [ INFO] follower appended <321>
@@ -37098,7 +37098,7 @@
 40:43.978773039 [ INFO] follower appended <321>
 40:43.978834724 [ INFO] follower commited 319
 40:44.083069822 [ INFO] leader commited 320
-40:44.083115681 [ INFO] leader sends <322>
+40:44.083115681 [ INFO] leader sends 322
 40:44.083265665 [ INFO] follower appended <322>
 40:44.083317751 [ INFO] follower commited 320
 40:44.083309838 [ INFO] follower appended <322>
@@ -37208,7 +37208,7 @@
 40:44.095647157 [ INFO] follower appended <322>
 40:44.095700438 [ INFO] follower commited 320
 40:44.200012344 [ INFO] leader commited 321
-40:44.200064961 [ INFO] leader sends <323>
+40:44.200064961 [ INFO] leader sends 323
 40:44.200219958 [ INFO] follower appended <323>
 40:44.200271599 [ INFO] follower commited 321
 40:44.200312 [ INFO] follower appended <323>
@@ -37318,7 +37318,7 @@
 40:44.212625176 [ INFO] follower appended <323>
 40:44.212679342 [ INFO] follower commited 321
 40:44.316971255 [ INFO] leader commited 322
-40:44.317122561 [ INFO] leader sends <324>
+40:44.317122561 [ INFO] leader sends 324
 40:44.321536382 [ INFO] follower appended <324>
 40:44.321591225 [ INFO] follower commited 322
 40:44.321568657 [ INFO] follower appended <324>
@@ -37428,7 +37428,7 @@
 40:44.332603287 [ INFO] follower appended <324>
 40:44.332655488 [ INFO] follower commited 322
 40:44.438551544 [ INFO] leader commited 323
-40:44.438600829 [ INFO] leader sends <325>
+40:44.438600829 [ INFO] leader sends 325
 40:44.438768609 [ INFO] follower appended <325>
 40:44.438822705 [ INFO] follower commited 323
 40:44.438797104 [ INFO] follower appended <325>
@@ -37538,7 +37538,7 @@
 40:44.450868572 [ INFO] follower appended <325>
 40:44.450917256 [ INFO] follower commited 323
 40:44.555224454 [ INFO] leader commited 324
-40:44.555270455 [ INFO] leader sends <326>
+40:44.555270455 [ INFO] leader sends 326
 40:44.555424101 [ INFO] follower appended <326>
 40:44.555474935 [ INFO] follower commited 324
 40:44.555472644 [ INFO] follower appended <326>
@@ -37648,7 +37648,7 @@
 40:44.567480331 [ INFO] follower appended <326>
 40:44.567541541 [ INFO] follower commited 324
 40:44.671849449 [ INFO] leader commited 325
-40:44.671901443 [ INFO] leader sends <327>
+40:44.671901443 [ INFO] leader sends 327
 40:44.672051994 [ INFO] follower appended <327>
 40:44.672101931 [ INFO] follower commited 325
 40:44.672102251 [ INFO] follower appended <327>
@@ -37758,7 +37758,7 @@
 40:44.704293850 [ INFO] follower appended <327>
 40:44.704344749 [ INFO] follower commited 325
 40:44.808664348 [ INFO] leader commited 326
-40:44.808713008 [ INFO] leader sends <328>
+40:44.808713008 [ INFO] leader sends 328
 40:44.808922840 [ INFO] follower appended <328>
 40:44.808971934 [ INFO] follower commited 326
 40:44.808875141 [ INFO] follower appended <328>
@@ -37868,7 +37868,7 @@
 40:44.822024449 [ INFO] follower appended <328>
 40:44.822072391 [ INFO] follower commited 326
 40:44.926409770 [ INFO] leader commited 327
-40:44.926467176 [ INFO] leader sends <329>
+40:44.926467176 [ INFO] leader sends 329
 40:44.926644189 [ INFO] follower appended <329>
 40:44.926696160 [ INFO] follower commited 327
 40:44.926694164 [ INFO] follower appended <329>
@@ -37978,7 +37978,7 @@
 40:44.941058361 [ INFO] follower appended <329>
 40:44.941107343 [ INFO] follower commited 327
 40:45.045431130 [ INFO] leader commited 328
-40:45.045634751 [ INFO] leader sends <330>
+40:45.045634751 [ INFO] leader sends 330
 40:45.045858172 [ INFO] follower appended <330>
 40:45.045914593 [ INFO] follower commited 328
 40:45.045907825 [ INFO] follower appended <330>
@@ -38088,7 +38088,7 @@
 40:45.059054297 [ INFO] follower appended <330>
 40:45.059104360 [ INFO] follower commited 328
 40:45.163421280 [ INFO] leader commited 329
-40:45.163470882 [ INFO] leader sends <331>
+40:45.163470882 [ INFO] leader sends 331
 40:45.163634036 [ INFO] follower appended <331>
 40:45.163687595 [ INFO] follower commited 329
 40:45.163663780 [ INFO] follower appended <331>
@@ -38198,7 +38198,7 @@
 40:45.177023666 [ INFO] follower appended <331>
 40:45.177078004 [ INFO] follower commited 329
 40:45.281380841 [ INFO] leader commited 330
-40:45.281429902 [ INFO] leader sends <332>
+40:45.281429902 [ INFO] leader sends 332
 40:45.281600206 [ INFO] follower appended <332>
 40:45.281650920 [ INFO] follower commited 330
 40:45.281656050 [ INFO] follower appended <332>
@@ -38308,7 +38308,7 @@
 40:45.294516040 [ INFO] follower appended <332>
 40:45.294569100 [ INFO] follower commited 330
 40:45.398879747 [ INFO] leader commited 331
-40:45.398929371 [ INFO] leader sends <333>
+40:45.398929371 [ INFO] leader sends 333
 40:45.399074890 [ INFO] follower appended <333>
 40:45.399125360 [ INFO] follower commited 331
 40:45.399129345 [ INFO] follower appended <333>
@@ -38418,7 +38418,7 @@
 40:45.412319728 [ INFO] follower appended <333>
 40:45.412368662 [ INFO] follower commited 331
 40:45.516685767 [ INFO] leader commited 332
-40:45.516731536 [ INFO] leader sends <334>
+40:45.516731536 [ INFO] leader sends 334
 40:45.516884529 [ INFO] follower appended <334>
 40:45.516935101 [ INFO] follower commited 332
 40:45.516928477 [ INFO] follower appended <334>
@@ -38528,7 +38528,7 @@
 40:45.530380229 [ INFO] follower appended <334>
 40:45.530430552 [ INFO] follower commited 332
 40:45.634744891 [ INFO] leader commited 333
-40:45.634791203 [ INFO] leader sends <335>
+40:45.634791203 [ INFO] leader sends 335
 40:45.634949211 [ INFO] follower appended <335>
 40:45.635000289 [ INFO] follower commited 333
 40:45.634990337 [ INFO] follower appended <335>
@@ -38638,7 +38638,7 @@
 40:45.648278341 [ INFO] follower appended <335>
 40:45.648329884 [ INFO] follower commited 333
 40:45.752642203 [ INFO] leader commited 334
-40:45.752693919 [ INFO] leader sends <336>
+40:45.752693919 [ INFO] leader sends 336
 40:45.752844968 [ INFO] follower appended <336>
 40:45.752880329 [ INFO] follower appended <336>
 40:45.752913496 [ INFO] follower commited 334
@@ -38748,7 +38748,7 @@
 40:45.765565172 [ INFO] follower appended <336>
 40:45.765615613 [ INFO] follower commited 334
 40:45.869919364 [ INFO] leader commited 335
-40:45.869963462 [ INFO] leader sends <337>
+40:45.869963462 [ INFO] leader sends 337
 40:45.870119867 [ INFO] follower appended <337>
 40:45.870174441 [ INFO] follower commited 335
 40:45.870166812 [ INFO] follower appended <337>
@@ -38858,7 +38858,7 @@
 40:45.883433651 [ INFO] follower appended <337>
 40:45.883483395 [ INFO] follower commited 335
 40:45.987801284 [ INFO] leader commited 336
-40:45.987850701 [ INFO] leader sends <338>
+40:45.987850701 [ INFO] leader sends 338
 40:45.988007251 [ INFO] follower appended <338>
 40:45.988060901 [ INFO] follower commited 336
 40:45.988103531 [ INFO] follower appended <338>
@@ -38968,7 +38968,7 @@
 40:46.001462167 [ INFO] follower appended <338>
 40:46.001513547 [ INFO] follower commited 336
 40:46.105830327 [ INFO] leader commited 337
-40:46.105879670 [ INFO] leader sends <339>
+40:46.105879670 [ INFO] leader sends 339
 40:46.106089601 [ INFO] follower appended <339>
 40:46.106137965 [ INFO] follower commited 337
 40:46.106131307 [ INFO] follower appended <339>
@@ -39078,7 +39078,7 @@
 40:46.120284107 [ INFO] follower appended <339>
 40:46.120334187 [ INFO] follower commited 337
 40:46.224652215 [ INFO] leader commited 338
-40:46.224850142 [ INFO] leader sends <340>
+40:46.224850142 [ INFO] leader sends 340
 40:46.225073312 [ INFO] follower appended <340>
 40:46.225131772 [ INFO] follower commited 338
 40:46.225109703 [ INFO] follower appended <340>
@@ -39188,7 +39188,7 @@
 40:46.239068984 [ INFO] follower appended <340>
 40:46.239117513 [ INFO] follower commited 338
 40:46.343439302 [ INFO] leader commited 339
-40:46.343650846 [ INFO] leader sends <341>
+40:46.343650846 [ INFO] leader sends 341
 40:46.343868438 [ INFO] follower appended <341>
 40:46.343920159 [ INFO] follower commited 339
 40:46.343913751 [ INFO] follower appended <341>
@@ -39298,7 +39298,7 @@
 40:46.357831595 [ INFO] follower appended <341>
 40:46.357881667 [ INFO] follower commited 339
 40:46.462200384 [ INFO] leader commited 340
-40:46.462392774 [ INFO] leader sends <342>
+40:46.462392774 [ INFO] leader sends 342
 40:46.462615618 [ INFO] follower appended <342>
 40:46.462670480 [ INFO] follower commited 340
 40:46.462653821 [ INFO] follower appended <342>
@@ -39408,7 +39408,7 @@
 40:46.476495476 [ INFO] follower appended <342>
 40:46.476545858 [ INFO] follower commited 340
 40:46.580865483 [ INFO] leader commited 341
-40:46.581008810 [ INFO] leader sends <343>
+40:46.581008810 [ INFO] leader sends 343
 40:46.581226413 [ INFO] follower appended <343>
 40:46.581278667 [ INFO] follower commited 341
 40:46.581278748 [ INFO] follower appended <343>
@@ -39518,7 +39518,7 @@
 40:46.596977017 [ INFO] follower appended <343>
 40:46.597051692 [ INFO] follower commited 341
 40:46.701337102 [ INFO] leader commited 342
-40:46.701389455 [ INFO] leader sends <344>
+40:46.701389455 [ INFO] leader sends 344
 40:46.701619743 [ INFO] follower appended <344>
 40:46.701680868 [ INFO] follower commited 342
 40:46.701666453 [ INFO] follower appended <344>
@@ -39628,7 +39628,7 @@
 40:46.716169171 [ INFO] follower appended <344>
 40:46.716218921 [ INFO] follower commited 342
 40:46.820541185 [ INFO] leader commited 343
-40:46.820739784 [ INFO] leader sends <345>
+40:46.820739784 [ INFO] leader sends 345
 40:46.820996108 [ INFO] follower appended <345>
 40:46.820966041 [ INFO] follower appended <345>
 40:46.821044322 [ INFO] follower commited 343
@@ -39738,7 +39738,7 @@
 40:46.834964710 [ INFO] follower appended <345>
 40:46.835012929 [ INFO] follower commited 343
 40:46.939333364 [ INFO] leader commited 344
-40:46.939379228 [ INFO] leader sends <346>
+40:46.939379228 [ INFO] leader sends 346
 40:46.939575484 [ INFO] follower appended <346>
 40:46.939625404 [ INFO] follower commited 344
 40:46.939546909 [ INFO] follower appended <346>
@@ -39848,7 +39848,7 @@
 40:46.953080525 [ INFO] follower appended <346>
 40:46.953129540 [ INFO] follower commited 344
 40:47.057454517 [ INFO] leader commited 345
-40:47.057501256 [ INFO] leader sends <347>
+40:47.057501256 [ INFO] leader sends 347
 40:47.057673581 [ INFO] follower appended <347>
 40:47.057729988 [ INFO] follower commited 345
 40:47.057708992 [ INFO] follower appended <347>
@@ -39958,7 +39958,7 @@
 40:47.071335956 [ INFO] follower appended <347>
 40:47.071384724 [ INFO] follower commited 345
 40:47.175703369 [ INFO] leader commited 346
-40:47.175749865 [ INFO] leader sends <348>
+40:47.175749865 [ INFO] leader sends 348
 40:47.175896296 [ INFO] follower appended <348>
 40:47.175946398 [ INFO] follower commited 346
 40:47.175997669 [ INFO] follower appended <348>
@@ -40068,7 +40068,7 @@
 40:47.189990836 [ INFO] follower appended <348>
 40:47.190040439 [ INFO] follower commited 346
 40:47.294363756 [ INFO] leader commited 347
-40:47.294415637 [ INFO] leader sends <349>
+40:47.294415637 [ INFO] leader sends 349
 40:47.294565491 [ INFO] follower appended <349>
 40:47.294617310 [ INFO] follower commited 347
 40:47.294629930 [ INFO] follower appended <349>
@@ -40178,7 +40178,7 @@
 40:47.308049774 [ INFO] follower appended <349>
 40:47.308098581 [ INFO] follower commited 347
 40:47.412416338 [ INFO] leader commited 348
-40:47.412461793 [ INFO] leader sends <350>
+40:47.412461793 [ INFO] leader sends 350
 40:47.412635956 [ INFO] follower appended <350>
 40:47.412690191 [ INFO] follower commited 348
 40:47.412674128 [ INFO] follower appended <350>
@@ -40288,7 +40288,7 @@
 40:47.427059137 [ INFO] follower appended <350>
 40:47.427107708 [ INFO] follower commited 348
 40:47.531431148 [ INFO] leader commited 349
-40:47.531483782 [ INFO] leader sends <351>
+40:47.531483782 [ INFO] leader sends 351
 40:47.531650143 [ INFO] follower appended <351>
 40:47.531704081 [ INFO] follower commited 349
 40:47.531749211 [ INFO] follower appended <351>
@@ -40398,7 +40398,7 @@
 40:47.546108102 [ INFO] follower appended <351>
 40:47.546156664 [ INFO] follower commited 349
 40:47.650477278 [ INFO] leader commited 350
-40:47.650524356 [ INFO] leader sends <352>
+40:47.650524356 [ INFO] leader sends 352
 40:47.650675614 [ INFO] follower appended <352>
 40:47.650728410 [ INFO] follower commited 350
 40:47.650779894 [ INFO] follower appended <352>
@@ -40508,7 +40508,7 @@
 40:47.664641047 [ INFO] follower appended <352>
 40:47.664689526 [ INFO] follower commited 350
 40:47.769009893 [ INFO] leader commited 351
-40:47.769055898 [ INFO] leader sends <353>
+40:47.769055898 [ INFO] leader sends 353
 40:47.781524896 [ INFO] follower appended <353>
 40:47.781577555 [ INFO] follower commited 351
 40:47.781565069 [ INFO] follower appended <353>
@@ -40618,7 +40618,7 @@
 40:47.795577412 [ INFO] follower appended <353>
 40:47.795627673 [ INFO] follower commited 351
 40:47.899933241 [ INFO] leader commited 352
-40:47.899981743 [ INFO] leader sends <354>
+40:47.899981743 [ INFO] leader sends 354
 40:47.900142451 [ INFO] follower appended <354>
 40:47.900194472 [ INFO] follower commited 352
 40:47.900179240 [ INFO] follower appended <354>
@@ -40728,7 +40728,7 @@
 40:47.916913964 [ INFO] follower appended <354>
 40:47.916963463 [ INFO] follower commited 352
 40:48.021270677 [ INFO] leader commited 353
-40:48.021479411 [ INFO] leader sends <355>
+40:48.021479411 [ INFO] leader sends 355
 40:48.021743003 [ INFO] follower appended <355>
 40:48.021794949 [ INFO] follower commited 353
 40:48.021700906 [ INFO] follower appended <355>
@@ -40838,7 +40838,7 @@
 40:48.037545916 [ INFO] follower appended <355>
 40:48.037595247 [ INFO] follower commited 353
 40:48.141918398 [ INFO] leader commited 354
-40:48.141973587 [ INFO] leader sends <356>
+40:48.141973587 [ INFO] leader sends 356
 40:48.142132056 [ INFO] follower appended <356>
 40:48.142185276 [ INFO] follower commited 354
 40:48.142175049 [ INFO] follower appended <356>
@@ -40948,7 +40948,7 @@
 40:48.158717424 [ INFO] follower appended <356>
 40:48.158766372 [ INFO] follower commited 354
 40:48.263076943 [ INFO] leader commited 355
-40:48.263129171 [ INFO] leader sends <357>
+40:48.263129171 [ INFO] leader sends 357
 40:48.263293856 [ INFO] follower appended <357>
 40:48.263346404 [ INFO] follower commited 355
 40:48.263350415 [ INFO] follower appended <357>
@@ -41058,7 +41058,7 @@
 40:48.278275177 [ INFO] follower appended <357>
 40:48.278325460 [ INFO] follower commited 355
 40:48.382642328 [ INFO] leader commited 356
-40:48.382694354 [ INFO] leader sends <358>
+40:48.382694354 [ INFO] leader sends 358
 40:48.382848447 [ INFO] follower appended <358>
 40:48.382898995 [ INFO] follower commited 356
 40:48.382901187 [ INFO] follower appended <358>
@@ -41168,7 +41168,7 @@
 40:48.400355147 [ INFO] follower appended <358>
 40:48.400403738 [ INFO] follower commited 356
 40:48.504726241 [ INFO] leader commited 357
-40:48.504778242 [ INFO] leader sends <359>
+40:48.504778242 [ INFO] leader sends 359
 40:48.504929443 [ INFO] follower appended <359>
 40:48.504979354 [ INFO] follower commited 357
 40:48.504972813 [ INFO] follower appended <359>
@@ -41278,7 +41278,7 @@
 40:48.519719736 [ INFO] follower appended <359>
 40:48.519767696 [ INFO] follower commited 357
 40:48.624093065 [ INFO] leader commited 358
-40:48.624143310 [ INFO] leader sends <360>
+40:48.624143310 [ INFO] leader sends 360
 40:48.624307841 [ INFO] follower appended <360>
 40:48.624358307 [ INFO] follower commited 358
 40:48.624348472 [ INFO] follower appended <360>
@@ -41388,7 +41388,7 @@
 40:48.639667849 [ INFO] follower appended <360>
 40:48.639720022 [ INFO] follower commited 358
 40:48.744034521 [ INFO] leader commited 359
-40:48.744086525 [ INFO] leader sends <361>
+40:48.744086525 [ INFO] leader sends 361
 40:48.744240112 [ INFO] follower appended <361>
 40:48.744294151 [ INFO] follower commited 359
 40:48.744279909 [ INFO] follower appended <361>
@@ -41498,7 +41498,7 @@
 40:48.759258129 [ INFO] follower appended <361>
 40:48.759305948 [ INFO] follower commited 359
 40:48.863628102 [ INFO] leader commited 360
-40:48.863674845 [ INFO] leader sends <362>
+40:48.863674845 [ INFO] leader sends 362
 40:48.863843427 [ INFO] follower appended <362>
 40:48.863887900 [ INFO] follower appended <362>
 40:48.863913376 [ INFO] follower commited 360
@@ -41608,7 +41608,7 @@
 40:48.879035171 [ INFO] follower appended <362>
 40:48.879084481 [ INFO] follower commited 360
 40:48.983404422 [ INFO] leader commited 361
-40:48.983451550 [ INFO] leader sends <363>
+40:48.983451550 [ INFO] leader sends 363
 40:48.983651284 [ INFO] follower appended <363>
 40:48.983704839 [ INFO] follower commited 361
 40:48.983603111 [ INFO] follower appended <363>
@@ -41718,7 +41718,7 @@
 40:48.998949925 [ INFO] follower appended <363>
 40:48.999000813 [ INFO] follower commited 361
 40:49.103315684 [ INFO] leader commited 362
-40:49.103362742 [ INFO] leader sends <364>
+40:49.103362742 [ INFO] leader sends 364
 40:49.103517320 [ INFO] follower appended <364>
 40:49.103572771 [ INFO] follower commited 362
 40:49.103558846 [ INFO] follower appended <364>
@@ -41828,7 +41828,7 @@
 40:49.118733281 [ INFO] follower appended <364>
 40:49.118787058 [ INFO] follower commited 362
 40:49.223094843 [ INFO] leader commited 363
-40:49.223143663 [ INFO] leader sends <365>
+40:49.223143663 [ INFO] leader sends 365
 40:49.223300831 [ INFO] follower appended <365>
 40:49.223345735 [ INFO] follower appended <365>
 40:49.223372966 [ INFO] follower commited 363
@@ -41938,7 +41938,7 @@
 40:49.238519456 [ INFO] follower appended <365>
 40:49.238571294 [ INFO] follower commited 363
 40:49.342882979 [ INFO] leader commited 364
-40:49.342929327 [ INFO] leader sends <366>
+40:49.342929327 [ INFO] leader sends 366
 40:49.343089111 [ INFO] follower appended <366>
 40:49.343129460 [ INFO] follower appended <366>
 40:49.343160088 [ INFO] follower commited 364
@@ -42048,7 +42048,7 @@
 40:49.375373073 [ INFO] follower appended <366>
 40:49.375422542 [ INFO] follower commited 364
 40:49.479742622 [ INFO] leader commited 365
-40:49.479790614 [ INFO] leader sends <367>
+40:49.479790614 [ INFO] leader sends 367
 40:49.479961299 [ INFO] follower appended <367>
 40:49.479996818 [ INFO] follower appended <367>
 40:49.480050750 [ INFO] follower commited 365
@@ -42158,7 +42158,7 @@
 40:49.497228856 [ INFO] follower appended <367>
 40:49.497278832 [ INFO] follower commited 365
 40:49.601590064 [ INFO] leader commited 366
-40:49.601633052 [ INFO] leader sends <368>
+40:49.601633052 [ INFO] leader sends 368
 40:49.601783491 [ INFO] follower appended <368>
 40:49.601834781 [ INFO] follower commited 366
 40:49.601825825 [ INFO] follower appended <368>
@@ -42268,7 +42268,7 @@
 40:49.617365207 [ INFO] follower appended <368>
 40:49.617416595 [ INFO] follower commited 366
 40:49.721726155 [ INFO] leader commited 367
-40:49.721772611 [ INFO] leader sends <369>
+40:49.721772611 [ INFO] leader sends 369
 40:49.721925338 [ INFO] follower appended <369>
 40:49.721979631 [ INFO] follower commited 367
 40:49.721973071 [ INFO] follower appended <369>
@@ -42378,7 +42378,7 @@
 40:49.737221486 [ INFO] follower appended <369>
 40:49.737273433 [ INFO] follower commited 367
 40:49.841590256 [ INFO] leader commited 368
-40:49.841637597 [ INFO] leader sends <370>
+40:49.841637597 [ INFO] leader sends 370
 40:49.841799483 [ INFO] follower appended <370>
 40:49.841850239 [ INFO] follower commited 368
 40:49.841846480 [ INFO] follower appended <370>
@@ -42488,7 +42488,7 @@
 40:49.857557533 [ INFO] follower appended <370>
 40:49.857607863 [ INFO] follower commited 368
 40:49.961916020 [ INFO] leader commited 369
-40:49.961969323 [ INFO] leader sends <371>
+40:49.961969323 [ INFO] leader sends 371
 40:49.962126854 [ INFO] follower appended <371>
 40:49.962179912 [ INFO] follower commited 369
 40:49.962172394 [ INFO] follower appended <371>
@@ -42598,7 +42598,7 @@
 40:49.977582884 [ INFO] follower appended <371>
 40:49.977633 [ INFO] follower commited 369
 40:50.081947842 [ INFO] leader commited 370
-40:50.081994852 [ INFO] leader sends <372>
+40:50.081994852 [ INFO] leader sends 372
 40:50.082158570 [ INFO] follower appended <372>
 40:50.082210507 [ INFO] follower commited 370
 40:50.082189785 [ INFO] follower appended <372>
@@ -42708,7 +42708,7 @@
 40:50.099859048 [ INFO] follower appended <372>
 40:50.099909959 [ INFO] follower commited 370
 40:50.204228188 [ INFO] leader commited 371
-40:50.204278174 [ INFO] leader sends <373>
+40:50.204278174 [ INFO] leader sends 373
 40:50.204431091 [ INFO] follower appended <373>
 40:50.204482477 [ INFO] follower commited 371
 40:50.204476311 [ INFO] follower appended <373>
@@ -42818,7 +42818,7 @@
 40:50.218476647 [ INFO] follower appended <373>
 40:50.218528012 [ INFO] follower commited 371
 40:50.324612163 [ INFO] leader commited 372
-40:50.324659545 [ INFO] leader sends <374>
+40:50.324659545 [ INFO] leader sends 374
 40:50.324825733 [ INFO] follower appended <374>
 40:50.324877914 [ INFO] follower commited 372
 40:50.324874616 [ INFO] follower appended <374>
@@ -42928,7 +42928,7 @@
 40:50.343275748 [ INFO] follower appended <374>
 40:50.343326349 [ INFO] follower commited 372
 40:50.447646081 [ INFO] leader commited 373
-40:50.447699077 [ INFO] leader sends <375>
+40:50.447699077 [ INFO] leader sends 375
 40:50.447851597 [ INFO] follower appended <375>
 40:50.447902069 [ INFO] follower commited 373
 40:50.447943195 [ INFO] follower appended <375>
@@ -43038,7 +43038,7 @@
 40:50.463554337 [ INFO] follower appended <375>
 40:50.463602021 [ INFO] follower commited 373
 40:50.567925028 [ INFO] leader commited 374
-40:50.567971872 [ INFO] leader sends <376>
+40:50.567971872 [ INFO] leader sends 376
 40:50.568128069 [ INFO] follower appended <376>
 40:50.568177315 [ INFO] follower appended <376>
 40:50.568200770 [ INFO] follower commited 374
@@ -43148,7 +43148,7 @@
 40:50.584036684 [ INFO] follower appended <376>
 40:50.584087984 [ INFO] follower commited 374
 40:50.688406323 [ INFO] leader commited 375
-40:50.688453143 [ INFO] leader sends <377>
+40:50.688453143 [ INFO] leader sends 377
 40:50.688612987 [ INFO] follower appended <377>
 40:50.688669351 [ INFO] follower commited 375
 40:50.688660299 [ INFO] follower appended <377>
@@ -43258,7 +43258,7 @@
 40:50.704667612 [ INFO] follower appended <377>
 40:50.704717892 [ INFO] follower commited 375
 40:50.809038501 [ INFO] leader commited 376
-40:50.809090937 [ INFO] leader sends <378>
+40:50.809090937 [ INFO] leader sends 378
 40:50.809238627 [ INFO] follower appended <378>
 40:50.809281908 [ INFO] follower appended <378>
 40:50.809307092 [ INFO] follower commited 376
@@ -43368,7 +43368,7 @@
 40:50.824588330 [ INFO] follower appended <378>
 40:50.824636206 [ INFO] follower commited 376
 40:50.928959820 [ INFO] leader commited 377
-40:50.929002847 [ INFO] leader sends <379>
+40:50.929002847 [ INFO] leader sends 379
 40:50.929185731 [ INFO] follower appended <379>
 40:50.929215904 [ INFO] follower appended <379>
 40:50.929251469 [ INFO] follower commited 377
@@ -43478,7 +43478,7 @@
 40:50.945179288 [ INFO] follower appended <379>
 40:50.945228124 [ INFO] follower commited 377
 40:51.049547724 [ INFO] leader commited 378
-40:51.049594401 [ INFO] leader sends <380>
+40:51.049594401 [ INFO] leader sends 380
 40:51.049747395 [ INFO] follower appended <380>
 40:51.049794276 [ INFO] follower appended <380>
 40:51.049817334 [ INFO] follower commited 378
@@ -43588,7 +43588,7 @@
 40:51.066028539 [ INFO] follower appended <380>
 40:51.066080753 [ INFO] follower commited 378
 40:51.170391791 [ INFO] leader commited 379
-40:51.170436862 [ INFO] leader sends <381>
+40:51.170436862 [ INFO] leader sends 381
 40:51.170590523 [ INFO] follower appended <381>
 40:51.170643758 [ INFO] follower commited 379
 40:51.170685752 [ INFO] follower appended <381>
@@ -43698,7 +43698,7 @@
 40:51.187665917 [ INFO] follower appended <381>
 40:51.187717539 [ INFO] follower commited 379
 40:51.292032052 [ INFO] leader commited 380
-40:51.292085697 [ INFO] leader sends <382>
+40:51.292085697 [ INFO] leader sends 382
 40:51.292242758 [ INFO] follower appended <382>
 40:51.292298296 [ INFO] follower commited 380
 40:51.292401423 [ INFO] follower appended <382>
@@ -43808,7 +43808,7 @@
 40:51.308686187 [ INFO] follower appended <382>
 40:51.308737183 [ INFO] follower commited 380
 40:51.413053191 [ INFO] leader commited 381
-40:51.413102843 [ INFO] leader sends <383>
+40:51.413102843 [ INFO] leader sends 383
 40:51.413264207 [ INFO] follower appended <383>
 40:51.413319220 [ INFO] follower commited 381
 40:51.413358811 [ INFO] follower appended <383>
@@ -43918,7 +43918,7 @@
 40:51.429465132 [ INFO] follower appended <383>
 40:51.429515079 [ INFO] follower commited 381
 40:51.533844852 [ INFO] leader commited 382
-40:51.533903699 [ INFO] leader sends <384>
+40:51.533903699 [ INFO] leader sends 384
 40:51.534084848 [ INFO] follower appended <384>
 40:51.534137586 [ INFO] follower commited 382
 40:51.534131241 [ INFO] follower appended <384>
@@ -44028,7 +44028,7 @@
 40:51.550501244 [ INFO] follower appended <384>
 40:51.550553235 [ INFO] follower commited 382
 40:51.654850515 [ INFO] leader commited 383
-40:51.654902980 [ INFO] leader sends <385>
+40:51.654902980 [ INFO] leader sends 385
 40:51.655078733 [ INFO] follower appended <385>
 40:51.655130597 [ INFO] follower commited 383
 40:51.655121605 [ INFO] follower appended <385>
@@ -44138,7 +44138,7 @@
 40:51.671477068 [ INFO] follower appended <385>
 40:51.671530054 [ INFO] follower commited 383
 40:51.775836140 [ INFO] leader commited 384
-40:51.775890279 [ INFO] leader sends <386>
+40:51.775890279 [ INFO] leader sends 386
 40:51.776044618 [ INFO] follower appended <386>
 40:51.776098124 [ INFO] follower commited 384
 40:51.776093900 [ INFO] follower appended <386>
@@ -44248,7 +44248,7 @@
 40:51.792475113 [ INFO] follower appended <386>
 40:51.792527132 [ INFO] follower commited 384
 40:51.896834872 [ INFO] leader commited 385
-40:51.896886233 [ INFO] leader sends <387>
+40:51.896886233 [ INFO] leader sends 387
 40:51.897036827 [ INFO] follower appended <387>
 40:51.897088245 [ INFO] follower commited 385
 40:51.897087388 [ INFO] follower appended <387>
@@ -44358,7 +44358,7 @@
 40:51.913222551 [ INFO] follower appended <387>
 40:51.913274029 [ INFO] follower commited 385
 40:52.017583489 [ INFO] leader commited 386
-40:52.017635476 [ INFO] leader sends <388>
+40:52.017635476 [ INFO] leader sends 388
 40:52.017795953 [ INFO] follower appended <388>
 40:52.017832126 [ INFO] follower appended <388>
 40:52.017869567 [ INFO] follower commited 386
@@ -44468,7 +44468,7 @@
 40:52.035499540 [ INFO] follower appended <388>
 40:52.035549173 [ INFO] follower commited 386
 40:52.139868172 [ INFO] leader commited 387
-40:52.140068633 [ INFO] leader sends <389>
+40:52.140068633 [ INFO] leader sends 389
 40:52.140304983 [ INFO] follower appended <389>
 40:52.140360896 [ INFO] follower commited 387
 40:52.140381464 [ INFO] follower appended <389>
@@ -44578,7 +44578,7 @@
 40:52.156990503 [ INFO] follower appended <389>
 40:52.157043251 [ INFO] follower commited 387
 40:52.261356397 [ INFO] leader commited 388
-40:52.261413134 [ INFO] leader sends <390>
+40:52.261413134 [ INFO] leader sends 390
 40:52.261580434 [ INFO] follower appended <390>
 40:52.261635514 [ INFO] follower commited 388
 40:52.261667323 [ INFO] follower appended <390>
@@ -44688,7 +44688,7 @@
 40:52.280763590 [ INFO] follower appended <390>
 40:52.280815007 [ INFO] follower commited 388
 40:52.385118305 [ INFO] leader commited 389
-40:52.385171492 [ INFO] leader sends <391>
+40:52.385171492 [ INFO] leader sends 391
 40:52.385330795 [ INFO] follower appended <391>
 40:52.385387386 [ INFO] follower commited 389
 40:52.385421946 [ INFO] follower appended <391>
@@ -44798,7 +44798,7 @@
 40:52.402417425 [ INFO] follower appended <391>
 40:52.402470185 [ INFO] follower commited 389
 40:52.506777464 [ INFO] leader commited 390
-40:52.506827827 [ INFO] leader sends <392>
+40:52.506827827 [ INFO] leader sends 392
 40:52.506980181 [ INFO] follower appended <392>
 40:52.507032398 [ INFO] follower commited 390
 40:52.507027762 [ INFO] follower appended <392>
@@ -44908,7 +44908,7 @@
 40:52.534567260 [ INFO] follower appended <392>
 40:52.534618748 [ INFO] follower commited 390
 40:52.638929676 [ INFO] leader commited 391
-40:52.638975689 [ INFO] leader sends <393>
+40:52.638975689 [ INFO] leader sends 393
 40:52.639128336 [ INFO] follower appended <393>
 40:52.639182573 [ INFO] follower commited 391
 40:52.639175215 [ INFO] follower appended <393>
@@ -45018,7 +45018,7 @@
 40:52.655912464 [ INFO] follower appended <393>
 40:52.655962147 [ INFO] follower commited 391
 40:52.760276966 [ INFO] leader commited 392
-40:52.760328318 [ INFO] leader sends <394>
+40:52.760328318 [ INFO] leader sends 394
 40:52.760479815 [ INFO] follower appended <394>
 40:52.760531899 [ INFO] follower commited 392
 40:52.760526597 [ INFO] follower appended <394>
@@ -45128,7 +45128,7 @@
 40:52.777652397 [ INFO] follower appended <394>
 40:52.777704840 [ INFO] follower commited 392
 40:52.882015576 [ INFO] leader commited 393
-40:52.882064804 [ INFO] leader sends <395>
+40:52.882064804 [ INFO] leader sends 395
 40:52.882221935 [ INFO] follower appended <395>
 40:52.882278351 [ INFO] follower commited 393
 40:52.882266864 [ INFO] follower appended <395>
@@ -45238,7 +45238,7 @@
 40:52.899544224 [ INFO] follower appended <395>
 40:52.899596037 [ INFO] follower commited 393
 40:53.003907910 [ INFO] leader commited 394
-40:53.004057188 [ INFO] leader sends <396>
+40:53.004057188 [ INFO] leader sends 396
 40:53.004271148 [ INFO] follower appended <396>
 40:53.004323891 [ INFO] follower commited 394
 40:53.004317087 [ INFO] follower appended <396>
@@ -45348,7 +45348,7 @@
 40:53.021866492 [ INFO] follower appended <396>
 40:53.021922085 [ INFO] follower commited 394
 40:53.126163460 [ INFO] leader commited 395
-40:53.126314547 [ INFO] leader sends <397>
+40:53.126314547 [ INFO] leader sends 397
 40:53.126578510 [ INFO] follower appended <397>
 40:53.126629947 [ INFO] follower commited 395
 40:53.126547602 [ INFO] follower appended <397>
@@ -45458,7 +45458,7 @@
 40:53.146062113 [ INFO] follower appended <397>
 40:53.146113944 [ INFO] follower commited 395
 40:53.250424088 [ INFO] leader commited 396
-40:53.250475077 [ INFO] leader sends <398>
+40:53.250475077 [ INFO] leader sends 398
 40:53.250628968 [ INFO] follower appended <398>
 40:53.250682254 [ INFO] follower commited 396
 40:53.250686758 [ INFO] follower appended <398>
@@ -45568,7 +45568,7 @@
 40:53.269529096 [ INFO] follower appended <398>
 40:53.269580095 [ INFO] follower commited 396
 40:53.373898509 [ INFO] leader commited 397
-40:53.374096460 [ INFO] leader sends <399>
+40:53.374096460 [ INFO] leader sends 399
 40:53.374360226 [ INFO] follower appended <399>
 40:53.374412695 [ INFO] follower commited 397
 40:53.374327600 [ INFO] follower appended <399>
@@ -45678,7 +45678,7 @@
 40:53.391909827 [ INFO] follower appended <399>
 40:53.391961258 [ INFO] follower commited 397
 40:53.496275308 [ INFO] leader commited 398
-40:53.496340464 [ INFO] leader sends <400>
+40:53.496340464 [ INFO] leader sends 400
 40:53.496494249 [ INFO] follower appended <400>
 40:53.496545379 [ INFO] follower commited 398
 40:53.496537247 [ INFO] follower appended <400>
@@ -45788,7 +45788,7 @@
 40:53.525106586 [ INFO] follower appended <400>
 40:53.525157242 [ INFO] follower commited 398
 40:53.629471233 [ INFO] leader commited 399
-40:53.629524172 [ INFO] leader sends <401>
+40:53.629524172 [ INFO] leader sends 401
 40:53.629678336 [ INFO] follower appended <401>
 40:53.629733027 [ INFO] follower commited 399
 40:53.629718090 [ INFO] follower appended <401>
@@ -45898,7 +45898,7 @@
 40:53.647032119 [ INFO] follower appended <401>
 40:53.647083550 [ INFO] follower commited 399
 40:53.751400649 [ INFO] leader commited 400
-40:53.751560197 [ INFO] leader sends <402>
+40:53.751560197 [ INFO] leader sends 402
 40:53.751779452 [ INFO] follower appended <402>
 40:53.751834341 [ INFO] follower commited 400
 40:53.751820791 [ INFO] follower appended <402>
@@ -46008,7 +46008,7 @@
 40:53.768960799 [ INFO] follower appended <402>
 40:53.769014568 [ INFO] follower commited 400
 40:53.873308207 [ INFO] leader commited 401
-40:53.873355584 [ INFO] leader sends <403>
+40:53.873355584 [ INFO] leader sends 403
 40:53.877517577 [ INFO] follower appended <403>
 40:53.877568960 [ INFO] follower commited 401
 40:53.877578196 [ INFO] follower appended <403>
@@ -46118,7 +46118,7 @@
 40:53.895116668 [ INFO] follower appended <403>
 40:53.895170500 [ INFO] follower commited 401
 40:53.999475878 [ INFO] leader commited 402
-40:53.999528412 [ INFO] leader sends <404>
+40:53.999528412 [ INFO] leader sends 404
 40:53.999680840 [ INFO] follower appended <404>
 40:53.999733370 [ INFO] follower commited 402
 40:53.999726622 [ INFO] follower appended <404>
@@ -46228,7 +46228,7 @@
 40:54.017539888 [ INFO] follower appended <404>
 40:54.017590747 [ INFO] follower commited 402
 40:54.121908555 [ INFO] leader commited 403
-40:54.121956582 [ INFO] leader sends <405>
+40:54.121956582 [ INFO] leader sends 405
 40:54.122109459 [ INFO] follower appended <405>
 40:54.122163967 [ INFO] follower commited 403
 40:54.122155492 [ INFO] follower appended <405>
@@ -46338,7 +46338,7 @@
 40:54.139440653 [ INFO] follower appended <405>
 40:54.139489680 [ INFO] follower commited 403
 40:54.243809990 [ INFO] leader commited 404
-40:54.243950721 [ INFO] leader sends <406>
+40:54.243950721 [ INFO] leader sends 406
 40:54.244167843 [ INFO] follower appended <406>
 40:54.244211928 [ INFO] follower appended <406>
 40:54.244239206 [ INFO] follower commited 404
@@ -46448,7 +46448,7 @@
 40:54.262159530 [ INFO] follower appended <406>
 40:54.262213933 [ INFO] follower commited 404
 40:54.366526895 [ INFO] leader commited 405
-40:54.366573993 [ INFO] leader sends <407>
+40:54.366573993 [ INFO] leader sends 407
 40:54.366728865 [ INFO] follower appended <407>
 40:54.366774781 [ INFO] follower appended <407>
 40:54.366803115 [ INFO] follower commited 405
@@ -46558,7 +46558,7 @@
 40:54.384608942 [ INFO] follower appended <407>
 40:54.384663858 [ INFO] follower commited 405
 40:54.488969449 [ INFO] leader commited 406
-40:54.489016275 [ INFO] leader sends <408>
+40:54.489016275 [ INFO] leader sends 408
 40:54.489172698 [ INFO] follower appended <408>
 40:54.489227572 [ INFO] follower commited 406
 40:54.489212029 [ INFO] follower appended <408>
@@ -46668,7 +46668,7 @@
 40:54.507584024 [ INFO] follower appended <408>
 40:54.507637422 [ INFO] follower commited 406
 40:54.611936712 [ INFO] leader commited 407
-40:54.612138065 [ INFO] leader sends <409>
+40:54.612138065 [ INFO] leader sends 409
 40:54.612395981 [ INFO] follower appended <409>
 40:54.612445694 [ INFO] follower commited 407
 40:54.612353954 [ INFO] follower appended <409>
@@ -46778,7 +46778,7 @@
 40:54.630915039 [ INFO] follower appended <409>
 40:54.630969431 [ INFO] follower commited 407
 40:54.735279210 [ INFO] leader commited 408
-40:54.735426816 [ INFO] leader sends <410>
+40:54.735426816 [ INFO] leader sends 410
 40:54.735649981 [ INFO] follower appended <410>
 40:54.735699201 [ INFO] follower commited 408
 40:54.735747696 [ INFO] follower appended <410>
@@ -46888,7 +46888,7 @@
 40:54.753919772 [ INFO] follower appended <410>
 40:54.753973047 [ INFO] follower commited 408
 40:54.858283464 [ INFO] leader commited 409
-40:54.858331960 [ INFO] leader sends <411>
+40:54.858331960 [ INFO] leader sends 411
 40:54.858499685 [ INFO] follower appended <411>
 40:54.858554117 [ INFO] follower commited 409
 40:54.858544078 [ INFO] follower appended <411>
@@ -46998,7 +46998,7 @@
 40:54.877470411 [ INFO] follower appended <411>
 40:54.877523585 [ INFO] follower commited 409
 40:54.981837144 [ INFO] leader commited 410
-40:54.982035428 [ INFO] leader sends <412>
+40:54.982035428 [ INFO] leader sends 412
 40:54.982247879 [ INFO] follower appended <412>
 40:54.982298837 [ INFO] follower commited 410
 40:54.982292696 [ INFO] follower appended <412>
@@ -47108,7 +47108,7 @@
 40:55.000861066 [ INFO] follower appended <412>
 40:55.000912470 [ INFO] follower commited 410
 40:55.105233527 [ INFO] leader commited 411
-40:55.105286814 [ INFO] leader sends <413>
+40:55.105286814 [ INFO] leader sends 413
 40:55.105452890 [ INFO] follower appended <413>
 40:55.105502257 [ INFO] follower commited 411
 40:55.105500236 [ INFO] follower appended <413>
@@ -47218,7 +47218,7 @@
 40:55.123862853 [ INFO] follower appended <413>
 40:55.123911807 [ INFO] follower commited 411
 40:55.228218513 [ INFO] leader commited 412
-40:55.228265683 [ INFO] leader sends <414>
+40:55.228265683 [ INFO] leader sends 414
 40:55.229518935 [ INFO] follower appended <414>
 40:55.229571736 [ INFO] follower commited 412
 40:55.229658726 [ INFO] follower appended <414>
@@ -47328,7 +47328,7 @@
 40:55.248112611 [ INFO] follower appended <414>
 40:55.248161968 [ INFO] follower commited 412
 40:55.352471025 [ INFO] leader commited 413
-40:55.352518738 [ INFO] leader sends <415>
+40:55.352518738 [ INFO] leader sends 415
 40:55.365517197 [ INFO] follower appended <415>
 40:55.365572754 [ INFO] follower commited 413
 40:55.365558398 [ INFO] follower appended <415>
@@ -47438,7 +47438,7 @@
 40:55.383514935 [ INFO] follower appended <415>
 40:55.383564799 [ INFO] follower commited 413
 40:55.487869828 [ INFO] leader commited 414
-40:55.487916219 [ INFO] leader sends <416>
+40:55.487916219 [ INFO] leader sends 416
 40:55.488065839 [ INFO] follower appended <416>
 40:55.488116763 [ INFO] follower commited 414
 40:55.488110941 [ INFO] follower appended <416>
@@ -47548,7 +47548,7 @@
 40:55.506773396 [ INFO] follower appended <416>
 40:55.506828288 [ INFO] follower commited 414
 40:55.611147247 [ INFO] leader commited 415
-40:55.611198462 [ INFO] leader sends <417>
+40:55.611198462 [ INFO] leader sends 417
 40:55.625520518 [ INFO] follower appended <417>
 40:55.625573652 [ INFO] follower commited 415
 40:55.625568243 [ INFO] follower appended <417>
@@ -47658,7 +47658,7 @@
 40:55.644588523 [ INFO] follower appended <417>
 40:55.644638125 [ INFO] follower commited 415
 40:55.748959751 [ INFO] leader commited 416
-40:55.749165709 [ INFO] leader sends <418>
+40:55.749165709 [ INFO] leader sends 418
 40:55.749379974 [ INFO] follower appended <418>
 40:55.749435442 [ INFO] follower commited 416
 40:55.749444430 [ INFO] follower appended <418>
@@ -47768,7 +47768,7 @@
 40:55.768287160 [ INFO] follower appended <418>
 40:55.768337218 [ INFO] follower commited 416
 40:55.872657891 [ INFO] leader commited 417
-40:55.872862181 [ INFO] leader sends <419>
+40:55.872862181 [ INFO] leader sends 419
 40:55.873084103 [ INFO] follower appended <419>
 40:55.873126724 [ INFO] follower appended <419>
 40:55.873156583 [ INFO] follower commited 417
@@ -47878,7 +47878,7 @@
 40:55.892207217 [ INFO] follower appended <419>
 40:55.892255578 [ INFO] follower commited 417
 40:55.996575882 [ INFO] leader commited 418
-40:55.996623463 [ INFO] leader sends <420>
+40:55.996623463 [ INFO] leader sends 420
 40:56.009517102 [ INFO] follower appended <420>
 40:56.009572061 [ INFO] follower commited 418
 40:56.009583264 [ INFO] follower appended <420>
@@ -47988,7 +47988,7 @@
 40:56.028315587 [ INFO] follower appended <420>
 40:56.028365859 [ INFO] follower commited 418
 40:56.132686522 [ INFO] leader commited 419
-40:56.132733196 [ INFO] leader sends <421>
+40:56.132733196 [ INFO] leader sends 421
 40:56.132887783 [ INFO] follower appended <421>
 40:56.132942227 [ INFO] follower commited 419
 40:56.132935133 [ INFO] follower appended <421>
@@ -48098,7 +48098,7 @@
 40:56.151778039 [ INFO] follower appended <421>
 40:56.151828015 [ INFO] follower commited 419
 40:56.256150148 [ INFO] leader commited 420
-40:56.256313773 [ INFO] leader sends <422>
+40:56.256313773 [ INFO] leader sends 422
 40:56.256535360 [ INFO] follower appended <422>
 40:56.256590064 [ INFO] follower commited 420
 40:56.256584072 [ INFO] follower appended <422>
@@ -48208,7 +48208,7 @@
 40:56.275445723 [ INFO] follower appended <422>
 40:56.275496497 [ INFO] follower commited 420
 40:56.379814933 [ INFO] leader commited 421
-40:56.379862762 [ INFO] leader sends <423>
+40:56.379862762 [ INFO] leader sends 423
 40:56.380065796 [ INFO] follower appended <423>
 40:56.380119141 [ INFO] follower commited 421
 40:56.380017195 [ INFO] follower appended <423>
@@ -48318,7 +48318,7 @@
 40:56.399154201 [ INFO] follower appended <423>
 40:56.399204525 [ INFO] follower commited 421
 40:56.503520583 [ INFO] leader commited 422
-40:56.503567353 [ INFO] leader sends <424>
+40:56.503567353 [ INFO] leader sends 424
 40:56.503713754 [ INFO] follower appended <424>
 40:56.503764270 [ INFO] follower commited 422
 40:56.503769467 [ INFO] follower appended <424>
@@ -48428,7 +48428,7 @@
 40:56.524483052 [ INFO] follower appended <424>
 40:56.524531511 [ INFO] follower commited 422
 40:56.628864732 [ INFO] leader commited 423
-40:56.628919795 [ INFO] leader sends <425>
+40:56.628919795 [ INFO] leader sends 425
 40:56.629074843 [ INFO] follower appended <425>
 40:56.629125870 [ INFO] follower commited 423
 40:56.629130098 [ INFO] follower appended <425>
@@ -48538,7 +48538,7 @@
 40:56.648110230 [ INFO] follower appended <425>
 40:56.648161023 [ INFO] follower commited 423
 40:56.752476855 [ INFO] leader commited 424
-40:56.752529499 [ INFO] leader sends <426>
+40:56.752529499 [ INFO] leader sends 426
 40:56.752676817 [ INFO] follower appended <426>
 40:56.752725392 [ INFO] follower commited 424
 40:56.752731077 [ INFO] follower appended <426>
@@ -48648,7 +48648,7 @@
 40:56.771098604 [ INFO] follower appended <426>
 40:56.771148670 [ INFO] follower commited 424
 40:56.875466458 [ INFO] leader commited 425
-40:56.875616590 [ INFO] leader sends <427>
+40:56.875616590 [ INFO] leader sends 427
 40:56.875829589 [ INFO] follower appended <427>
 40:56.875880802 [ INFO] follower commited 425
 40:56.875887414 [ INFO] follower appended <427>
@@ -48758,7 +48758,7 @@
 40:56.894986332 [ INFO] follower appended <427>
 40:56.895034344 [ INFO] follower commited 425
 40:56.999357214 [ INFO] leader commited 426
-40:56.999410178 [ INFO] leader sends <428>
+40:56.999410178 [ INFO] leader sends 428
 40:56.999565120 [ INFO] follower appended <428>
 40:56.999615618 [ INFO] follower commited 426
 40:56.999634841 [ INFO] follower appended <428>
@@ -48868,7 +48868,7 @@
 40:57.019311852 [ INFO] follower appended <428>
 40:57.019362605 [ INFO] follower commited 426
 40:57.123679540 [ INFO] leader commited 427
-40:57.123730182 [ INFO] leader sends <429>
+40:57.123730182 [ INFO] leader sends 429
 40:57.123870201 [ INFO] follower appended <429>
 40:57.123920825 [ INFO] follower commited 427
 40:57.123924875 [ INFO] follower appended <429>
@@ -48978,7 +48978,7 @@
 40:57.142909313 [ INFO] follower appended <429>
 40:57.142958483 [ INFO] follower commited 427
 40:57.247278144 [ INFO] leader commited 428
-40:57.247328109 [ INFO] leader sends <430>
+40:57.247328109 [ INFO] leader sends 430
 40:57.247484263 [ INFO] follower appended <430>
 40:57.247534875 [ INFO] follower appended <430>
 40:57.247547372 [ INFO] follower commited 428
@@ -49088,7 +49088,7 @@
 40:57.267231586 [ INFO] follower appended <430>
 40:57.267281387 [ INFO] follower commited 428
 40:57.371599330 [ INFO] leader commited 429
-40:57.371650355 [ INFO] leader sends <431>
+40:57.371650355 [ INFO] leader sends 431
 40:57.371810039 [ INFO] follower appended <431>
 40:57.371843983 [ INFO] follower appended <431>
 40:57.371881159 [ INFO] follower commited 429
@@ -49198,7 +49198,7 @@
 40:57.390907104 [ INFO] follower appended <431>
 40:57.390957178 [ INFO] follower commited 429
 40:57.495279249 [ INFO] leader commited 430
-40:57.495332925 [ INFO] leader sends <432>
+40:57.495332925 [ INFO] leader sends 432
 40:57.495490982 [ INFO] follower appended <432>
 40:57.495544528 [ INFO] follower commited 430
 40:57.495533203 [ INFO] follower appended <432>
@@ -49308,7 +49308,7 @@
 40:57.514441902 [ INFO] follower appended <432>
 40:57.514491353 [ INFO] follower commited 430
 40:57.618806797 [ INFO] leader commited 431
-40:57.618852174 [ INFO] leader sends <433>
+40:57.618852174 [ INFO] leader sends 433
 40:57.618999841 [ INFO] follower appended <433>
 40:57.619050495 [ INFO] follower commited 431
 40:57.619049434 [ INFO] follower appended <433>
@@ -49418,7 +49418,7 @@
 40:57.642177943 [ INFO] follower appended <433>
 40:57.642223097 [ INFO] follower commited 431
 40:57.746054128 [ INFO] leader commited 432
-40:57.746108263 [ INFO] leader sends <434>
+40:57.746108263 [ INFO] leader sends 434
 40:57.746393004 [ INFO] follower appended <434>
 40:57.746445414 [ INFO] follower commited 432
 40:57.746440353 [ INFO] follower appended <434>
@@ -49528,7 +49528,7 @@
 40:57.764643376 [ INFO] follower appended <434>
 40:57.764691982 [ INFO] follower commited 432
 40:57.869014714 [ INFO] leader commited 433
-40:57.869066994 [ INFO] leader sends <435>
+40:57.869066994 [ INFO] leader sends 435
 40:57.869214157 [ INFO] follower appended <435>
 40:57.869267564 [ INFO] follower commited 433
 40:57.869260773 [ INFO] follower appended <435>
@@ -49638,7 +49638,7 @@
 40:57.889003797 [ INFO] follower appended <435>
 40:57.889053939 [ INFO] follower commited 433
 40:57.993373375 [ INFO] leader commited 434
-40:57.993581541 [ INFO] leader sends <436>
+40:57.993581541 [ INFO] leader sends 436
 40:57.993799796 [ INFO] follower appended <436>
 40:57.993853450 [ INFO] follower commited 434
 40:57.993844131 [ INFO] follower appended <436>
@@ -49748,7 +49748,7 @@
 40:58.013135920 [ INFO] follower appended <436>
 40:58.013184799 [ INFO] follower commited 434
 40:58.117516075 [ INFO] leader commited 435
-40:58.117568206 [ INFO] leader sends <437>
+40:58.117568206 [ INFO] leader sends 437
 40:58.117718904 [ INFO] follower appended <437>
 40:58.117769996 [ INFO] follower commited 435
 40:58.117768617 [ INFO] follower appended <437>
@@ -49858,7 +49858,7 @@
 40:58.138090600 [ INFO] follower appended <437>
 40:58.138139494 [ INFO] follower commited 435
 40:58.242465393 [ INFO] leader commited 436
-40:58.242531652 [ INFO] leader sends <438>
+40:58.242531652 [ INFO] leader sends 438
 40:58.242685593 [ INFO] follower appended <438>
 40:58.242736524 [ INFO] follower commited 436
 40:58.242742367 [ INFO] follower appended <438>
@@ -49968,7 +49968,7 @@
 40:58.263271598 [ INFO] follower appended <438>
 40:58.263320731 [ INFO] follower commited 436
 40:58.367637837 [ INFO] leader commited 437
-40:58.367688874 [ INFO] leader sends <439>
+40:58.367688874 [ INFO] leader sends 439
 40:58.367844418 [ INFO] follower appended <439>
 40:58.367887410 [ INFO] follower appended <439>
 40:58.367912879 [ INFO] follower commited 437
@@ -50078,7 +50078,7 @@
 40:58.388009052 [ INFO] follower appended <439>
 40:58.388057367 [ INFO] follower commited 437
 40:58.492375893 [ INFO] leader commited 438
-40:58.492422527 [ INFO] leader sends <440>
+40:58.492422527 [ INFO] leader sends 440
 40:58.492578302 [ INFO] follower appended <440>
 40:58.492634705 [ INFO] follower commited 438
 40:58.492618092 [ INFO] follower appended <440>
@@ -50188,7 +50188,7 @@
 40:58.512649669 [ INFO] follower appended <440>
 40:58.512699690 [ INFO] follower commited 438
 40:58.617016541 [ INFO] leader commited 439
-40:58.617066830 [ INFO] leader sends <441>
+40:58.617066830 [ INFO] leader sends 441
 40:58.617217704 [ INFO] follower appended <441>
 40:58.617270092 [ INFO] follower commited 439
 40:58.617261298 [ INFO] follower appended <441>
@@ -50298,7 +50298,7 @@
 40:58.639603850 [ INFO] follower appended <441>
 40:58.639656302 [ INFO] follower commited 439
 40:58.743984274 [ INFO] leader commited 440
-40:58.744037643 [ INFO] leader sends <442>
+40:58.744037643 [ INFO] leader sends 442
 40:58.744193875 [ INFO] follower appended <442>
 40:58.744244527 [ INFO] follower commited 440
 40:58.744245712 [ INFO] follower appended <442>
@@ -50408,7 +50408,7 @@
 40:58.764546202 [ INFO] follower appended <442>
 40:58.764596106 [ INFO] follower commited 440
 40:58.868915090 [ INFO] leader commited 441
-40:58.868965562 [ INFO] leader sends <443>
+40:58.868965562 [ INFO] leader sends 443
 40:58.869117249 [ INFO] follower appended <443>
 40:58.869167963 [ INFO] follower commited 441
 40:58.869168043 [ INFO] follower appended <443>
@@ -50518,7 +50518,7 @@
 40:58.889508994 [ INFO] follower appended <443>
 40:58.889560 [ INFO] follower commited 441
 40:58.993875691 [ INFO] leader commited 442
-40:58.993926299 [ INFO] leader sends <444>
+40:58.993926299 [ INFO] leader sends 444
 40:58.994076221 [ INFO] follower appended <444>
 40:58.994127994 [ INFO] follower commited 442
 40:58.994119875 [ INFO] follower appended <444>
@@ -50628,7 +50628,7 @@
 40:59.013842271 [ INFO] follower appended <444>
 40:59.013890754 [ INFO] follower commited 442
 40:59.118216953 [ INFO] leader commited 443
-40:59.118269074 [ INFO] leader sends <445>
+40:59.118269074 [ INFO] leader sends 445
 40:59.118438824 [ INFO] follower appended <445>
 40:59.118490745 [ INFO] follower commited 443
 40:59.118481794 [ INFO] follower appended <445>
@@ -50738,7 +50738,7 @@
 40:59.139651027 [ INFO] follower appended <445>
 40:59.139697768 [ INFO] follower commited 443
 40:59.243189194 [ INFO] leader commited 444
-40:59.243243346 [ INFO] leader sends <446>
+40:59.243243346 [ INFO] leader sends 446
 40:59.243442902 [ INFO] follower appended <446>
 40:59.243491373 [ INFO] follower commited 444
 40:59.243461411 [ INFO] follower appended <446>
@@ -50848,7 +50848,7 @@
 40:59.263145477 [ INFO] follower appended <446>
 40:59.263195896 [ INFO] follower commited 444
 40:59.367515416 [ INFO] leader commited 445
-40:59.367578228 [ INFO] leader sends <447>
+40:59.367578228 [ INFO] leader sends 447
 40:59.367734321 [ INFO] follower appended <447>
 40:59.367787512 [ INFO] follower commited 445
 40:59.367779187 [ INFO] follower appended <447>
@@ -50958,7 +50958,7 @@
 40:59.387900 [ INFO] follower appended <447>
 40:59.387953145 [ INFO] follower commited 445
 40:59.492263200 [ INFO] leader commited 446
-40:59.492458535 [ INFO] leader sends <448>
+40:59.492458535 [ INFO] leader sends 448
 40:59.492678244 [ INFO] follower appended <448>
 40:59.492734353 [ INFO] follower commited 446
 40:59.492724457 [ INFO] follower appended <448>
@@ -51068,7 +51068,7 @@
 40:59.512812612 [ INFO] follower appended <448>
 40:59.512864672 [ INFO] follower commited 446
 40:59.617179689 [ INFO] leader commited 447
-40:59.617233460 [ INFO] leader sends <449>
+40:59.617233460 [ INFO] leader sends 449
 40:59.617397745 [ INFO] follower appended <449>
 40:59.617462622 [ INFO] follower commited 447
 40:59.617438987 [ INFO] follower appended <449>
@@ -51178,7 +51178,7 @@
 40:59.638094530 [ INFO] follower appended <449>
 40:59.638145679 [ INFO] follower commited 447
 40:59.742459758 [ INFO] leader commited 448
-40:59.742508822 [ INFO] leader sends <450>
+40:59.742508822 [ INFO] leader sends 450
 40:59.742659377 [ INFO] follower appended <450>
 40:59.742710888 [ INFO] follower commited 448
 40:59.742706531 [ INFO] follower appended <450>
@@ -51288,7 +51288,7 @@
 40:59.763413304 [ INFO] follower appended <450>
 40:59.763464045 [ INFO] follower commited 448
 40:59.867781947 [ INFO] leader commited 449
-40:59.867932396 [ INFO] leader sends <451>
+40:59.867932396 [ INFO] leader sends 451
 40:59.868193823 [ INFO] follower appended <451>
 40:59.868245999 [ INFO] follower commited 449
 40:59.868158251 [ INFO] follower appended <451>
@@ -51398,7 +51398,7 @@
 40:59.889858526 [ INFO] follower appended <451>
 40:59.889908814 [ INFO] follower commited 449
 40:59.994226722 [ INFO] leader commited 450
-40:59.994277740 [ INFO] leader sends <452>
+40:59.994277740 [ INFO] leader sends 452
 40:59.994430330 [ INFO] follower appended <452>
 40:59.994480594 [ INFO] follower commited 450
 40:59.994530117 [ INFO] follower appended <452>
@@ -51508,7 +51508,7 @@
 41:00.015237528 [ INFO] follower appended <452>
 41:00.015289848 [ INFO] follower commited 450
 41:00.119604057 [ INFO] leader commited 451
-41:00.119662035 [ INFO] leader sends <453>
+41:00.119662035 [ INFO] leader sends 453
 41:00.119809701 [ INFO] follower appended <453>
 41:00.119859880 [ INFO] follower commited 451
 41:00.119866647 [ INFO] follower appended <453>
@@ -51618,7 +51618,7 @@
 41:00.140396234 [ INFO] follower appended <453>
 41:00.140446070 [ INFO] follower commited 451
 41:00.244765999 [ INFO] leader commited 452
-41:00.244821062 [ INFO] leader sends <454>
+41:00.244821062 [ INFO] leader sends 454
 41:00.244978971 [ INFO] follower appended <454>
 41:00.245032950 [ INFO] follower commited 452
 41:00.245038860 [ INFO] follower appended <454>
@@ -51728,7 +51728,7 @@
 41:00.266064592 [ INFO] follower appended <454>
 41:00.266113393 [ INFO] follower commited 452
 41:00.370435195 [ INFO] leader commited 453
-41:00.370625659 [ INFO] leader sends <455>
+41:00.370625659 [ INFO] leader sends 455
 41:00.370839247 [ INFO] follower appended <455>
 41:00.370891210 [ INFO] follower commited 453
 41:00.370899179 [ INFO] follower appended <455>
@@ -51838,7 +51838,7 @@
 41:00.409732315 [ INFO] follower appended <455>
 41:00.409782879 [ INFO] follower commited 453
 41:00.514100917 [ INFO] leader commited 454
-41:00.514153613 [ INFO] leader sends <456>
+41:00.514153613 [ INFO] leader sends 456
 41:00.514352266 [ INFO] follower appended <456>
 41:00.514401318 [ INFO] follower commited 454
 41:00.514311213 [ INFO] follower appended <456>
@@ -51948,7 +51948,7 @@
 41:00.535546983 [ INFO] follower appended <456>
 41:00.535596504 [ INFO] follower commited 454
 41:00.639903455 [ INFO] leader commited 455
-41:00.639957646 [ INFO] leader sends <457>
+41:00.639957646 [ INFO] leader sends 457
 41:00.640117218 [ INFO] follower appended <457>
 41:00.640152844 [ INFO] follower appended <457>
 41:00.640185880 [ INFO] follower commited 455
@@ -52058,7 +52058,7 @@
 41:00.661125757 [ INFO] follower appended <457>
 41:00.661177311 [ INFO] follower commited 455
 41:00.765495247 [ INFO] leader commited 456
-41:00.765547494 [ INFO] leader sends <458>
+41:00.765547494 [ INFO] leader sends 458
 41:00.765744514 [ INFO] follower appended <458>
 41:00.765797508 [ INFO] follower commited 456
 41:00.765701171 [ INFO] follower appended <458>
@@ -52168,7 +52168,7 @@
 41:00.787259974 [ INFO] follower appended <458>
 41:00.787311422 [ INFO] follower commited 456
 41:00.891628226 [ INFO] leader commited 457
-41:00.891682902 [ INFO] leader sends <459>
+41:00.891682902 [ INFO] leader sends 459
 41:00.891837730 [ INFO] follower appended <459>
 41:00.891888440 [ INFO] follower commited 457
 41:00.891876582 [ INFO] follower appended <459>
@@ -52278,7 +52278,7 @@
 41:00.912576269 [ INFO] follower appended <459>
 41:00.912625094 [ INFO] follower commited 457
 41:01.016943253 [ INFO] leader commited 458
-41:01.016992846 [ INFO] leader sends <460>
+41:01.016992846 [ INFO] leader sends 460
 41:01.017149079 [ INFO] follower appended <460>
 41:01.017221570 [ INFO] follower commited 458
 41:01.017237294 [ INFO] follower appended <460>
@@ -52388,7 +52388,7 @@
 41:01.038933519 [ INFO] follower appended <460>
 41:01.038983332 [ INFO] follower commited 458
 41:01.143303024 [ INFO] leader commited 459
-41:01.143355644 [ INFO] leader sends <461>
+41:01.143355644 [ INFO] leader sends 461
 41:01.143510826 [ INFO] follower appended <461>
 41:01.143562945 [ INFO] follower commited 459
 41:01.143550566 [ INFO] follower appended <461>
@@ -52498,7 +52498,7 @@
 41:01.164886062 [ INFO] follower appended <461>
 41:01.164935908 [ INFO] follower commited 459
 41:01.269255994 [ INFO] leader commited 460
-41:01.269307371 [ INFO] leader sends <462>
+41:01.269307371 [ INFO] leader sends 462
 41:01.269466678 [ INFO] follower appended <462>
 41:01.269521210 [ INFO] follower commited 460
 41:01.269512952 [ INFO] follower appended <462>
@@ -52608,7 +52608,7 @@
 41:01.290620082 [ INFO] follower appended <462>
 41:01.290670113 [ INFO] follower commited 460
 41:01.394987039 [ INFO] leader commited 461
-41:01.395037875 [ INFO] leader sends <463>
+41:01.395037875 [ INFO] leader sends 463
 41:01.395190010 [ INFO] follower appended <463>
 41:01.395242420 [ INFO] follower commited 461
 41:01.395282813 [ INFO] follower appended <463>
@@ -52718,7 +52718,7 @@
 41:01.416654587 [ INFO] follower appended <463>
 41:01.416705273 [ INFO] follower commited 461
 41:01.521022991 [ INFO] leader commited 462
-41:01.521075907 [ INFO] leader sends <464>
+41:01.521075907 [ INFO] leader sends 464
 41:01.521224248 [ INFO] follower appended <464>
 41:01.521273578 [ INFO] follower commited 462
 41:01.521272466 [ INFO] follower appended <464>
@@ -52828,7 +52828,7 @@
 41:01.542991489 [ INFO] follower appended <464>
 41:01.543040902 [ INFO] follower commited 462
 41:01.647349345 [ INFO] leader commited 463
-41:01.647402493 [ INFO] leader sends <465>
+41:01.647402493 [ INFO] leader sends 465
 41:01.647614569 [ INFO] follower appended <465>
 41:01.647655633 [ INFO] follower appended <465>
 41:01.647708749 [ INFO] follower commited 463
@@ -52938,7 +52938,7 @@
 41:01.669471912 [ INFO] follower appended <465>
 41:01.669523599 [ INFO] follower commited 463
 41:01.773839483 [ INFO] leader commited 464
-41:01.773889292 [ INFO] leader sends <466>
+41:01.773889292 [ INFO] leader sends 466
 41:01.774044498 [ INFO] follower appended <466>
 41:01.774082615 [ INFO] follower appended <466>
 41:01.774136300 [ INFO] follower commited 464
@@ -53048,7 +53048,7 @@
 41:01.795963862 [ INFO] follower appended <466>
 41:01.796014706 [ INFO] follower commited 464
 41:01.900331774 [ INFO] leader commited 465
-41:01.900384433 [ INFO] leader sends <467>
+41:01.900384433 [ INFO] leader sends 467
 41:01.900554722 [ INFO] follower appended <467>
 41:01.900610175 [ INFO] follower commited 465
 41:01.900601960 [ INFO] follower appended <467>
@@ -53158,7 +53158,7 @@
 41:01.922453812 [ INFO] follower appended <467>
 41:01.922504037 [ INFO] follower commited 465
 41:02.026807196 [ INFO] leader commited 466
-41:02.026859326 [ INFO] leader sends <468>
+41:02.026859326 [ INFO] leader sends 468
 41:02.027007661 [ INFO] follower appended <468>
 41:02.027057202 [ INFO] follower commited 466
 41:02.027053035 [ INFO] follower appended <468>
@@ -53268,7 +53268,7 @@
 41:02.048647766 [ INFO] follower appended <468>
 41:02.048697293 [ INFO] follower commited 466
 41:02.153030613 [ INFO] leader commited 467
-41:02.153082334 [ INFO] leader sends <469>
+41:02.153082334 [ INFO] leader sends 469
 41:02.165521604 [ INFO] follower appended <469>
 41:02.165572077 [ INFO] follower appended <469>
 41:02.165626604 [ INFO] follower commited 467
@@ -53378,7 +53378,7 @@
 41:02.188268576 [ INFO] follower appended <469>
 41:02.188323717 [ INFO] follower commited 467
 41:02.292573692 [ INFO] leader commited 468
-41:02.292629153 [ INFO] leader sends <470>
+41:02.292629153 [ INFO] leader sends 470
 41:02.292789303 [ INFO] follower appended <470>
 41:02.292844861 [ INFO] follower commited 468
 41:02.292832217 [ INFO] follower appended <470>
@@ -53488,7 +53488,7 @@
 41:02.315005840 [ INFO] follower appended <470>
 41:02.315058521 [ INFO] follower commited 468
 41:02.419384372 [ INFO] leader commited 469
-41:02.419439530 [ INFO] leader sends <471>
+41:02.419439530 [ INFO] leader sends 471
 41:02.419592284 [ INFO] follower appended <471>
 41:02.419645767 [ INFO] follower commited 469
 41:02.419694750 [ INFO] follower appended <471>
@@ -53598,7 +53598,7 @@
 41:02.444200654 [ INFO] follower appended <471>
 41:02.444253437 [ INFO] follower commited 469
 41:02.548555575 [ INFO] leader commited 470
-41:02.548609192 [ INFO] leader sends <472>
+41:02.548609192 [ INFO] leader sends 472
 41:02.548762160 [ INFO] follower appended <472>
 41:02.548815943 [ INFO] follower commited 470
 41:02.548807627 [ INFO] follower appended <472>
@@ -53708,7 +53708,7 @@
 41:02.572107333 [ INFO] follower appended <472>
 41:02.572161514 [ INFO] follower commited 470
 41:02.676473331 [ INFO] leader commited 471
-41:02.676538770 [ INFO] leader sends <473>
+41:02.676538770 [ INFO] leader sends 473
 41:02.681516905 [ INFO] follower appended <473>
 41:02.681568544 [ INFO] follower commited 471
 41:02.681570318 [ INFO] follower appended <473>
@@ -53818,7 +53818,7 @@
 41:02.704817103 [ INFO] follower appended <473>
 41:02.704865062 [ INFO] follower commited 471
 41:02.809188776 [ INFO] leader commited 472
-41:02.809392168 [ INFO] leader sends <474>
+41:02.809392168 [ INFO] leader sends 474
 41:02.809623747 [ INFO] follower appended <474>
 41:02.809662460 [ INFO] follower appended <474>
 41:02.809696931 [ INFO] follower commited 472
@@ -53928,7 +53928,7 @@
 41:02.832257548 [ INFO] follower appended <474>
 41:02.832310365 [ INFO] follower commited 472
 41:02.936623840 [ INFO] leader commited 473
-41:02.936815446 [ INFO] leader sends <475>
+41:02.936815446 [ INFO] leader sends 475
 41:02.937035881 [ INFO] follower appended <475>
 41:02.937089423 [ INFO] follower commited 473
 41:02.937096714 [ INFO] follower appended <475>
@@ -54038,7 +54038,7 @@
 41:02.959718167 [ INFO] follower appended <475>
 41:02.959769718 [ INFO] follower commited 473
 41:03.064078142 [ INFO] leader commited 474
-41:03.064131962 [ INFO] leader sends <476>
+41:03.064131962 [ INFO] leader sends 476
 41:03.064326646 [ INFO] follower appended <476>
 41:03.064378029 [ INFO] follower commited 474
 41:03.064375177 [ INFO] follower appended <476>
@@ -54148,7 +54148,7 @@
 41:03.086620467 [ INFO] follower appended <476>
 41:03.086671696 [ INFO] follower commited 474
 41:03.190977539 [ INFO] leader commited 475
-41:03.191032471 [ INFO] leader sends <477>
+41:03.191032471 [ INFO] leader sends 477
 41:03.191183549 [ INFO] follower appended <477>
 41:03.191235319 [ INFO] follower commited 475
 41:03.191230790 [ INFO] follower appended <477>
@@ -54258,7 +54258,7 @@
 41:03.214440937 [ INFO] follower appended <477>
 41:03.214490273 [ INFO] follower commited 475
 41:03.318813090 [ INFO] leader commited 476
-41:03.318878327 [ INFO] leader sends <478>
+41:03.318878327 [ INFO] leader sends 478
 41:03.319036185 [ INFO] follower appended <478>
 41:03.319088819 [ INFO] follower commited 476
 41:03.319076850 [ INFO] follower appended <478>
@@ -54368,7 +54368,7 @@
 41:03.342891697 [ INFO] follower appended <478>
 41:03.342943302 [ INFO] follower commited 476
 41:03.447260999 [ INFO] leader commited 477
-41:03.447464945 [ INFO] leader sends <479>
+41:03.447464945 [ INFO] leader sends 479
 41:03.447724147 [ INFO] follower appended <479>
 41:03.447773078 [ INFO] follower commited 477
 41:03.447699496 [ INFO] follower appended <479>
@@ -54478,7 +54478,7 @@
 41:03.470412691 [ INFO] follower appended <479>
 41:03.470462413 [ INFO] follower commited 477
 41:03.574779856 [ INFO] leader commited 478
-41:03.574833223 [ INFO] leader sends <480>
+41:03.574833223 [ INFO] leader sends 480
 41:03.575029535 [ INFO] follower appended <480>
 41:03.575079123 [ INFO] follower commited 478
 41:03.574998280 [ INFO] follower appended <480>
@@ -54588,7 +54588,7 @@
 41:03.598216496 [ INFO] follower appended <480>
 41:03.598266723 [ INFO] follower commited 478
 41:03.702574071 [ INFO] leader commited 479
-41:03.702628112 [ INFO] leader sends <481>
+41:03.702628112 [ INFO] leader sends 481
 41:03.705524398 [ INFO] follower appended <481>
 41:03.705580348 [ INFO] follower commited 479
 41:03.705569975 [ INFO] follower appended <481>
@@ -54698,7 +54698,7 @@
 41:03.732131283 [ INFO] follower appended <481>
 41:03.732183902 [ INFO] follower commited 479
 41:03.836497478 [ INFO] leader commited 480
-41:03.836549181 [ INFO] leader sends <482>
+41:03.836549181 [ INFO] leader sends 482
 41:03.836750670 [ INFO] follower appended <482>
 41:03.836800382 [ INFO] follower commited 480
 41:03.836713687 [ INFO] follower appended <482>
@@ -54808,7 +54808,7 @@
 41:03.860197357 [ INFO] follower appended <482>
 41:03.860249992 [ INFO] follower commited 480
 41:03.964557994 [ INFO] leader commited 481
-41:03.964624148 [ INFO] leader sends <483>
+41:03.964624148 [ INFO] leader sends 483
 41:03.964783684 [ INFO] follower appended <483>
 41:03.964821303 [ INFO] follower appended <483>
 41:03.964853173 [ INFO] follower commited 481
@@ -54918,7 +54918,7 @@
 41:03.988061412 [ INFO] follower appended <483>
 41:03.988113310 [ INFO] follower commited 481
 41:04.092427209 [ INFO] leader commited 482
-41:04.092490605 [ INFO] leader sends <484>
+41:04.092490605 [ INFO] leader sends 484
 41:04.092644317 [ INFO] follower appended <484>
 41:04.092696543 [ INFO] follower commited 482
 41:04.092687751 [ INFO] follower appended <484>
@@ -55028,7 +55028,7 @@
 41:04.115711331 [ INFO] follower appended <484>
 41:04.115762236 [ INFO] follower commited 482
 41:04.220081155 [ INFO] leader commited 483
-41:04.220134266 [ INFO] leader sends <485>
+41:04.220134266 [ INFO] leader sends 485
 41:04.220292440 [ INFO] follower appended <485>
 41:04.220346672 [ INFO] follower commited 483
 41:04.220332628 [ INFO] follower appended <485>
@@ -55138,7 +55138,7 @@
 41:04.244020770 [ INFO] follower appended <485>
 41:04.244071717 [ INFO] follower commited 483
 41:04.348392342 [ INFO] leader commited 484
-41:04.348446876 [ INFO] leader sends <486>
+41:04.348446876 [ INFO] leader sends 486
 41:04.348601302 [ INFO] follower appended <486>
 41:04.348652517 [ INFO] follower commited 484
 41:04.348647537 [ INFO] follower appended <486>
@@ -55248,7 +55248,7 @@
 41:04.371966229 [ INFO] follower appended <486>
 41:04.372019147 [ INFO] follower commited 484
 41:04.476334724 [ INFO] leader commited 485
-41:04.476384876 [ INFO] leader sends <487>
+41:04.476384876 [ INFO] leader sends 487
 41:04.476532563 [ INFO] follower appended <487>
 41:04.476583627 [ INFO] follower commited 485
 41:04.476585097 [ INFO] follower appended <487>
@@ -55358,7 +55358,7 @@
 41:04.499798132 [ INFO] follower appended <487>
 41:04.499846345 [ INFO] follower commited 485
 41:04.604171258 [ INFO] leader commited 486
-41:04.604219952 [ INFO] leader sends <488>
+41:04.604219952 [ INFO] leader sends 488
 41:04.604368564 [ INFO] follower appended <488>
 41:04.604420355 [ INFO] follower commited 486
 41:04.604420769 [ INFO] follower appended <488>
@@ -55468,7 +55468,7 @@
 41:04.628594055 [ INFO] follower appended <488>
 41:04.628643051 [ INFO] follower commited 486
 41:04.732962758 [ INFO] leader commited 487
-41:04.733029234 [ INFO] leader sends <489>
+41:04.733029234 [ INFO] leader sends 489
 41:04.733188301 [ INFO] follower appended <489>
 41:04.733243953 [ INFO] follower commited 487
 41:04.733231917 [ INFO] follower appended <489>
@@ -55578,7 +55578,7 @@
 41:04.756498645 [ INFO] follower appended <489>
 41:04.756549670 [ INFO] follower commited 487
 41:04.878526918 [ INFO] leader commited 488
-41:04.878580895 [ INFO] leader sends <490>
+41:04.878580895 [ INFO] leader sends 490
 41:04.878739323 [ INFO] follower appended <490>
 41:04.878792996 [ INFO] follower commited 488
 41:04.878774863 [ INFO] follower appended <490>
@@ -55688,7 +55688,7 @@
 41:04.901174636 [ INFO] follower appended <490>
 41:04.901224570 [ INFO] follower commited 488
 41:05.005546886 [ INFO] leader commited 489
-41:05.005597993 [ INFO] leader sends <491>
+41:05.005597993 [ INFO] leader sends 491
 41:05.005752297 [ INFO] follower appended <491>
 41:05.005799164 [ INFO] follower appended <491>
 41:05.005823031 [ INFO] follower commited 489
@@ -55798,7 +55798,7 @@
 41:05.028173009 [ INFO] follower appended <491>
 41:05.028222370 [ INFO] follower commited 489
 41:05.132543295 [ INFO] leader commited 490
-41:05.132688487 [ INFO] leader sends <492>
+41:05.132688487 [ INFO] leader sends 492
 41:05.132897985 [ INFO] follower appended <492>
 41:05.132947590 [ INFO] follower commited 490
 41:05.132953438 [ INFO] follower appended <492>
@@ -55908,7 +55908,7 @@
 41:05.155807331 [ INFO] follower appended <492>
 41:05.155858555 [ INFO] follower commited 490
 41:05.260178398 [ INFO] leader commited 491
-41:05.260230855 [ INFO] leader sends <493>
+41:05.260230855 [ INFO] leader sends 493
 41:05.260427935 [ INFO] follower appended <493>
 41:05.260477236 [ INFO] follower commited 491
 41:05.260383361 [ INFO] follower appended <493>
@@ -56018,7 +56018,7 @@
 41:05.283869592 [ INFO] follower appended <493>
 41:05.283919519 [ INFO] follower commited 491
 41:05.388228905 [ INFO] leader commited 492
-41:05.388280691 [ INFO] leader sends <494>
+41:05.388280691 [ INFO] leader sends 494
 41:05.388434857 [ INFO] follower appended <494>
 41:05.388485895 [ INFO] follower commited 492
 41:05.388475044 [ INFO] follower appended <494>
@@ -56128,7 +56128,7 @@
 41:05.416138496 [ INFO] follower appended <494>
 41:05.416191486 [ INFO] follower commited 492
 41:05.520505787 [ INFO] leader commited 493
-41:05.520555057 [ INFO] leader sends <495>
+41:05.520555057 [ INFO] leader sends 495
 41:05.520711464 [ INFO] follower appended <495>
 41:05.520766584 [ INFO] follower commited 493
 41:05.520754331 [ INFO] follower appended <495>
@@ -56238,7 +56238,7 @@
 41:05.543981118 [ INFO] follower appended <495>
 41:05.544034904 [ INFO] follower commited 493
 41:05.648333274 [ INFO] leader commited 494
-41:05.648382525 [ INFO] leader sends <496>
+41:05.648382525 [ INFO] leader sends 496
 41:05.648532717 [ INFO] follower appended <496>
 41:05.648583927 [ INFO] follower commited 494
 41:05.648583094 [ INFO] follower appended <496>
