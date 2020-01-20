@@ -70,7 +70,7 @@ fn main() {
 
     // * election heartbeat
     let mut rng = rand::thread_rng();
-    let election_timeout: Duration = Duration::from_millis(rng.gen_range(1500, 3001));
+    let election_timeout: Duration = Duration::from_millis(rng.gen_range(150, 301));
     let mut start_of_election = Instant::now();
     
     // * MAIN THREAD
@@ -109,7 +109,7 @@ fn main() {
                 },
                 ServerState::Leader => {
                     let now = Instant::now();
-                    while now.elapsed().as_millis() <= 1000 {
+                    while now.elapsed().as_millis() <= 100 {
                         thread::yield_now();
                     }
                     // while now.elapsed().as_millis() <= 10000 {
@@ -144,7 +144,7 @@ fn main() {
                                 universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
                             }
                         }
-                    }else if start_of_election.elapsed().as_millis() >= 3000 {
+                    }else if start_of_election.elapsed().as_millis() >= 300 {
                             info!("[{}] candidate has timed out. starting new election...", rank);
                             let mut server = server_arc_main.lock().unwrap();
                             server.persistence.current_term = server.persistence.current_term + 1;
