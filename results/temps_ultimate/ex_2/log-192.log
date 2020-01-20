@@ -1,0 +1,1495 @@
+[1579528244.756708] [dahu-20:10127:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.757585] [dahu-20:10118:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.758127] [dahu-20:10120:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.758201] [dahu-20:10125:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.759536] [dahu-20:10126:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.758090] [dahu-19:10037:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.758384] [dahu-19:10031:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.758456] [dahu-19:10029:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.763903] [dahu-20:10128:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.764179] [dahu-18:10036:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766124] [dahu-20:10124:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766322] [dahu-20:10123:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766671] [dahu-20:10121:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766901] [dahu-20:10129:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766934] [dahu-20:10117:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766924] [dahu-20:10122:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.766975] [dahu-20:10119:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.763407] [dahu-19:10036:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.768251] [dahu-18:10037:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.768663] [dahu-18:10035:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.769274] [dahu-18:10033:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.769917] [dahu-18:10043:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.770001] [dahu-18:10041:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.770937] [dahu-18:10040:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.771495] [dahu-2:8996 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773184] [dahu-2:8991 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773332] [dahu-20:10131:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773264] [dahu-18:10039:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773818] [dahu-18:10038:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773817] [dahu-18:10042:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773684] [dahu-17:11178:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.774292] [dahu-18:10044:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.774829] [dahu-17:11190:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.770336] [dahu-19:10026:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.770350] [dahu-19:10033:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.770401] [dahu-19:10024:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.770627] [dahu-19:10034:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.775570] [dahu-17:11183:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.771327] [dahu-19:10035:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.776467] [dahu-20:10136:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.771445] [dahu-19:10038:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.771521] [dahu-19:10027:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.771547] [dahu-19:10025:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.771743] [dahu-19:10039:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.777222] [dahu-17:11176:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.777272] [dahu-18:10046:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.777601] [dahu-17:11177:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.777787] [dahu-18:10047:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773397] [dahu-19:10043:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.773748] [dahu-19:10032:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.778945] [dahu-20:10135:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.779442] [dahu-20:10132:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.779285] [dahu-18:10048:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.779787] [dahu-18:10045:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.775274] [dahu-19:10047:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.775346] [dahu-19:10042:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.780506] [dahu-20:10134:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.775517] [dahu-19:10044:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.780425] [dahu-17:11181:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.780437] [dahu-17:11186:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.781337] [dahu-20:10137:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.781522] [dahu-2:9006 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.781010] [dahu-18:10034:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.781840] [dahu-20:10133:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.782307] [dahu-2:9008 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.782985] [dahu-2:9002 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.777650] [dahu-19:10030:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.777984] [dahu-19:10051:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.782479] [dahu-18:10051:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.778472] [dahu-19:10045:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.783072] [dahu-17:11187:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.783071] [dahu-17:11194:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.784054] [dahu-2:8993 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.784084] [dahu-17:11189:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.784089] [dahu-18:10050:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.784628] [dahu-17:11180:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.780312] [dahu-19:10050:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.780541] [dahu-19:10028:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.785139] [dahu-17:11182:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.780753] [dahu-19:10040:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.785292] [dahu-17:11193:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.785348] [dahu-17:11192:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.785366] [dahu-17:11195:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.781069] [dahu-19:10049:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.786833] [dahu-2:8998 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787160] [dahu-2:9009 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787286] [dahu-2:8999 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787408] [dahu-2:9001 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787531] [dahu-2:8994 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.782543] [dahu-19:10048:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787087] [dahu-18:10054:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787242] [dahu-18:10053:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787403] [dahu-18:10052:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788179] [dahu-2:9005 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788281] [dahu-2:8997 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788080] [dahu-20:10139:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788254] [dahu-20:10138:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788611] [dahu-2:9007 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.783336] [dahu-19:10053:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788361] [dahu-20:10140:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788307] [dahu-20:10142:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788923] [dahu-2:9003 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.788839] [dahu-18:10056:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.789407] [dahu-18:10049:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.789448] [dahu-17:11188:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.789431] [dahu-17:11197:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.789418] [dahu-17:11196:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.785110] [dahu-19:10052:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.790509] [dahu-2:8995 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.790438] [dahu-18:10057:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.786058] [dahu-19:10054:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.791242] [dahu-20:10141:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.787422] [dahu-19:10055:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.792613] [dahu-20:10146:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.793535] [dahu-20:10143:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.793833] [dahu-2:9012 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.793976] [dahu-2:9004 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.793376] [dahu-17:11202:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.793493] [dahu-17:11191:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794397] [dahu-2:9014 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.789167] [dahu-19:10041:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794710] [dahu-2:9010 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794145] [dahu-17:11203:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794182] [dahu-17:11207:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794396] [dahu-17:11199:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795204] [dahu-2:9015 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.789908] [dahu-19:10046:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794372] [dahu-18:10061:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.794603] [dahu-18:10060:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795409] [dahu-2:8992 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795341] [dahu-20:10145:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795856] [dahu-2:9017 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795129] [dahu-17:11201:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795786] [dahu-20:10147:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795233] [dahu-17:11179:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795226] [dahu-17:11204:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795473] [dahu-18:10058:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795659] [dahu-18:10059:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.795815] [dahu-18:10064:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.796024] [dahu-18:10062:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.796114] [dahu-17:11200:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.796144] [dahu-17:11206:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.796263] [dahu-18:10055:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.796465] [dahu-17:11205:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.797715] [dahu-2:9011 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.797493] [dahu-20:10144:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.797231] [dahu-18:10063:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.798810] [dahu-2:9023 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.798399] [dahu-17:11185:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.798405] [dahu-17:11184:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.799683] [dahu-2:9024 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.799789] [dahu-2:9020 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.800227] [dahu-2:9013 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.799525] [dahu-17:11198:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.801282] [dahu-2:9018 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.803192] [dahu-2:9016 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.803899] [dahu-16:16104:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.804662] [dahu-2:9021 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.804689] [dahu-2:9022 :0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.808125] [dahu-20:10148:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.809465] [dahu-20:10149:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.815149] [dahu-16:16089:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.817429] [dahu-16:16095:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.818564] [dahu-16:16107:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.822498] [dahu-16:16092:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.822499] [dahu-16:16097:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.823383] [dahu-16:16102:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.824445] [dahu-16:16105:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.826020] [dahu-16:16094:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.826369] [dahu-16:16106:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.827268] [dahu-16:16103:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.827268] [dahu-16:16109:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.828254] [dahu-16:16091:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.831552] [dahu-16:16093:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.833052] [dahu-16:16110:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.834895] [dahu-16:16111:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.835778] [dahu-16:16116:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.836114] [dahu-16:16090:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.836240] [dahu-16:16098:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.836518] [dahu-16:16099:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.836713] [dahu-16:16108:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.836737] [dahu-16:16101:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.838021] [dahu-16:16096:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.838776] [dahu-16:16112:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.839650] [dahu-16:16115:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.840494] [dahu-16:16114:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.840650] [dahu-16:16113:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.842583] [dahu-16:16118:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.842767] [dahu-16:16117:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.843182] [dahu-16:16119:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.845521] [dahu-16:16088:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579528244.845522] [dahu-16:16100:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+50:45.009586195 [ INFO] [34] has timed out. starting new election...
+50:45.010115675 [ INFO] [92] has timed out. starting new election...
+50:45.007140472 [ INFO] [103] has timed out. starting new election...
+50:45.013347881 [ INFO] [178] has timed out. starting new election...
+50:45.019575866 [ INFO] [182] has timed out. starting new election...
+50:45.045389522 [ INFO] [34] becomes leader with 97 votes
+50:45.206581155 [ INFO] [67] has timed out. starting new election...
+50:45.208018385 [ INFO] [57] has timed out. starting new election...
+50:45.208171033 [ INFO] [39] has timed out. starting new election...
+50:45.210836504 [ INFO] [75] has timed out. starting new election...
+50:45.211817848 [ INFO] [31] has timed out. starting new election...
+50:45.211501694 [ INFO] [179] has timed out. starting new election...
+50:45.212551080 [ INFO] [17] has timed out. starting new election...
+50:45.214141141 [ INFO] [190] has timed out. starting new election...
+50:45.214440700 [ INFO] [141] has timed out. starting new election...
+50:45.214530754 [ INFO] [142] has timed out. starting new election...
+50:45.215132514 [ INFO] [85] has timed out. starting new election...
+50:45.217150622 [ INFO] [52] has timed out. starting new election...
+50:45.218398882 [ INFO] [159] has timed out. starting new election...
+50:45.218142142 [ INFO] [94] has timed out. starting new election...
+50:45.218958266 [ INFO] [43] has timed out. starting new election...
+50:45.214611596 [ INFO] [112] has timed out. starting new election...
+50:45.219318022 [ INFO] [95] has timed out. starting new election...
+50:45.215318541 [ INFO] [106] has timed out. starting new election...
+50:45.221910939 [ INFO] [165] has timed out. starting new election...
+50:45.222438538 [ INFO] [155] has timed out. starting new election...
+50:45.221740866 [ INFO] [82] has timed out. starting new election...
+50:45.217991555 [ INFO] [96] has timed out. starting new election...
+50:45.223367989 [ INFO] [64] has timed out. starting new election...
+50:45.223944558 [ INFO] [68] has timed out. starting new election...
+50:45.225001303 [ INFO] [56] has timed out. starting new election...
+50:45.227444089 [ INFO] [161] has timed out. starting new election...
+50:45.228014851 [ INFO] [152] has timed out. starting new election...
+50:45.223496014 [ INFO] [121] has timed out. starting new election...
+50:45.228822043 [ INFO] [172] has timed out. starting new election...
+50:45.229783344 [ INFO] [163] has timed out. starting new election...
+50:45.229900521 [ INFO] [187] has timed out. starting new election...
+50:45.230914130 [ INFO] [144] has timed out. starting new election...
+50:45.227466781 [ INFO] [126] has timed out. starting new election...
+50:45.236195302 [ INFO] [158] has timed out. starting new election...
+50:45.233716407 [ INFO] [97] has timed out. starting new election...
+50:45.246115254 [ INFO] [184] has timed out. starting new election...
+50:45.518002961 [ INFO] [0] has timed out. starting new election...
+50:45.539796519 [ INFO] [5] has timed out. starting new election...
+50:45.548097333 [ INFO] [95] candidate has timed out. starting new election...
+50:45.550835430 [ INFO] [64] candidate has timed out. starting new election...
+50:45.560404148 [ INFO] [179] candidate has timed out. starting new election...
+50:45.570448038 [ INFO] [190] candidate has timed out. starting new election...
+50:45.576434433 [ INFO] [5] becomes leader with 97 votes
+50:45.729320560 [ INFO] [92] has timed out. starting new election...
+50:45.730567852 [ INFO] [178] has timed out. starting new election...
+50:45.740932570 [ INFO] [92] becomes leader with 97 votes
+50:45.895420700 [ INFO] [103] has timed out. starting new election...
+50:45.917707096 [ INFO] [103] becomes leader with 175 votes
+50:46.204773966 [ INFO] [34] has timed out. starting new election...
+50:46.210000727 [ INFO] [178] has timed out. starting new election...
+50:46.209649446 [ INFO] [57] has timed out. starting new election...
+50:46.266976151 [ INFO] [178] becomes leader with 186 votes
+50:46.450572435 [ INFO] [67] has timed out. starting new election...
+50:46.451657460 [ INFO] [39] has timed out. starting new election...
+50:46.463347571 [ INFO] [39] becomes leader with 97 votes
+50:46.732933879 [ INFO] [34] has timed out. starting new election...
+50:46.739343515 [ INFO] [57] has timed out. starting new election...
+50:46.745140951 [ INFO] [17] has timed out. starting new election...
+50:46.759229777 [ INFO] [34] becomes leader with 97 votes
+50:47.059828404 [ INFO] [17] candidate has timed out. starting new election...
+50:47.081689333 [ INFO] [92] has timed out. starting new election...
+50:47.090579904 [ INFO] [92] becomes leader with 138 votes
+50:47.242721166 [ INFO] [103] has timed out. starting new election...
+50:47.285696409 [ INFO] [103] becomes leader with 187 votes
+50:47.453149919 [ INFO] [178] has timed out. starting new election...
+50:47.452792770 [ INFO] [57] has timed out. starting new election...
+50:47.458783937 [ INFO] [178] becomes leader with 97 votes
+50:47.631914899 [ INFO] [141] has timed out. starting new election...
+50:47.632122023 [ INFO] [142] has timed out. starting new election...
+50:47.663311532 [ INFO] [141] becomes leader with 186 votes
+50:47.919596972 [ INFO] [34] has timed out. starting new election...
+50:47.927479011 [ INFO] [34] becomes leader with 97 votes
+50:48.088003481 [ INFO] [57] has timed out. starting new election...
+50:48.134826096 [ INFO] [57] becomes leader with 187 votes
+50:48.290855393 [ INFO] [92] has timed out. starting new election...
+50:48.304190081 [ INFO] [92] becomes leader with 184 votes
+50:48.612852127 [ INFO] [103] has timed out. starting new election...
+50:48.649695613 [ INFO] [103] becomes leader with 187 votes
+50:48.852989485 [ INFO] [178] has timed out. starting new election...
+50:48.853561288 [ INFO] [67] has timed out. starting new election...
+50:48.854832858 [ INFO] [39] has timed out. starting new election...
+50:48.863948717 [ INFO] [39] becomes leader with 97 votes
+50:49.086505527 [ INFO] [34] has timed out. starting new election...
+50:49.118826240 [ INFO] [34] becomes leader with 187 votes
+50:49.469238250 [ INFO] [92] has timed out. starting new election...
+50:49.476352677 [ INFO] [92] becomes leader with 97 votes
+50:49.632201838 [ INFO] [178] has timed out. starting new election...
+50:49.662976881 [ INFO] [178] becomes leader with 187 votes
+50:49.837981739 [ INFO] [103] has timed out. starting new election...
+50:49.873698427 [ INFO] [103] becomes leader with 187 votes
+50:50.039751641 [ INFO] [67] has timed out. starting new election...
+50:50.040345976 [ INFO] [57] has timed out. starting new election...
+50:50.042050113 [ INFO] [182] has timed out. starting new election...
+50:50.043906456 [ INFO] [141] has timed out. starting new election...
+50:50.044331837 [ INFO] [142] has timed out. starting new election...
+50:50.044275570 [ INFO] [75] has timed out. starting new election...
+50:50.072703270 [ INFO] [75] becomes leader with 182 votes
+50:50.346110924 [ INFO] [34] has timed out. starting new election...
+50:50.352010814 [ INFO] [34] becomes leader with 97 votes
+50:50.635705351 [ INFO] [92] has timed out. starting new election...
+50:50.642535545 [ INFO] [92] becomes leader with 97 votes
+50:50.824597718 [ INFO] [178] has timed out. starting new election...
+50:50.830817722 [ INFO] [178] becomes leader with 97 votes
+50:51.048678817 [ INFO] [103] has timed out. starting new election...
+50:51.054200707 [ INFO] [103] becomes leader with 97 votes
+50:51.238478336 [ INFO] [57] has timed out. starting new election...
+50:51.238737754 [ INFO] [67] has timed out. starting new election...
+50:51.282827250 [ INFO] [57] becomes leader with 185 votes
+50:51.511149751 [ INFO] [34] has timed out. starting new election...
+50:51.518145681 [ INFO] [34] becomes leader with 97 votes
+50:51.801690853 [ INFO] [92] has timed out. starting new election...
+50:51.815032470 [ INFO] [92] becomes leader with 97 votes
+50:51.990701853 [ INFO] [178] has timed out. starting new election...
+50:52.009615926 [ INFO] [178] becomes leader with 97 votes
+50:52.214761299 [ INFO] [103] has timed out. starting new election...
+50:52.257699314 [ INFO] [103] becomes leader with 187 votes
+50:52.446116339 [ INFO] [39] has timed out. starting new election...
+50:52.498827627 [ INFO] [39] becomes leader with 187 votes
+50:52.677119368 [ INFO] [34] has timed out. starting new election...
+50:52.697974141 [ INFO] [34] becomes leader with 97 votes
+50:52.974343119 [ INFO] [92] has timed out. starting new election...
+50:52.981366065 [ INFO] [92] becomes leader with 97 votes
+50:53.170008875 [ INFO] [178] has timed out. starting new election...
+50:53.202978515 [ INFO] [178] becomes leader with 187 votes
+50:53.418411402 [ INFO] [103] has timed out. starting new election...
+50:53.426208383 [ INFO] [103] becomes leader with 97 votes
+50:53.659354805 [ INFO] [57] has timed out. starting new election...
+50:53.662889577 [ INFO] [67] has timed out. starting new election...
+50:53.667025852 [ INFO] [75] has timed out. starting new election...
+50:53.668032118 [ INFO] [0] has timed out. starting new election...
+50:53.710722605 [ INFO] [0] becomes leader with 97 votes
+50:53.875506141 [ INFO] [31] has timed out. starting new election...
+50:53.875166263 [ INFO] [39] has timed out. starting new election...
+50:53.909461623 [ INFO] [31] becomes leader with 187 votes
+50:53.937641715 [ INFO] [39] becomes leader with 97 votes
+50:54.135856728 [ INFO] [34] has timed out. starting new election...
+50:54.159948055 [ INFO] [34] becomes leader with 97 votes
+50:54.361059572 [ INFO] [92] has timed out. starting new election...
+50:54.368008814 [ INFO] [92] becomes leader with 97 votes
+50:54.586676129 [ INFO] [103] has timed out. starting new election...
+50:54.594564098 [ INFO] [103] becomes leader with 97 votes
+50:54.876097691 [ INFO] [178] has timed out. starting new election...
+50:54.906976131 [ INFO] [178] becomes leader with 187 votes
+50:55.101387362 [ INFO] [67] has timed out. starting new election...
+50:55.101516926 [ INFO] [57] has timed out. starting new election...
+50:55.108844314 [ INFO] [67] becomes leader with 97 votes
+50:55.118060728 [ INFO] [57] becomes leader with 97 votes
+50:55.318867523 [ INFO] [34] has timed out. starting new election...
+50:55.324860854 [ INFO] [34] becomes leader with 97 votes
+50:55.526077118 [ INFO] [92] has timed out. starting new election...
+50:55.532898764 [ INFO] [92] becomes leader with 97 votes
+50:55.755612571 [ INFO] [103] has timed out. starting new election...
+50:55.773719025 [ INFO] [103] becomes leader with 97 votes
+50:56.068530179 [ INFO] [178] has timed out. starting new election...
+50:56.086931602 [ INFO] [178] becomes leader with 97 votes
+50:56.122683759 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.282897305 [ INFO] [39] has timed out. starting new election...
+50:56.283140286 [ INFO] [57] has timed out. starting new election...
+50:56.283760600 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.288750161 [ INFO] [57] becomes leader with 97 votes
+50:56.289630502 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.329547867 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.347338938 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.498598022 [ INFO] [34] has timed out. starting new election...
+50:56.498930639 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.531065997 [ INFO] [34] becomes leader with 97 votes
+50:56.532145154 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.538570794 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.692283243 [ INFO] [92] has timed out. starting new election...
+50:56.692893605 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.702620691 [ INFO] [92] becomes leader with 97 votes
+50:56.703328521 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.782664208 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.934437952 [ INFO] [103] has timed out. starting new election...
+50:56.939358535 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:56.973699677 [ INFO] [103] becomes leader with 185 votes
+50:56.979087896 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.090966315 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.248699625 [ INFO] [178] has timed out. starting new election...
+50:57.248807078 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.254411851 [ INFO] [178] becomes leader with 97 votes
+50:57.254721716 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.293235262 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.453879733 [ INFO] [57] has timed out. starting new election...
+50:57.454019695 [ INFO] [39] has timed out. starting new election...
+50:57.454390489 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.454776358 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.465305774 [ INFO] [57] becomes leader with 97 votes
+50:57.466190624 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.535459094 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.699080936 [ INFO] [75] has timed out. starting new election...
+50:57.699376996 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.700322285 [ INFO] [141] has timed out. starting new election...
+50:57.699999044 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.710022395 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.739392992 [ INFO] [75] becomes leader with 184 votes
+50:57.740082311 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.893825964 [ INFO] [92] has timed out. starting new election...
+50:57.894338318 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.902586672 [ INFO] [92] becomes leader with 114 votes
+50:57.903197165 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:57.982617462 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.132340959 [ INFO] [34] has timed out. starting new election...
+50:58.134315867 [ INFO] [103] has timed out. starting new election...
+50:58.139341769 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.158245742 [ INFO] [103] becomes leader with 97 votes
+50:58.163176849 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.164114946 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.258277920 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.416051212 [ INFO] [178] has timed out. starting new election...
+50:58.415865280 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.437557782 [ INFO] [178] becomes leader with 97 votes
+50:58.437946940 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.469901579 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.620514898 [ INFO] [34] has timed out. starting new election...
+50:58.621038557 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.626354859 [ INFO] [34] becomes leader with 97 votes
+50:58.627220753 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.743718127 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.902786585 [ INFO] [57] has timed out. starting new election...
+50:58.903301174 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.910010045 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:58.936765527 [ INFO] [57] becomes leader with 184 votes
+50:58.937538131 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.092003439 [ INFO] [92] has timed out. starting new election...
+50:59.092550357 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.098574358 [ INFO] [92] becomes leader with 98 votes
+50:59.099134601 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.167855745 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.319683944 [ INFO] [103] has timed out. starting new election...
+50:59.324634875 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.330546468 [ INFO] [103] becomes leader with 97 votes
+50:59.335832431 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.441622831 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.599397531 [ INFO] [178] has timed out. starting new election...
+50:59.599559778 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.605190703 [ INFO] [178] becomes leader with 97 votes
+50:59.605485958 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.630943980 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.785498371 [ INFO] [34] has timed out. starting new election...
+50:59.785972405 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.814824557 [ INFO] [34] becomes leader with 185 votes
+50:59.815730863 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+50:59.941413742 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.100153507 [ INFO] [39] has timed out. starting new election...
+51:00.100785036 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.103152806 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.128001906 [ INFO] [39] becomes leader with 97 votes
+51:00.128859970 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.278742053 [ INFO] [92] has timed out. starting new election...
+51:00.279413469 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.291683696 [ INFO] [92] becomes leader with 97 votes
+51:00.292384893 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.339397047 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.491064788 [ INFO] [103] has timed out. starting new election...
+51:00.496087089 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.498667344 [ INFO] [103] becomes leader with 97 votes
+51:00.504156565 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.609088873 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.766853 [ INFO] [178] has timed out. starting new election...
+51:00.766793728 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.772614549 [ INFO] [178] becomes leader with 97 votes
+51:00.772813899 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.819292680 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.973684866 [ INFO] [34] has timed out. starting new election...
+51:00.974182970 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:00.991765150 [ INFO] [34] becomes leader with 97 votes
+51:00.992644357 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.132418949 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.291889294 [ INFO] [57] has timed out. starting new election...
+51:01.295356593 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.295832205 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.317482856 [ INFO] [57] becomes leader with 97 votes
+51:01.318502241 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.468351680 [ INFO] [92] has timed out. starting new election...
+51:01.469038690 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.476340375 [ INFO] [92] becomes leader with 97 votes
+51:01.476980847 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.507736288 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.659476148 [ INFO] [103] has timed out. starting new election...
+51:01.664526536 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.681814408 [ INFO] [103] becomes leader with 97 votes
+51:01.687108434 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.776474369 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.934314504 [ INFO] [178] has timed out. starting new election...
+51:01.934266203 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.955119709 [ INFO] [178] becomes leader with 97 votes
+51:01.955509139 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:01.996360645 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.150713649 [ INFO] [34] has timed out. starting new election...
+51:02.151197699 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.156618661 [ INFO] [34] becomes leader with 97 votes
+51:02.157555135 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.318550370 [ INFO] [182] has timed out. starting new election...
+51:02.318218615 [ INFO] [39] has timed out. starting new election...
+51:02.318758949 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.327935345 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.332484082 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.342171893 [ INFO] [39] becomes leader with 97 votes
+51:02.342993882 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.480834132 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.635735808 [ INFO] [92] has timed out. starting new election...
+51:02.636300302 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.645784020 [ INFO] [92] becomes leader with 97 votes
+51:02.646593151 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.647305006 [ INFO] [182] candidate has timed out. starting new election...
+51:02.692812715 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.852245351 [ INFO] [57] has timed out. starting new election...
+51:02.852689144 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.894824557 [ INFO] [57] becomes leader with 184 votes
+51:02.895565016 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:02.959032305 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.109285854 [ INFO] [103] has timed out. starting new election...
+51:03.116864764 [ INFO] [178] has timed out. starting new election...
+51:03.116722684 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.137956104 [ INFO] [178] becomes leader with 97 votes
+51:03.138323313 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.173638220 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.175671849 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.333310142 [ INFO] [34] has timed out. starting new election...
+51:03.333596138 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.339986803 [ INFO] [34] becomes leader with 97 votes
+51:03.340808530 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.346825462 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.496950883 [ INFO] [103] has timed out. starting new election...
+51:03.501972106 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.503297721 [ INFO] [103] becomes leader with 97 votes
+51:03.508749253 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.650545 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.805111127 [ INFO] [92] has timed out. starting new election...
+51:03.805660739 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.812213923 [ INFO] [92] becomes leader with 97 votes
+51:03.812995479 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:03.899248420 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.059398283 [ INFO] [57] has timed out. starting new election...
+51:04.059779090 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.094824416 [ INFO] [57] becomes leader with 184 votes
+51:04.127176209 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.145194027 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.303183409 [ INFO] [178] has timed out. starting new election...
+51:04.303118349 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.322980804 [ INFO] [178] becomes leader with 184 votes
+51:04.323272350 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.344601879 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.498894335 [ INFO] [34] has timed out. starting new election...
+51:04.499356396 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.504603284 [ INFO] [34] becomes leader with 97 votes
+51:04.505432422 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.512302344 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.671718663 [ INFO] [39] has timed out. starting new election...
+51:04.676187731 [ INFO] [141] has timed out. starting new election...
+51:04.675948141 [ INFO] [75] has timed out. starting new election...
+51:04.677892676 [ INFO] [142] has timed out. starting new election...
+51:04.672653077 [ INFO] [103] has timed out. starting new election...
+51:04.677651202 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.682223478 [ INFO] [103] becomes leader with 97 votes
+51:04.687677293 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.706905371 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.707211106 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.722710196 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.735112573 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.816955529 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.971753427 [ INFO] [92] has timed out. starting new election...
+51:04.972202741 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:04.978449208 [ INFO] [92] becomes leader with 97 votes
+51:04.979344310 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.130694213 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.291257703 [ INFO] [39] has timed out. starting new election...
+51:05.291776762 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.315070351 [ INFO] [39] becomes leader with 97 votes
+51:05.316067860 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.326873454 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.484708298 [ INFO] [178] has timed out. starting new election...
+51:05.484648453 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.506984469 [ INFO] [178] becomes leader with 97 votes
+51:05.507355399 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.509076528 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.668055264 [ INFO] [34] has timed out. starting new election...
+51:05.668574394 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.674726224 [ INFO] [34] becomes leader with 97 votes
+51:05.675749152 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.691434791 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.843028562 [ INFO] [103] has timed out. starting new election...
+51:05.851015590 [ INFO] [57] has timed out. starting new election...
+51:05.851662904 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.852866302 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.898827369 [ INFO] [57] becomes leader with 183 votes
+51:05.899649562 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:05.983019898 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.137603480 [ INFO] [92] has timed out. starting new election...
+51:06.138005811 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.144294166 [ INFO] [92] becomes leader with 97 votes
+51:06.145136394 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.294268176 [ INFO] [103] has timed out. starting new election...
+51:06.299288506 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.300757200 [ INFO] [103] becomes leader with 97 votes
+51:06.306058370 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.319527600 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.483317607 [ INFO] [75] has timed out. starting new election...
+51:06.483688015 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.510902545 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.534566763 [ INFO] [75] becomes leader with 184 votes
+51:06.535265396 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.679573617 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.834100129 [ INFO] [34] has timed out. starting new election...
+51:06.834569592 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.839779566 [ INFO] [34] becomes leader with 97 votes
+51:06.840591048 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:06.903247571 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.063266358 [ INFO] [178] has timed out. starting new election...
+51:07.063241662 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.098987017 [ INFO] [178] becomes leader with 184 votes
+51:07.099226185 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.148884995 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.303653528 [ INFO] [92] has timed out. starting new election...
+51:07.304251470 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.309983014 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.319487535 [ INFO] [92] becomes leader with 97 votes
+51:07.320376497 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.477798839 [ INFO] [57] has timed out. starting new election...
+51:07.473327375 [ INFO] [103] has timed out. starting new election...
+51:07.478294257 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.502363107 [ INFO] [103] becomes leader with 97 votes
+51:07.507674759 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.527231691 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.538855262 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.699438460 [ INFO] [39] has timed out. starting new election...
+51:07.699764497 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.730824861 [ INFO] [39] becomes leader with 184 votes
+51:07.731619427 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:07.857550391 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.011940613 [ INFO] [34] has timed out. starting new election...
+51:08.012500825 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.054829262 [ INFO] [34] becomes leader with 184 votes
+51:08.055547835 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.102684791 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.260514747 [ INFO] [178] has timed out. starting new election...
+51:08.260432942 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.268823991 [ INFO] [178] becomes leader with 97 votes
+51:08.269152162 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.323887491 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.478486187 [ INFO] [92] has timed out. starting new election...
+51:08.479085450 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.485034838 [ INFO] [92] becomes leader with 97 votes
+51:08.485893430 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.526028989 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.678004563 [ INFO] [103] has timed out. starting new election...
+51:08.682952748 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.721695907 [ INFO] [103] becomes leader with 184 votes
+51:08.727000141 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.735165888 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.890333073 [ INFO] [57] has timed out. starting new election...
+51:08.898560669 [ INFO] [142] has timed out. starting new election...
+51:08.898367044 [ INFO] [75] has timed out. starting new election...
+51:08.898717785 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.938565804 [ INFO] [75] becomes leader with 182 votes
+51:08.939321686 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.945858653 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:08.962912305 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.058727710 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.212388195 [ INFO] [34] has timed out. starting new election...
+51:09.212728273 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.221318534 [ INFO] [34] becomes leader with 97 votes
+51:09.221861372 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.272670851 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.430526711 [ INFO] [178] has timed out. starting new election...
+51:09.430468729 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.443214183 [ INFO] [178] becomes leader with 97 votes
+51:09.444098414 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.489478944 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.644119389 [ INFO] [92] has timed out. starting new election...
+51:09.644602309 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.651318651 [ INFO] [92] becomes leader with 97 votes
+51:09.652121965 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.730659356 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.882241567 [ INFO] [103] has timed out. starting new election...
+51:09.887275198 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.937695541 [ INFO] [103] becomes leader with 184 votes
+51:09.942824465 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:09.962450811 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.122411412 [ INFO] [57] has timed out. starting new election...
+51:10.122916644 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.150825594 [ INFO] [57] becomes leader with 184 votes
+51:10.151660560 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.241539838 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.395802647 [ INFO] [34] has timed out. starting new election...
+51:10.396309955 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.415075860 [ INFO] [34] becomes leader with 97 votes
+51:10.416089500 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.447475192 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.603937628 [ INFO] [178] has timed out. starting new election...
+51:10.603871014 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.610828307 [ INFO] [178] becomes leader with 97 votes
+51:10.611257173 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.655791431 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.810240273 [ INFO] [92] has timed out. starting new election...
+51:10.810805838 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.816656369 [ INFO] [92] becomes leader with 97 votes
+51:10.817519277 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:10.971446863 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.123421501 [ INFO] [103] has timed out. starting new election...
+51:11.128407346 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.129110353 [ INFO] [103] becomes leader with 97 votes
+51:11.134404529 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.157477832 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.317630503 [ INFO] [57] has timed out. starting new election...
+51:11.317875538 [ INFO] [39] has timed out. starting new election...
+51:11.318142799 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.319377227 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.338824696 [ INFO] [39] becomes leader with 181 votes
+51:11.339639159 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.419807620 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.574449075 [ INFO] [34] has timed out. starting new election...
+51:11.574746059 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.580247500 [ INFO] [34] becomes leader with 97 votes
+51:11.581037082 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.614745917 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.772581815 [ INFO] [178] has timed out. starting new election...
+51:11.772450363 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.778350549 [ INFO] [178] becomes leader with 97 votes
+51:11.778587610 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.821155055 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.975682573 [ INFO] [92] has timed out. starting new election...
+51:11.976064485 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:11.981521268 [ INFO] [92] becomes leader with 97 votes
+51:11.982315185 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.141358402 [ INFO] [57] has timed out. starting new election...
+51:12.144946091 [ INFO] [142] has timed out. starting new election...
+51:12.145021374 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.147436970 [ INFO] [141] has timed out. starting new election...
+51:12.186862977 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.187196585 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.187614926 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.231308889 [ INFO] [141] becomes leader with 181 votes
+51:12.231112065 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.343233851 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.487286103 [ INFO] [57] candidate has timed out. starting new election...
+51:12.488116181 [ INFO] [142] candidate has timed out. starting new election...
+51:12.493424368 [ INFO] [103] has timed out. starting new election...
+51:12.498460853 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.533698591 [ INFO] [103] becomes leader with 182 votes
+51:12.539050123 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.584676970 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.739094616 [ INFO] [34] has timed out. starting new election...
+51:12.739674841 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.747805380 [ INFO] [34] becomes leader with 97 votes
+51:12.748665749 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.782195879 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.939984807 [ INFO] [178] has timed out. starting new election...
+51:12.939814553 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.970976183 [ INFO] [178] becomes leader with 182 votes
+51:12.971199396 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:12.985899502 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.140460761 [ INFO] [92] has timed out. starting new election...
+51:13.141021051 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.147027814 [ INFO] [92] becomes leader with 97 votes
+51:13.147783939 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.234290779 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.395356427 [ INFO] [39] has timed out. starting new election...
+51:13.395786536 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.422831063 [ INFO] [39] becomes leader with 182 votes
+51:13.423714813 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.542609170 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.694276146 [ INFO] [103] has timed out. starting new election...
+51:13.699269822 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.713467137 [ INFO] [103] becomes leader with 97 votes
+51:13.718878816 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.752280248 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.906553674 [ INFO] [34] has timed out. starting new election...
+51:13.907051073 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.914233968 [ INFO] [34] becomes leader with 97 votes
+51:13.915052724 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:13.974234201 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.131789052 [ INFO] [178] has timed out. starting new election...
+51:14.136801821 [ INFO] [75] has timed out. starting new election...
+51:14.137174874 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.151243018 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.178567056 [ INFO] [75] becomes leader with 181 votes
+51:14.178899984 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.182779554 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.334080867 [ INFO] [92] has timed out. starting new election...
+51:14.334609710 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.347168784 [ INFO] [92] becomes leader with 97 votes
+51:14.347960521 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.427434368 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.586982371 [ INFO] [178] has timed out. starting new election...
+51:14.586923510 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.622977530 [ INFO] [178] becomes leader with 181 votes
+51:14.623163970 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.722363481 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.874259710 [ INFO] [103] has timed out. starting new election...
+51:14.879219068 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.880127710 [ INFO] [103] becomes leader with 97 votes
+51:14.885408369 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:14.918694854 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.073099773 [ INFO] [34] has timed out. starting new election...
+51:15.073623121 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.102830463 [ INFO] [34] becomes leader with 182 votes
+51:15.167270797 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.186731043 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.346267231 [ INFO] [39] has timed out. starting new election...
+51:15.351127513 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.352369150 [ INFO] [141] has timed out. starting new election...
+51:15.375211470 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.402800180 [ INFO] [39] becomes leader with 166 votes
+51:15.402891760 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.403893115 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.561780484 [ INFO] [92] has timed out. starting new election...
+51:15.562276378 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.569929195 [ INFO] [92] becomes leader with 97 votes
+51:15.570545578 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.626734851 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.784632036 [ INFO] [178] has timed out. starting new election...
+51:15.784614851 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.805951255 [ INFO] [178] becomes leader with 97 votes
+51:15.806318064 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:15.888975773 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.040608368 [ INFO] [103] has timed out. starting new election...
+51:16.045593342 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.049456202 [ INFO] [103] becomes leader with 97 votes
+51:16.054908604 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.171046878 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.325320655 [ INFO] [34] has timed out. starting new election...
+51:16.325854492 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.331171252 [ INFO] [34] becomes leader with 97 votes
+51:16.332014971 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.409605727 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.573308129 [ INFO] [141] has timed out. starting new election...
+51:16.573362997 [ INFO] [75] has timed out. starting new election...
+51:16.573795516 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.574150573 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.579411332 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.603870387 [ INFO] [75] becomes leader with 97 votes
+51:16.604355958 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.758211704 [ INFO] [92] has timed out. starting new election...
+51:16.758806936 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.768129564 [ INFO] [92] becomes leader with 97 votes
+51:16.768832843 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.826185533 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.984027617 [ INFO] [178] has timed out. starting new election...
+51:16.984028285 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:16.989756514 [ INFO] [178] becomes leader with 97 votes
+51:16.990028158 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.058462565 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.210424813 [ INFO] [103] has timed out. starting new election...
+51:17.215385871 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.216127575 [ INFO] [103] becomes leader with 97 votes
+51:17.221720058 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.345630715 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.499983667 [ INFO] [34] has timed out. starting new election...
+51:17.500589165 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.505946876 [ INFO] [34] becomes leader with 97 votes
+51:17.507155405 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.607445114 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.768745626 [ INFO] [39] has timed out. starting new election...
+51:17.769260983 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.775891150 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.791905829 [ INFO] [39] becomes leader with 178 votes
+51:17.792677264 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.945982336 [ INFO] [92] has timed out. starting new election...
+51:17.946676263 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.954226374 [ INFO] [92] becomes leader with 97 votes
+51:17.954836031 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:17.993478334 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.151303919 [ INFO] [178] has timed out. starting new election...
+51:18.157167274 [ INFO] [75] has timed out. starting new election...
+51:18.158337621 [ INFO] [0] has timed out. starting new election...
+51:18.158106458 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.172688185 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.173269413 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.209460135 [ INFO] [0] becomes leader with 180 votes
+51:18.209583920 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.225123467 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.377100099 [ INFO] [103] has timed out. starting new election...
+51:18.382031188 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.409695879 [ INFO] [103] becomes leader with 181 votes
+51:18.430517326 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.510866974 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.665240835 [ INFO] [34] has timed out. starting new election...
+51:18.665882461 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.698827853 [ INFO] [34] becomes leader with 182 votes
+51:18.795163663 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.796106387 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.957222243 [ INFO] [178] has timed out. starting new election...
+51:18.957101880 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:18.959024443 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.002977318 [ INFO] [178] becomes leader with 182 votes
+51:19.003224268 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.155718764 [ INFO] [92] has timed out. starting new election...
+51:19.156379944 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.166605054 [ INFO] [92] becomes leader with 97 votes
+51:19.167232601 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.212989126 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.373568752 [ INFO] [39] has timed out. starting new election...
+51:19.374035867 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.414829892 [ INFO] [39] becomes leader with 182 votes
+51:19.415611898 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.449838766 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.601705058 [ INFO] [103] has timed out. starting new election...
+51:19.606632615 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.622579102 [ INFO] [103] becomes leader with 97 votes
+51:19.627955775 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.790745373 [ INFO] [75] has timed out. starting new election...
+51:19.791168180 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.798872705 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:19.830565125 [ INFO] [75] becomes leader with 182 votes
+51:19.862848095 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.006736642 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.156336902 [ INFO] [34] has timed out. starting new election...
+51:20.156794501 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.170729665 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.180255193 [ INFO] [34] becomes leader with 182 votes
+51:20.181020600 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.335891559 [ INFO] [92] has timed out. starting new election...
+51:20.336535264 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.343950122 [ INFO] [92] becomes leader with 97 votes
+51:20.344695017 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.419365313 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.579200641 [ INFO] [178] has timed out. starting new election...
+51:20.584076635 [ INFO] [0] has timed out. starting new election...
+51:20.583470291 [ INFO] [39] has timed out. starting new election...
+51:20.583922959 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.603762807 [ INFO] [39] becomes leader with 97 votes
+51:20.604719490 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.604900993 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.605207376 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.641664151 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.793547142 [ INFO] [103] has timed out. starting new election...
+51:20.802272860 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.829696150 [ INFO] [103] becomes leader with 182 votes
+51:20.834902853 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:20.866324815 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.026268773 [ INFO] [178] has timed out. starting new election...
+51:21.026190903 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.070980057 [ INFO] [178] becomes leader with 182 votes
+51:21.071267711 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.184826407 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.339074853 [ INFO] [34] has timed out. starting new election...
+51:21.339602279 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.344940388 [ INFO] [34] becomes leader with 97 votes
+51:21.345724263 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.352397844 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.506928420 [ INFO] [92] has timed out. starting new election...
+51:21.507231814 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.514342602 [ INFO] [92] becomes leader with 97 votes
+51:21.514991766 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.608488304 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.773216848 [ INFO] [0] has timed out. starting new election...
+51:21.772439040 [ INFO] [75] has timed out. starting new election...
+51:21.772823103 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.776433821 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.779915072 [ INFO] [0] becomes leader with 97 votes
+51:21.780116433 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.837771549 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.990887164 [ INFO] [103] has timed out. starting new election...
+51:21.995602073 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:21.998208395 [ INFO] [103] becomes leader with 97 votes
+51:22.003546184 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.088896620 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.246841590 [ INFO] [178] has timed out. starting new election...
+51:22.246681042 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.253056367 [ INFO] [178] becomes leader with 97 votes
+51:22.253464404 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.349352278 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.503678430 [ INFO] [34] has timed out. starting new election...
+51:22.504118182 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.509494641 [ INFO] [34] becomes leader with 97 votes
+51:22.510502286 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.518299290 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.672451594 [ INFO] [92] has timed out. starting new election...
+51:22.672752766 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.682271478 [ INFO] [92] becomes leader with 97 votes
+51:22.683005339 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.785439692 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.946184628 [ INFO] [39] has timed out. starting new election...
+51:22.949123853 [ INFO] [75] has timed out. starting new election...
+51:22.950984766 [ INFO] [141] has timed out. starting new election...
+51:22.950619604 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.975260784 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.975554293 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:22.976698343 [ INFO] [141] becomes leader with 180 votes
+51:22.976652452 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.006881700 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.171916797 [ INFO] [0] has timed out. starting new election...
+51:23.171410141 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.205462298 [ INFO] [0] becomes leader with 182 votes
+51:23.205487971 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.256966170 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.407253718 [ INFO] [103] has timed out. starting new election...
+51:23.414841970 [ INFO] [178] has timed out. starting new election...
+51:23.414837701 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.416959305 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.424616207 [ INFO] [178] becomes leader with 97 votes
+51:23.424824439 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.514185817 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.668503576 [ INFO] [34] has timed out. starting new election...
+51:23.674621556 [ INFO] [39] has timed out. starting new election...
+51:23.674916282 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.678211067 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.686405096 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.693207507 [ INFO] [39] becomes leader with 97 votes
+51:23.694100367 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.844062786 [ INFO] [103] has timed out. starting new election...
+51:23.848794361 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.877695918 [ INFO] [103] becomes leader with 182 votes
+51:23.883046916 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:23.980303762 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.129806222 [ INFO] [34] has timed out. starting new election...
+51:24.130350021 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.162825072 [ INFO] [34] becomes leader with 182 votes
+51:24.208987910 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.251272426 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.406193912 [ INFO] [92] has timed out. starting new election...
+51:24.406776081 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.418490705 [ INFO] [92] becomes leader with 97 votes
+51:24.419244145 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.428392687 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.586174062 [ INFO] [178] has timed out. starting new election...
+51:24.586134515 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.591847267 [ INFO] [178] becomes leader with 97 votes
+51:24.592250201 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.697360303 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.860885746 [ INFO] [75] has timed out. starting new election...
+51:24.861028876 [ INFO] [39] has timed out. starting new election...
+51:24.861247241 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.861584342 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.886490803 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:24.910565037 [ INFO] [75] becomes leader with 181 votes
+51:24.911259637 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.058790672 [ INFO] [103] has timed out. starting new election...
+51:25.075650242 [ INFO] [141] has timed out. starting new election...
+51:25.075946419 [ INFO] [159] has timed out. starting new election...
+51:25.078563691 [ INFO] [0] has timed out. starting new election...
+51:25.079709312 [ INFO] [85] has timed out. starting new election...
+51:25.079690496 [ INFO] [43] has timed out. starting new election...
+51:25.080170582 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.085657563 [ INFO] [43] becomes leader with 97 votes
+51:25.086949461 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.090823581 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.090964637 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.122648926 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.122905029 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.142718269 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.254790081 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.391631654 [ INFO] [0] candidate has timed out. starting new election...
+51:25.393696372 [ INFO] [103] candidate has timed out. starting new election...
+51:25.409536700 [ INFO] [34] has timed out. starting new election...
+51:25.410025238 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.422444799 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.443843310 [ INFO] [34] becomes leader with 97 votes
+51:25.444671267 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.595725273 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.750500524 [ INFO] [92] has timed out. starting new election...
+51:25.750995791 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.762411639 [ INFO] [92] becomes leader with 97 votes
+51:25.763034079 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:25.914790915 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.074649167 [ INFO] [178] has timed out. starting new election...
+51:26.075947077 [ INFO] [39] has timed out. starting new election...
+51:26.076459686 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.089319652 [ INFO] [56] has timed out. starting new election...
+51:26.089936173 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.090341015 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.090835465 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.114352542 [ INFO] [39] becomes leader with 97 votes
+51:26.115047362 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.278077291 [ INFO] [141] has timed out. starting new election...
+51:26.277507414 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.319308209 [ INFO] [141] becomes leader with 180 votes
+51:26.319218598 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.448396800 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.602823799 [ INFO] [34] has timed out. starting new election...
+51:26.603300557 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.608713021 [ INFO] [34] becomes leader with 97 votes
+51:26.609693864 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.764152579 [ INFO] [178] has timed out. starting new election...
+51:26.766696475 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.786745473 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.795142738 [ INFO] [178] becomes leader with 97 votes
+51:26.795460629 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.945385525 [ INFO] [92] has timed out. starting new election...
+51:26.946081591 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:26.959606648 [ INFO] [92] becomes leader with 97 votes
+51:26.960177857 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.118411879 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.281910489 [ INFO] [39] has timed out. starting new election...
+51:27.282440590 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.318826835 [ INFO] [39] becomes leader with 180 votes
+51:27.319682486 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.327568884 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.491368107 [ INFO] [75] has timed out. starting new election...
+51:27.494562784 [ INFO] [85] has timed out. starting new election...
+51:27.495533799 [ INFO] [43] has timed out. starting new election...
+51:27.496137756 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.506981987 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.519706258 [ INFO] [43] becomes leader with 178 votes
+51:27.520528780 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.520909324 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.613417413 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.767948492 [ INFO] [34] has timed out. starting new election...
+51:27.768311614 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.774009028 [ INFO] [34] becomes leader with 97 votes
+51:27.775040041 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.798361282 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.956256146 [ INFO] [178] has timed out. starting new election...
+51:27.956288857 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.963432854 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:27.975031600 [ INFO] [178] becomes leader with 97 votes
+51:27.975264706 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.125681002 [ INFO] [92] has timed out. starting new election...
+51:28.126377387 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.133094692 [ INFO] [92] becomes leader with 97 votes
+51:28.133677642 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.297298410 [ INFO] [141] has timed out. starting new election...
+51:28.298461829 [ INFO] [75] has timed out. starting new election...
+51:28.298776627 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.323301961 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.330944981 [ INFO] [75] becomes leader with 97 votes
+51:28.331686535 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.354901674 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.515091877 [ INFO] [39] has timed out. starting new election...
+51:28.515361114 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.522165511 [ INFO] [39] becomes leader with 97 votes
+51:28.523034683 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.523851637 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.690313954 [ INFO] [159] has timed out. starting new election...
+51:28.691585332 [ INFO] [52] has timed out. starting new election...
+51:28.692896318 [ INFO] [141] has timed out. starting new election...
+51:28.692003537 [ INFO] [94] has timed out. starting new election...
+51:28.692086522 [ INFO] [85] has timed out. starting new election...
+51:28.692223330 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.692719731 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.693112302 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.694959743 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.713326121 [ INFO] [52] becomes leader with 97 votes
+51:28.714567873 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.722668417 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.778514101 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.933056743 [ INFO] [34] has timed out. starting new election...
+51:28.933341362 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.938793060 [ INFO] [34] becomes leader with 97 votes
+51:28.939607720 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:28.978837079 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.136540065 [ INFO] [178] has timed out. starting new election...
+51:29.136493434 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.137311430 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.146050943 [ INFO] [178] becomes leader with 97 votes
+51:29.146260918 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.303539521 [ INFO] [92] has timed out. starting new election...
+51:29.304209291 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.315590419 [ INFO] [92] becomes leader with 97 votes
+51:29.316386848 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.334756086 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.500949537 [ INFO] [159] has timed out. starting new election...
+51:29.500929226 [ INFO] [141] has timed out. starting new election...
+51:29.500605697 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.500978642 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.519153951 [ INFO] [141] becomes leader with 97 votes
+51:29.519256246 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.527114810 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.690704574 [ INFO] [75] has timed out. starting new election...
+51:29.691503090 [ INFO] [39] has timed out. starting new election...
+51:29.691870579 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.693196679 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.718489451 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.720783943 [ INFO] [39] becomes leader with 99 votes
+51:29.722132905 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.888451214 [ INFO] [159] has timed out. starting new election...
+51:29.887909373 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.894027034 [ INFO] [159] becomes leader with 97 votes
+51:29.894287591 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:29.943321045 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.097642812 [ INFO] [34] has timed out. starting new election...
+51:30.098300258 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.122566089 [ INFO] [34] becomes leader with 97 votes
+51:30.123562547 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.161071561 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.318917323 [ INFO] [178] has timed out. starting new election...
+51:30.318793224 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.319562027 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.358976133 [ INFO] [178] becomes leader with 179 votes
+51:30.359195169 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.509056759 [ INFO] [92] has timed out. starting new election...
+51:30.519153859 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.525966373 [ INFO] [92] becomes leader with 97 votes
+51:30.526769114 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.536572813 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.700468859 [ INFO] [141] has timed out. starting new election...
+51:30.700045311 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.735308883 [ INFO] [141] becomes leader with 180 votes
+51:30.735289568 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.738376192 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:30.897741277 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.058454459 [ INFO] [39] has timed out. starting new election...
+51:31.058954937 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.094828504 [ INFO] [39] becomes leader with 180 votes
+51:31.095658305 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.137609596 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.291972090 [ INFO] [34] has timed out. starting new election...
+51:31.292472386 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.297904296 [ INFO] [34] becomes leader with 97 votes
+51:31.298702485 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.362778710 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.520521451 [ INFO] [178] has timed out. starting new election...
+51:31.520431143 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.528891626 [ INFO] [178] becomes leader with 97 votes
+51:31.529269817 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.530602306 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.688009051 [ INFO] [92] has timed out. starting new election...
+51:31.688653515 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.697525375 [ INFO] [92] becomes leader with 97 votes
+51:31.698340035 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.738824199 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.902903061 [ INFO] [75] has timed out. starting new election...
+51:31.903785820 [ INFO] [141] has timed out. starting new election...
+51:31.903416715 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.910626695 [ INFO] [141] becomes leader with 97 votes
+51:31.910629601 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:31.934870129 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.099379318 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.102676185 [ INFO] [159] has timed out. starting new election...
+51:32.102221521 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.127904576 [ INFO] [159] becomes leader with 97 votes
+51:32.127797568 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.291587175 [ INFO] [39] has timed out. starting new election...
+51:32.291963187 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.297391897 [ INFO] [39] becomes leader with 97 votes
+51:32.298164804 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.302417153 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.457041994 [ INFO] [34] has timed out. starting new election...
+51:32.457543989 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.467722148 [ INFO] [34] becomes leader with 97 votes
+51:32.468720447 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.537111434 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.695095292 [ INFO] [178] has timed out. starting new election...
+51:32.695026051 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.702382945 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.711541740 [ INFO] [178] becomes leader with 97 votes
+51:32.713232246 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.869488201 [ INFO] [92] has timed out. starting new election...
+51:32.870089277 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.876312813 [ INFO] [92] becomes leader with 97 votes
+51:32.877138809 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:32.914115266 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.078218554 [ INFO] [75] has timed out. starting new election...
+51:33.079161703 [ INFO] [141] has timed out. starting new election...
+51:33.078739495 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.078936489 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.098574754 [ INFO] [75] becomes leader with 174 votes
+51:33.099371958 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.131505610 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.298436404 [ INFO] [159] has timed out. starting new election...
+51:33.297941160 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.304080585 [ INFO] [159] becomes leader with 97 votes
+51:33.303929597 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.304311444 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.472456561 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.474545367 [ INFO] [141] has timed out. starting new election...
+51:33.474239843 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.499310307 [ INFO] [141] becomes leader with 180 votes
+51:33.499424545 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.649837139 [ INFO] [34] has timed out. starting new election...
+51:33.650377383 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.655769709 [ INFO] [34] becomes leader with 97 votes
+51:33.656864474 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.715467644 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.873253397 [ INFO] [178] has timed out. starting new election...
+51:33.873189919 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.878922672 [ INFO] [178] becomes leader with 97 votes
+51:33.879188810 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:33.881351750 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.037830625 [ INFO] [92] has timed out. starting new election...
+51:34.038456485 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.049771096 [ INFO] [92] becomes leader with 97 votes
+51:34.050660063 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.103073608 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.263549575 [ INFO] [39] has timed out. starting new election...
+51:34.269636024 [ INFO] [75] has timed out. starting new election...
+51:34.270084691 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.275708298 [ INFO] [75] becomes leader with 97 votes
+51:34.276506685 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.299363561 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.307642312 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.474595224 [ INFO] [159] has timed out. starting new election...
+51:34.474117168 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.480257946 [ INFO] [159] becomes leader with 97 votes
+51:34.480310780 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.502984839 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.660515187 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.814757217 [ INFO] [34] has timed out. starting new election...
+51:34.815167186 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.820700115 [ INFO] [34] becomes leader with 97 votes
+51:34.821530236 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:34.882793722 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.040533362 [ INFO] [178] has timed out. starting new election...
+51:35.040303116 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.054209353 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.078976998 [ INFO] [178] becomes leader with 180 votes
+51:35.106748652 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.261424592 [ INFO] [92] has timed out. starting new election...
+51:35.262033009 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.271719699 [ INFO] [92] becomes leader with 97 votes
+51:35.272570018 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.276864591 [ INFO] [85] has timed out. starting new election...
+51:35.277257868 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.282076657 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.444844179 [ INFO] [39] has timed out. starting new election...
+51:35.445135669 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.478827501 [ INFO] [39] becomes leader with 180 votes
+51:35.483690444 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.494856786 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.656897669 [ INFO] [141] has timed out. starting new election...
+51:35.660236137 [ INFO] [75] has timed out. starting new election...
+51:35.660527975 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.665520493 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.673157192 [ INFO] [75] becomes leader with 97 votes
+51:35.673938811 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.825056674 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:35.966393560 [ INFO] [141] candidate has timed out. starting new election...
+51:35.992901297 [ INFO] [34] has timed out. starting new election...
+51:35.992943603 [ INFO] [43] has timed out. starting new election...
+51:35.993371617 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.013180171 [ INFO] [34] becomes leader with 97 votes
+51:36.014174287 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.055298766 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.110437915 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.268222318 [ INFO] [178] has timed out. starting new election...
+51:36.267989307 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.274038133 [ INFO] [178] becomes leader with 97 votes
+51:36.274387691 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.276581153 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.431215640 [ INFO] [92] has timed out. starting new election...
+51:36.431769817 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.438549565 [ INFO] [92] becomes leader with 97 votes
+51:36.439399315 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.506289631 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.670385623 [ INFO] [39] has timed out. starting new election...
+51:36.670899492 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.680741309 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.695648353 [ INFO] [39] becomes leader with 178 votes
+51:36.696503940 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.859743751 [ INFO] [75] has timed out. starting new election...
+51:36.860157425 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:36.894564576 [ INFO] [75] becomes leader with 179 votes
+51:36.986930737 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.017895539 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.184906745 [ INFO] [34] has timed out. starting new election...
+51:37.185983929 [ INFO] [43] has timed out. starting new election...
+51:37.186356965 [ INFO] [94] has timed out. starting new election...
+51:37.186546050 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.191263312 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.199055905 [ INFO] [94] becomes leader with 97 votes
+51:37.200561107 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.204871540 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.277787092 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.427788523 [ INFO] [34] has timed out. starting new election...
+51:37.428144297 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.443220941 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.447460605 [ INFO] [34] becomes leader with 97 votes
+51:37.448331505 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.603598796 [ INFO] [178] has timed out. starting new election...
+51:37.603376542 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.646977900 [ INFO] [178] becomes leader with 179 votes
+51:37.647176115 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.700034801 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.854087037 [ INFO] [92] has timed out. starting new election...
+51:37.854280064 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.882565417 [ INFO] [92] becomes leader with 179 votes
+51:37.883269384 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:37.989943299 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.151079523 [ INFO] [39] has timed out. starting new election...
+51:38.151493262 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.165487576 [ INFO] [82] has timed out. starting new election...
+51:38.165967466 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.194566992 [ INFO] [82] becomes leader with 179 votes
+51:38.195873454 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.204559140 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.365109638 [ INFO] [39] has timed out. starting new election...
+51:38.365354367 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.383893665 [ INFO] [39] becomes leader with 97 votes
+51:38.384878994 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.452157445 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.606408668 [ INFO] [34] has timed out. starting new election...
+51:38.606957902 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.612846297 [ INFO] [34] becomes leader with 97 votes
+51:38.613661941 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.650726780 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.808505273 [ INFO] [178] has timed out. starting new election...
+51:38.808401174 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.829829470 [ INFO] [178] becomes leader with 97 votes
+51:38.830107540 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:38.887061543 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.041575121 [ INFO] [92] has timed out. starting new election...
+51:39.042084198 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.074566991 [ INFO] [92] becomes leader with 179 votes
+51:39.075337983 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.199578014 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.363283817 [ INFO] [75] has timed out. starting new election...
+51:39.363583343 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.388228843 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.406569871 [ INFO] [75] becomes leader with 179 votes
+51:39.438913498 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.601883403 [ INFO] [39] has timed out. starting new election...
+51:39.602420364 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.617325852 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.630553037 [ INFO] [39] becomes leader with 179 votes
+51:39.631420712 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.785346687 [ INFO] [34] has timed out. starting new election...
+51:39.785840476 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.794668458 [ INFO] [34] becomes leader with 97 votes
+51:39.795817455 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.833844752 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:39.991621252 [ INFO] [178] has timed out. starting new election...
+51:39.991724460 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.013599492 [ INFO] [178] becomes leader with 97 votes
+51:40.013990664 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.079158432 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.233577209 [ INFO] [92] has timed out. starting new election...
+51:40.234208700 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.240858485 [ INFO] [92] becomes leader with 97 votes
+51:40.241709965 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.247262408 [ INFO] [43] has timed out. starting new election...
+51:40.247799196 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.299309409 [ INFO] [43] becomes leader with 179 votes
+51:40.300150965 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.442202505 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.608700953 [ INFO] [75] has timed out. starting new election...
+51:40.608929639 [ INFO] [85] has timed out. starting new election...
+51:40.609325201 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.613633792 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.633034706 [ INFO] [85] becomes leader with 97 votes
+51:40.634357446 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.634732925 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.799258852 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.802003540 [ INFO] [159] has timed out. starting new election...
+51:40.801723122 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:40.847308955 [ INFO] [159] becomes leader with 179 votes
+51:40.910852825 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.017576468 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.167379171 [ INFO] [34] has timed out. starting new election...
+51:41.167894939 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.173879346 [ INFO] [34] becomes leader with 97 votes
+51:41.174630749 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.303638901 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.462502233 [ INFO] [39] has timed out. starting new election...
+51:41.463476550 [ INFO] [178] has timed out. starting new election...
+51:41.471573885 [ INFO] [52] has timed out. starting new election...
+51:41.474910085 [ INFO] [43] has timed out. starting new election...
+51:41.475072362 [ INFO] [94] has timed out. starting new election...
+51:41.475325570 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.475552710 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.475731772 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.485526896 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.497828436 [ INFO] [43] becomes leader with 97 votes
+51:41.498672547 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.503179327 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.638192708 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.775441583 [ INFO] [39] candidate has timed out. starting new election...
+51:41.775998164 [ INFO] [94] candidate has timed out. starting new election...
+51:41.798976551 [ INFO] [178] candidate has timed out. starting new election...
+51:41.802625823 [ INFO] [75] has timed out. starting new election...
+51:41.803016493 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.822850551 [ INFO] [52] candidate has timed out. starting new election...
+51:41.823338596 [ INFO] [75] becomes leader with 97 votes
+51:41.824038235 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:41.914409750 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.081457388 [ INFO] [159] has timed out. starting new election...
+51:42.081008646 [ INFO] [85] has timed out. starting new election...
+51:42.081081878 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.081297662 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.123310201 [ INFO] [159] becomes leader with 172 votes
+51:42.123291717 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.178219081 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.332672226 [ INFO] [34] has timed out. starting new election...
+51:42.332947228 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.339281155 [ INFO] [34] becomes leader with 97 votes
+51:42.340025016 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.502757831 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.993948265 [ INFO] [75] has timed out. starting new election...
+51:42.999628535 [ INFO] [75] becomes leader with 97 votes
+51:43.511520136 [ INFO] [43] has timed out. starting new election...
+51:43.543602104 [ INFO] [43] becomes leader with 97 votes
+51:42.672051844 [ INFO] [85] has timed out. starting new election...
+51:42.677821843 [ INFO] [85] becomes leader with 97 votes
+51:42.672357054 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.678339936 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.827685914 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:42.994261910 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.000292101 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.133020830 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.302329901 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.305940270 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.345546160 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.511806644 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.544326644 [ WARN] [67] panicked because it's election signal channel has failed (on send)
+51:43.299171190 [ INFO] [159] has timed out. starting new election...
+51:43.306260362 [ INFO] [159] becomes leader with 97 votes

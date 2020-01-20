@@ -1,0 +1,2043 @@
+[1579523041.835679] [dahu-28:11281:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.832205] [dahu-30:15665:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.837318] [dahu-28:11296:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.838899] [dahu-28:11283:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.836569] [dahu-30:15669:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.836522] [dahu-30:15670:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.837662] [dahu-30:15666:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.837746] [dahu-30:15667:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.838600] [dahu-30:15660:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.838885] [dahu-30:15659:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.840061] [dahu-30:15671:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.840654] [dahu-31:23439:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.840518] [dahu-30:15668:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.840544] [dahu-30:15662:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.844290] [dahu-27:17976:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.841575] [dahu-31:23440:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.844082] [dahu-25:15612:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.844773] [dahu-27:17974:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.845163] [dahu-28:11292:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.845159] [dahu-28:11289:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.844811] [dahu-25:15598:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.844811] [dahu-25:15604:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.846755] [dahu-28:11282:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847820] [dahu-3:18749:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.843505] [dahu-30:15672:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847112] [dahu-28:11286:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848483] [dahu-3:18750:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.849109] [dahu-3:18757:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.844816] [dahu-30:15674:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848262] [dahu-24:17116:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848436] [dahu-24:17118:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848557] [dahu-28:11293:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848581] [dahu-28:11295:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848649] [dahu-24:17099:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847900] [dahu-25:15606:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.849124] [dahu-24:17121:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.846133] [dahu-31:23435:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.849129] [dahu-27:17970:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.846137] [dahu-30:15673:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.846523] [dahu-30:15661:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.850092] [dahu-28:11290:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847068] [dahu-31:23428:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847091] [dahu-31:23434:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847210] [dahu-31:23431:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.850405] [dahu-28:11284:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847308] [dahu-31:23441:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847054] [dahu-30:15664:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847764] [dahu-31:23432:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847526] [dahu-30:15677:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847892] [dahu-31:23436:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.850337] [dahu-25:15596:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848024] [dahu-31:23437:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848056] [dahu-31:23429:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.847921] [dahu-30:15675:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.849699] [dahu-29:21946:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.848674] [dahu-31:23443:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.850402] [dahu-29:21940:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.850691] [dahu-29:21945:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.850959] [dahu-29:21943:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.849563] [dahu-31:23445:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.851657] [dahu-26:62724:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.851717] [dahu-26:62729:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.851676] [dahu-26:62752:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854855] [dahu-3:18754:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854814] [dahu-3:18758:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.855196] [dahu-3:18753:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.852413] [dahu-29:21936:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.855543] [dahu-3:18760:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.851240] [dahu-31:23430:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854500] [dahu-28:11291:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.856100] [dahu-3:18743:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854968] [dahu-28:11299:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.851578] [dahu-30:15679:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.851758] [dahu-30:15678:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854261] [dahu-26:62742:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854472] [dahu-26:62744:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854487] [dahu-26:62722:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.855279] [dahu-25:15610:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.853413] [dahu-31:23447:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.853740] [dahu-31:23446:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.856718] [dahu-27:17971:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.856782] [dahu-25:15599:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858666] [dahu-3:18746:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.857545] [dahu-27:17973:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.855900] [dahu-29:21938:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854224] [dahu-30:15683:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.857747] [dahu-24:17105:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854833] [dahu-31:23448:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854561] [dahu-30:15680:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858315] [dahu-24:17115:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.854914] [dahu-30:15676:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858341] [dahu-27:17982:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.855423] [dahu-31:23433:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858704] [dahu-28:11297:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858501] [dahu-27:17980:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858933] [dahu-24:17100:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858916] [dahu-28:11285:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858993] [dahu-28:11288:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858284] [dahu-25:15597:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859039] [dahu-27:17977:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858626] [dahu-25:15613:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858647] [dahu-25:15605:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859528] [dahu-27:17987:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861178] [dahu-3:18751:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861326] [dahu-3:18761:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861422] [dahu-3:18752:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861585] [dahu-3:18747:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.860325] [dahu-27:17986:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859963] [dahu-25:15616:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859466] [dahu-26:62734:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859456] [dahu-26:62740:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859613] [dahu-26:62723:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861103] [dahu-28:11302:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858042] [dahu-31:23450:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.858261] [dahu-31:23449:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861722] [dahu-28:11287:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861580] [dahu-27:17988:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.860579] [dahu-26:62726:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861921] [dahu-28:11301:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.860044] [dahu-29:21944:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.860717] [dahu-26:62743:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862055] [dahu-27:17979:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862074] [dahu-28:11305:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862094] [dahu-28:11294:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.860922] [dahu-26:62749:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863350] [dahu-3:18763:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862259] [dahu-24:17098:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862322] [dahu-24:17117:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.859311] [dahu-31:23444:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862463] [dahu-24:17110:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861966] [dahu-25:15608:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862118] [dahu-25:15615:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861105] [dahu-29:21948:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862883] [dahu-24:17104:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863026] [dahu-24:17103:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863027] [dahu-24:17114:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861845] [dahu-26:62750:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861861] [dahu-26:62733:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.861621] [dahu-29:21949:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862140] [dahu-26:62735:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863474] [dahu-28:11303:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863632] [dahu-24:17112:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862045] [dahu-29:21950:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862520] [dahu-26:62747:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863473] [dahu-23:16838:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.860107] [dahu-30:15681:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863881] [dahu-24:17113:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863911] [dahu-24:17108:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864115] [dahu-24:17101:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864106] [dahu-24:17106:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863908] [dahu-27:17981:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864277] [dahu-24:17111:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863782] [dahu-25:15600:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864488] [dahu-27:17984:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864122] [dahu-25:15602:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864733] [dahu-28:11300:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863371] [dahu-29:21951:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.862186] [dahu-31:23451:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865498] [dahu-23:16836:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865380] [dahu-25:15603:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865696] [dahu-27:17972:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865693] [dahu-27:17992:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867152] [dahu-3:18755:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864321] [dahu-29:21937:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865786] [dahu-27:17991:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865727] [dahu-25:15619:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864615] [dahu-29:21935:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.866452] [dahu-28:11306:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.866575] [dahu-28:11298:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.866665] [dahu-28:11307:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865061] [dahu-29:21953:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.863781] [dahu-31:23452:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867004] [dahu-27:17990:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865471] [dahu-29:21933:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865629] [dahu-29:21941:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867417] [dahu-24:17119:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867482] [dahu-28:11304:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864553] [dahu-31:23454:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867153] [dahu-25:15601:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864063] [dahu-30:15686:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864233] [dahu-30:15685:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867904] [dahu-28:11308:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869233] [dahu-3:18765:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.864755] [dahu-30:15682:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867751] [dahu-25:15611:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.868828] [dahu-28:11309:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865748] [dahu-31:23455:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867385] [dahu-29:21954:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869236] [dahu-24:17122:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.865833] [dahu-30:15684:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869250] [dahu-27:17989:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.868859] [dahu-25:15614:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867897] [dahu-29:21934:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867897] [dahu-29:21947:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869847] [dahu-24:17120:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869344] [dahu-25:15620:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869953] [dahu-24:17102:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869495] [dahu-25:15626:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870289] [dahu-28:11311:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.868752] [dahu-29:21942:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.868801] [dahu-29:21939:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870557] [dahu-28:11310:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870559] [dahu-27:17997:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869043] [dahu-29:21958:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.867495] [dahu-31:23457:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870774] [dahu-27:17985:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870923] [dahu-24:17097:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870995] [dahu-27:17998:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871212] [dahu-27:17993:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871343] [dahu-27:17983:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871656] [dahu-28:11312:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.868212] [dahu-30:15687:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870324] [dahu-26:62737:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871208] [dahu-25:15609:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873027] [dahu-3:18766:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871437] [dahu-25:15623:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871595] [dahu-25:15624:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.868762] [dahu-30:15688:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873431] [dahu-3:18769:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873505] [dahu-3:18759:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871920] [dahu-25:15607:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.872580] [dahu-24:17128:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871310] [dahu-29:21952:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.869843] [dahu-31:23453:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871315] [dahu-29:21964:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874550] [dahu-3:18748:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874558] [dahu-3:18756:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873230] [dahu-27:18000:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875340] [dahu-3:18745:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.870969] [dahu-31:23456:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873531] [dahu-25:15617:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874097] [dahu-27:17978:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874097] [dahu-27:17975:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875420] [dahu-3:18744:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875423] [dahu-3:18771:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874348] [dahu-24:17127:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873319] [dahu-26:62732:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.872952] [dahu-29:21960:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.871330] [dahu-30:15689:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873602] [dahu-26:62753:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873814] [dahu-26:62751:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876261] [dahu-3:18768:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874647] [dahu-25:15627:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874013] [dahu-26:62741:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873599] [dahu-29:21957:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874863] [dahu-25:15622:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.872263] [dahu-31:23458:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873779] [dahu-29:21963:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876752] [dahu-3:18770:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873858] [dahu-29:21961:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873914] [dahu-29:21955:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875296] [dahu-25:15621:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874186] [dahu-29:21956:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874211] [dahu-29:21959:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877157] [dahu-3:18772:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875740] [dahu-27:17996:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876083] [dahu-24:17107:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.874418] [dahu-29:21962:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877366] [dahu-3:18773:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876126] [dahu-27:17999:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.872608] [dahu-30:15690:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875030] [dahu-26:62727:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876612] [dahu-24:17126:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877786] [dahu-3:18762:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876878] [dahu-24:17109:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876560] [dahu-23:16837:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877099] [dahu-24:17124:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876494] [dahu-25:15618:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.873990] [dahu-31:23460:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877334] [dahu-27:17994:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877751] [dahu-24:17123:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.876825] [dahu-26:62725:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878150] [dahu-27:17995:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877931] [dahu-23:16835:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878017] [dahu-23:16833:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878345] [dahu-27:18001:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877297] [dahu-26:62731:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879706] [dahu-3:18764:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878370] [dahu-23:16841:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877494] [dahu-26:62745:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877513] [dahu-26:62728:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877663] [dahu-26:62739:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878672] [dahu-23:16834:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878699] [dahu-23:16832:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.877905] [dahu-26:62748:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.878627] [dahu-25:15625:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.875965] [dahu-30:15691:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879576] [dahu-24:17125:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.881035] [dahu-3:18767:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879699] [dahu-23:16831:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879188] [dahu-26:62738:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879188] [dahu-26:62746:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879547] [dahu-26:62736:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.879685] [dahu-26:62730:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.882758] [dahu-3:18774:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.881744] [dahu-23:16842:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.882763] [dahu-23:16839:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.882768] [dahu-23:16845:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.884342] [dahu-23:16830:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.881275] [dahu-31:23459:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.887337] [dahu-23:16844:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.884374] [dahu-31:23461:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.888048] [dahu-23:16840:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.888287] [dahu-23:16843:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.891460] [dahu-23:16848:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.891708] [dahu-23:16847:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.893608] [dahu-23:16849:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.895139] [dahu-23:16853:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.895389] [dahu-23:16854:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.895636] [dahu-23:16850:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.897049] [dahu-23:16846:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.898210] [dahu-23:16852:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.898344] [dahu-23:16856:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.899794] [dahu-23:16851:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.899794] [dahu-23:16855:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.900529] [dahu-23:16860:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.901094] [dahu-23:16859:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.901459] [dahu-23:16857:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.902336] [dahu-23:16861:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+[1579523041.904738] [dahu-23:16858:0]       ib_iface.c:696  UCX  ERROR ibv_create_cq(cqe=4096) failed: Function not implemented
+24:02.074357264 [ INFO] [103] has timed out. starting new election...
+24:02.077157387 [ INFO] [181] has timed out. starting new election...
+24:02.074404026 [ INFO] [271] has timed out. starting new election...
+24:02.074964349 [ INFO] [282] has timed out. starting new election...
+24:02.078600063 [ INFO] [171] has timed out. starting new election...
+24:02.078645776 [ INFO] [50] has timed out. starting new election...
+24:02.077171550 [ INFO] [209] has timed out. starting new election...
+24:02.080138971 [ INFO] [248] has timed out. starting new election...
+24:02.077345180 [ INFO] [265] has timed out. starting new election...
+24:02.083062398 [ INFO] [183] has timed out. starting new election...
+24:02.083375425 [ INFO] [168] has timed out. starting new election...
+24:02.082982617 [ INFO] [221] has timed out. starting new election...
+24:02.082062860 [ INFO] [309] has timed out. starting new election...
+24:02.082972819 [ INFO] [283] has timed out. starting new election...
+24:02.083776287 [ INFO] [264] has timed out. starting new election...
+24:02.084653350 [ INFO] [299] has timed out. starting new election...
+24:02.084840679 [ INFO] [291] has timed out. starting new election...
+24:02.087559910 [ INFO] [285] has timed out. starting new election...
+24:02.156442718 [ INFO] [103] becomes leader with 161 votes
+24:02.320835216 [ INFO] [35] has timed out. starting new election...
+24:02.326379041 [ INFO] [159] has timed out. starting new election...
+24:02.326257756 [ INFO] [117] has timed out. starting new election...
+24:02.330374102 [ INFO] [233] has timed out. starting new election...
+24:02.327320027 [ INFO] [256] has timed out. starting new election...
+24:02.331626835 [ INFO] [52] has timed out. starting new election...
+24:02.332871540 [ INFO] [80] has timed out. starting new election...
+24:02.344443337 [ INFO] [255] has timed out. starting new election...
+24:02.345356801 [ INFO] [253] has timed out. starting new election...
+24:02.346823922 [ INFO] [228] has timed out. starting new election...
+24:02.351575240 [ INFO] [244] has timed out. starting new election...
+24:02.414692876 [ INFO] [52] becomes leader with 229 votes
+24:02.576340408 [ INFO] [33] has timed out. starting new election...
+24:02.576649156 [ INFO] [181] has timed out. starting new election...
+24:02.575036970 [ INFO] [209] has timed out. starting new election...
+24:02.614090559 [ INFO] [181] becomes leader with 312 votes
+24:02.768984906 [ INFO] [171] has timed out. starting new election...
+24:02.771573552 [ INFO] [248] has timed out. starting new election...
+24:02.779985423 [ INFO] [248] becomes leader with 161 votes
+24:02.976125019 [ INFO] [33] has timed out. starting new election...
+24:03.010682871 [ INFO] [33] becomes leader with 320 votes
+24:03.163898043 [ INFO] [271] has timed out. starting new election...
+24:03.165710663 [ INFO] [299] has timed out. starting new election...
+24:03.221900391 [ INFO] [299] becomes leader with 319 votes
+24:03.393923503 [ INFO] [103] has timed out. starting new election...
+24:03.428677765 [ INFO] [103] becomes leader with 320 votes
+24:03.599825978 [ INFO] [50] has timed out. starting new election...
+24:03.608559295 [ INFO] [50] becomes leader with 161 votes
+24:03.774400448 [ INFO] [42] has timed out. starting new election...
+24:03.775203620 [ INFO] [35] has timed out. starting new election...
+24:03.808774707 [ INFO] [35] becomes leader with 314 votes
+24:03.962420704 [ INFO] [181] has timed out. starting new election...
+24:03.963126325 [ INFO] [209] has timed out. starting new election...
+24:04.022002216 [ INFO] [209] becomes leader with 319 votes
+24:04.180354811 [ INFO] [171] has timed out. starting new election...
+24:04.181817692 [ INFO] [42] has timed out. starting new election...
+24:04.208145802 [ INFO] [171] becomes leader with 288 votes
+24:04.408003434 [ INFO] [33] has timed out. starting new election...
+24:04.438686650 [ INFO] [33] becomes leader with 256 votes
+24:04.600674207 [ INFO] [42] has timed out. starting new election...
+24:04.600000098 [ INFO] [103] has timed out. starting new election...
+24:04.601589781 [ INFO] [181] has timed out. starting new election...
+24:04.638173126 [ INFO] [103] becomes leader with 230 votes
+24:04.794818513 [ INFO] [248] has timed out. starting new election...
+24:04.821429353 [ INFO] [248] becomes leader with 226 votes
+24:04.972067004 [ INFO] [271] has timed out. starting new election...
+24:04.992869737 [ INFO] [271] becomes leader with 165 votes
+24:05.182967943 [ INFO] [50] has timed out. starting new election...
+24:05.206929795 [ INFO] [50] becomes leader with 161 votes
+24:05.369265281 [ INFO] [42] has timed out. starting new election...
+24:05.377991841 [ INFO] [42] becomes leader with 161 votes
+24:05.598687365 [ INFO] [35] has timed out. starting new election...
+24:05.600223195 [ INFO] [171] has timed out. starting new election...
+24:05.600362734 [ INFO] [181] has timed out. starting new election...
+24:05.638090774 [ INFO] [171] becomes leader with 317 votes
+24:05.797398434 [ INFO] [33] has timed out. starting new election...
+24:05.801191617 [ INFO] [18] has timed out. starting new election...
+24:05.801896213 [ INFO] [48] has timed out. starting new election...
+24:05.802150671 [ INFO] [103] has timed out. starting new election...
+24:05.820676143 [ INFO] [103] becomes leader with 317 votes
+24:06.123114236 [ INFO] [33] candidate has timed out. starting new election...
+24:06.138429129 [ INFO] [48] candidate has timed out. starting new election...
+24:06.158799404 [ INFO] [35] has timed out. starting new election...
+24:06.202684031 [ INFO] [35] becomes leader with 318 votes
+24:06.370016562 [ INFO] [18] has timed out. starting new election...
+24:06.370966624 [ INFO] [181] has timed out. starting new election...
+24:06.395906423 [ INFO] [18] becomes leader with 224 votes
+24:06.553748070 [ INFO] [50] has timed out. starting new election...
+24:06.555087289 [ INFO] [248] has timed out. starting new election...
+24:06.552161494 [ INFO] [209] has timed out. starting new election...
+24:06.598595591 [ INFO] [248] becomes leader with 316 votes
+24:06.799605790 [ INFO] [42] has timed out. starting new election...
+24:06.822098861 [ INFO] [42] becomes leader with 161 votes
+24:06.982349743 [ INFO] [50] has timed out. starting new election...
+24:06.991191254 [ INFO] [50] becomes leader with 161 votes
+24:07.143512957 [ INFO] [299] has timed out. starting new election...
+24:07.173902313 [ INFO] [299] becomes leader with 318 votes
+24:07.358691154 [ INFO] [103] has timed out. starting new election...
+24:07.396679544 [ INFO] [103] becomes leader with 318 votes
+24:07.561703600 [ INFO] [35] has timed out. starting new election...
+24:07.564074281 [ INFO] [171] has timed out. starting new election...
+24:07.595943558 [ INFO] [171] becomes leader with 317 votes
+24:07.757076262 [ INFO] [181] has timed out. starting new election...
+24:07.790091407 [ INFO] [181] becomes leader with 318 votes
+24:07.982424500 [ INFO] [35] has timed out. starting new election...
+24:08.030682195 [ INFO] [35] becomes leader with 318 votes
+24:08.196363561 [ INFO] [209] has timed out. starting new election...
+24:08.195182519 [ INFO] [271] has timed out. starting new election...
+24:08.208141197 [ INFO] [271] becomes leader with 161 votes
+24:08.380976454 [ INFO] [265] has timed out. starting new election...
+24:08.384759977 [ INFO] [50] has timed out. starting new election...
+24:08.384908768 [ INFO] [164] has timed out. starting new election...
+24:08.386360163 [ INFO] [248] has timed out. starting new election...
+24:08.385518322 [ INFO] [42] has timed out. starting new election...
+24:08.431372059 [ INFO] [42] becomes leader with 308 votes
+24:08.584239872 [ INFO] [209] has timed out. starting new election...
+24:08.592915088 [ INFO] [209] becomes leader with 161 votes
+24:08.750864990 [ INFO] [103] has timed out. starting new election...
+24:08.755606787 [ INFO] [50] has timed out. starting new election...
+24:08.757605765 [ INFO] [18] has timed out. starting new election...
+24:08.803878243 [ INFO] [18] becomes leader with 317 votes
+24:08.991687724 [ INFO] [181] has timed out. starting new election...
+24:09.000344373 [ INFO] [181] becomes leader with 161 votes
+24:09.198613052 [ INFO] [103] has timed out. starting new election...
+24:09.232880843 [ INFO] [103] becomes leader with 317 votes
+24:09.392201703 [ INFO] [50] has timed out. starting new election...
+24:09.422684651 [ INFO] [50] becomes leader with 277 votes
+24:09.591411416 [ INFO] [35] has timed out. starting new election...
+24:09.593694869 [ INFO] [171] has timed out. starting new election...
+24:09.595998998 [ INFO] [164] has timed out. starting new election...
+24:09.626119346 [ INFO] [164] becomes leader with 161 votes
+24:09.779946546 [ INFO] [282] has timed out. starting new election...
+24:09.808868239 [ INFO] [282] becomes leader with 318 votes
+24:09.994820906 [ INFO] [42] has timed out. starting new election...
+24:10.034285500 [ INFO] [42] becomes leader with 316 votes
+24:10.189984869 [ INFO] [248] has timed out. starting new election...
+24:10.186202278 [ INFO] [271] has timed out. starting new election...
+24:10.219287617 [ INFO] [271] becomes leader with 317 votes
+24:10.396109426 [ INFO] [35] has timed out. starting new election...
+24:10.396556843 [ INFO] [171] has timed out. starting new election...
+24:10.396596512 [ INFO] [181] has timed out. starting new election...
+24:10.395493353 [ INFO] [103] has timed out. starting new election...
+24:10.422092223 [ INFO] [171] becomes leader with 172 votes
+24:10.592905151 [ INFO] [18] has timed out. starting new election...
+24:10.591637737 [ INFO] [209] has timed out. starting new election...
+24:10.637639078 [ INFO] [209] becomes leader with 315 votes
+24:10.907875015 [ INFO] [18] candidate has timed out. starting new election...
+24:10.970242719 [ INFO] [103] has timed out. starting new election...
+24:10.983085219 [ INFO] [103] becomes leader with 161 votes
+24:11.190515861 [ INFO] [50] has timed out. starting new election...
+24:11.214294753 [ INFO] [50] becomes leader with 161 votes
+24:11.393298406 [ INFO] [42] has timed out. starting new election...
+24:11.395916064 [ INFO] [35] has timed out. starting new election...
+24:11.397817919 [ INFO] [181] has timed out. starting new election...
+24:11.432479301 [ INFO] [181] becomes leader with 315 votes
+24:11.673792830 [ INFO] [271] has timed out. starting new election...
+24:11.712982172 [ INFO] [271] becomes leader with 317 votes
+24:11.871352398 [ INFO] [42] has timed out. starting new election...
+24:11.906683596 [ INFO] [42] becomes leader with 317 votes
+24:12.144654735 [ INFO] [35] has timed out. starting new election...
+24:12.150905013 [ INFO] [183] has timed out. starting new election...
+24:12.170543276 [ INFO] [35] becomes leader with 161 votes
+24:12.370761315 [ INFO] [103] has timed out. starting new election...
+24:12.376603667 [ INFO] [171] has timed out. starting new election...
+24:12.410937948 [ INFO] [171] becomes leader with 266 votes
+24:12.590159259 [ INFO] [50] has timed out. starting new election...
+24:12.592696882 [ INFO] [209] has timed out. starting new election...
+24:12.594457135 [ INFO] [164] has timed out. starting new election...
+24:12.594455093 [ INFO] [181] has timed out. starting new election...
+24:12.599023448 [ INFO] [183] has timed out. starting new election...
+24:12.623557977 [ INFO] [183] becomes leader with 161 votes
+24:12.874749961 [ INFO] [50] has timed out. starting new election...
+24:12.906681830 [ INFO] [50] becomes leader with 317 votes
+24:13.076486407 [ INFO] [103] has timed out. starting new election...
+24:13.124682483 [ INFO] [103] becomes leader with 317 votes
+24:13.329973422 [ INFO] [42] has timed out. starting new election...
+24:13.333360036 [ INFO] [181] has timed out. starting new election...
+24:13.334668359 [ INFO] [164] has timed out. starting new election...
+24:13.333077805 [ INFO] [209] has timed out. starting new election...
+24:13.382098825 [ INFO] [164] becomes leader with 314 votes
+24:13.571378960 [ INFO] [35] has timed out. starting new election...
+24:13.606682029 [ INFO] [35] becomes leader with 317 votes
+24:13.784361497 [ INFO] [42] has timed out. starting new election...
+24:13.813040735 [ INFO] [42] becomes leader with 248 votes
+24:14.087987644 [ INFO] [171] has timed out. starting new election...
+24:14.088707990 [ INFO] [181] has timed out. starting new election...
+24:14.114064466 [ INFO] [181] becomes leader with 161 votes
+24:14.284559197 [ INFO] [50] has timed out. starting new election...
+24:14.330682483 [ INFO] [50] becomes leader with 317 votes
+24:14.543297272 [ INFO] [103] has timed out. starting new election...
+24:14.572680154 [ INFO] [103] becomes leader with 317 votes
+24:14.795133122 [ INFO] [209] has timed out. starting new election...
+24:14.797043234 [ INFO] [171] has timed out. starting new election...
+24:14.798823715 [ INFO] [164] has timed out. starting new election...
+24:14.808532209 [ INFO] [164] becomes leader with 161 votes
+24:14.978678291 [ INFO] [271] has timed out. starting new election...
+24:14.979696132 [ INFO] [299] has timed out. starting new election...
+24:14.985976558 [ INFO] [35] has timed out. starting new election...
+24:14.988363959 [ INFO] [248] has timed out. starting new election...
+24:14.984863208 [ INFO] [265] has timed out. starting new election...
+24:14.985578643 [ INFO] [309] has timed out. starting new election...
+24:15.027822361 [ INFO] [265] becomes leader with 184 votes
+24:15.272128392 [ INFO] [42] has timed out. starting new election...
+24:15.302682758 [ INFO] [42] becomes leader with 282 votes
+24:15.490691661 [ INFO] [35] has timed out. starting new election...
+24:15.515411464 [ INFO] [35] becomes leader with 161 votes
+24:15.732067408 [ INFO] [50] has timed out. starting new election...
+24:15.774680688 [ INFO] [50] becomes leader with 317 votes
+24:15.966973077 [ INFO] [103] has timed out. starting new election...
+24:15.972993078 [ INFO] [181] has timed out. starting new election...
+24:15.973059041 [ INFO] [171] has timed out. starting new election...
+24:16.006305645 [ INFO] [181] becomes leader with 208 votes
+24:16.194213012 [ INFO] [209] has timed out. starting new election...
+24:16.196038371 [ INFO] [164] has timed out. starting new election...
+24:16.221005773 [ INFO] [209] becomes leader with 161 votes
+24:16.458888868 [ INFO] [103] has timed out. starting new election...
+24:16.488087413 [ INFO] [103] becomes leader with 161 votes
+24:16.674485990 [ INFO] [42] has timed out. starting new election...
+24:16.677951222 [ INFO] [171] has timed out. starting new election...
+24:16.713655439 [ INFO] [171] becomes leader with 316 votes
+24:16.966096458 [ INFO] [35] has timed out. starting new election...
+24:16.970205265 [ INFO] [164] has timed out. starting new election...
+24:17.014093472 [ INFO] [164] becomes leader with 316 votes
+24:17.209948121 [ INFO] [181] has timed out. starting new election...
+24:17.214456980 [ INFO] [50] has timed out. starting new election...
+24:17.214973625 [ INFO] [42] has timed out. starting new election...
+24:17.211904364 [ INFO] [282] has timed out. starting new election...
+24:17.212458886 [ INFO] [299] has timed out. starting new election...
+24:17.212175174 [ INFO] [271] has timed out. starting new election...
+24:17.251062041 [ INFO] [271] becomes leader with 161 votes
+24:17.411080509 [ INFO] [248] has timed out. starting new election...
+24:17.413345406 [ INFO] [35] has timed out. starting new election...
+24:17.414242743 [ INFO] [50] has timed out. starting new election...
+24:17.446825386 [ INFO] [50] becomes leader with 161 votes
+24:17.648539246 [ INFO] [42] has timed out. starting new election...
+24:17.651835292 [ INFO] [181] has timed out. starting new election...
+24:17.651780115 [ INFO] [103] has timed out. starting new election...
+24:17.670731810 [ INFO] [103] becomes leader with 161 votes
+24:17.873896709 [ INFO] [35] has timed out. starting new election...
+24:17.906683547 [ INFO] [35] becomes leader with 317 votes
+24:18.173087311 [ INFO] [42] has timed out. starting new election...
+24:18.226682442 [ INFO] [42] becomes leader with 317 votes
+24:18.417500236 [ INFO] [171] has timed out. starting new election...
+24:18.450002330 [ INFO] [171] becomes leader with 161 votes
+24:18.615568823 [ INFO] [181] has timed out. starting new election...
+24:18.618604587 [ INFO] [50] has timed out. starting new election...
+24:18.674092180 [ INFO] [181] becomes leader with 316 votes
+24:18.834656972 [ INFO] [209] has timed out. starting new election...
+24:18.836365110 [ INFO] [164] has timed out. starting new election...
+24:18.835238255 [ INFO] [103] has timed out. starting new election...
+24:18.864840260 [ INFO] [103] becomes leader with 311 votes
+24:19.075866340 [ INFO] [50] has timed out. starting new election...
+24:19.084509332 [ INFO] [50] becomes leader with 161 votes
+24:19.091638546 [ INFO] [183] has timed out. starting new election...
+24:19.386033501 [ INFO] [35] has timed out. starting new election...
+24:19.390548168 [ INFO] [164] has timed out. starting new election...
+24:19.438095277 [ INFO] [164] becomes leader with 316 votes
+24:19.611269992 [ INFO] [42] has timed out. starting new election...
+24:19.617224026 [ INFO] [171] has timed out. starting new election...
+24:19.658686078 [ INFO] [42] becomes leader with 312 votes
+24:19.834197231 [ INFO] [35] has timed out. starting new election...
+24:19.847859018 [ INFO] [35] becomes leader with 161 votes
+24:20.028382687 [ INFO] [171] has timed out. starting new election...
+24:20.028526026 [ INFO] [181] has timed out. starting new election...
+24:20.240686140 [ INFO] [103] has timed out. starting new election...
+24:20.254497409 [ INFO] [103] becomes leader with 161 votes
+24:20.411904910 [ INFO] [248] has timed out. starting new election...
+24:20.410843725 [ INFO] [171] has timed out. starting new election...
+24:20.407794446 [ INFO] [299] has timed out. starting new election...
+24:20.419752876 [ INFO] [171] becomes leader with 161 votes
+24:20.597008100 [ INFO] [50] has timed out. starting new election...
+24:20.603414718 [ INFO] [181] has timed out. starting new election...
+24:20.603506559 [ INFO] [209] has timed out. starting new election...
+24:20.605908213 [ INFO] [183] has timed out. starting new election...
+24:20.603291269 [ INFO] [271] has timed out. starting new election...
+24:20.606586647 [ INFO] [80] has timed out. starting new election...
+24:20.607398832 [ INFO] [168] has timed out. starting new election...
+24:20.642545351 [ INFO] [168] becomes leader with 311 votes
+24:20.823594221 [ INFO] [248] has timed out. starting new election...
+24:20.866378672 [ INFO] [248] becomes leader with 317 votes
+24:21.022757242 [ INFO] [50] has timed out. starting new election...
+24:21.031472271 [ INFO] [50] becomes leader with 161 votes
+24:21.183588915 [ INFO] [271] has timed out. starting new election...
+24:21.185783838 [ INFO] [209] has timed out. starting new election...
+24:21.187707372 [ INFO] [42] has timed out. starting new election...
+24:21.190056435 [ INFO] [183] has timed out. starting new election...
+24:21.218098168 [ INFO] [183] becomes leader with 251 votes
+24:21.417245091 [ INFO] [209] has timed out. starting new election...
+24:21.454551322 [ INFO] [209] becomes leader with 316 votes
+24:21.609538655 [ INFO] [181] has timed out. starting new election...
+24:21.610649767 [ INFO] [271] has timed out. starting new election...
+24:21.614364362 [ INFO] [42] has timed out. starting new election...
+24:21.611494103 [ INFO] [299] has timed out. starting new election...
+24:21.611328673 [ INFO] [282] has timed out. starting new election...
+24:21.611640541 [ INFO] [265] has timed out. starting new election...
+24:21.615799903 [ INFO] [35] has timed out. starting new election...
+24:21.615091530 [ INFO] [103] has timed out. starting new election...
+24:21.627081761 [ INFO] [103] becomes leader with 161 votes
+24:21.861508254 [ INFO] [171] has timed out. starting new election...
+24:21.897946521 [ INFO] [171] becomes leader with 161 votes
+24:22.191313064 [ INFO] [42] has timed out. starting new election...
+24:22.226683752 [ INFO] [42] becomes leader with 317 votes
+24:22.384498204 [ INFO] [248] has timed out. starting new election...
+24:22.393843932 [ INFO] [248] becomes leader with 161 votes
+24:22.614453255 [ INFO] [50] has timed out. starting new election...
+24:22.642682744 [ INFO] [50] becomes leader with 317 votes
+24:22.800316783 [ INFO] [35] has timed out. starting new election...
+24:22.803632173 [ INFO] [181] has timed out. starting new election...
+24:22.802351073 [ INFO] [209] has timed out. starting new election...
+24:22.828590969 [ INFO] [181] becomes leader with 211 votes
+24:23.053397433 [ INFO] [103] has timed out. starting new election...
+24:23.061399676 [ INFO] [164] has timed out. starting new election...
+24:23.094613760 [ INFO] [164] becomes leader with 161 votes
+24:23.364692081 [ INFO] [103] candidate has timed out. starting new election...
+24:23.386970551 [ INFO] [35] has timed out. starting new election...
+24:23.415085143 [ INFO] [35] becomes leader with 161 votes
+24:23.567957475 [ INFO] [209] has timed out. starting new election...
+24:23.571646326 [ INFO] [171] has timed out. starting new election...
+24:23.568671579 [ INFO] [299] has timed out. starting new election...
+24:23.568457353 [ INFO] [282] has timed out. starting new election...
+24:23.568571487 [ INFO] [271] has timed out. starting new election...
+24:23.568620541 [ INFO] [265] has timed out. starting new election...
+24:23.620873526 [ INFO] [282] becomes leader with 294 votes
+24:23.801879840 [ INFO] [42] has timed out. starting new election...
+24:23.811226189 [ INFO] [42] becomes leader with 161 votes
+24:23.987034883 [ INFO] [50] has timed out. starting new election...
+24:23.996084081 [ INFO] [50] becomes leader with 161 votes
+24:24.256837857 [ INFO] [171] has timed out. starting new election...
+24:24.257074612 [ INFO] [181] has timed out. starting new election...
+24:24.310089984 [ INFO] [181] becomes leader with 315 votes
+24:24.574542793 [ INFO] [171] candidate has timed out. starting new election...
+24:24.577232812 [ INFO] [209] has timed out. starting new election...
+24:24.579061790 [ INFO] [164] has timed out. starting new election...
+24:24.622283932 [ INFO] [164] becomes leader with 314 votes
+24:24.790926687 [ INFO] [248] has timed out. starting new election...
+24:24.786777294 [ INFO] [271] has timed out. starting new election...
+24:24.786836156 [ INFO] [282] has timed out. starting new election...
+24:24.816867625 [ INFO] [271] becomes leader with 313 votes
+24:24.985588488 [ INFO] [299] has timed out. starting new election...
+24:24.986098421 [ INFO] [265] has timed out. starting new election...
+24:24.988389116 [ INFO] [209] has timed out. starting new election...
+24:25.040732922 [ INFO] [209] becomes leader with 161 votes
+24:25.195273355 [ INFO] [50] has timed out. starting new election...
+24:25.198993256 [ INFO] [248] has timed out. starting new election...
+24:25.233633797 [ INFO] [248] becomes leader with 314 votes
+24:25.468366008 [ INFO] [42] has timed out. starting new election...
+24:25.485913183 [ INFO] [42] becomes leader with 161 votes
+24:25.780661017 [ INFO] [50] has timed out. starting new election...
+24:25.822681865 [ INFO] [50] becomes leader with 315 votes
+24:25.998053872 [ INFO] [35] has timed out. starting new election...
+24:26.010772750 [ INFO] [35] becomes leader with 161 votes
+24:26.202358772 [ INFO] [181] has timed out. starting new election...
+24:26.233639059 [ INFO] [181] becomes leader with 315 votes
+24:26.395153641 [ INFO] [271] has timed out. starting new election...
+24:26.401028626 [ INFO] [146] has timed out. starting new election...
+24:26.397811807 [ INFO] [282] has timed out. starting new election...
+24:26.432405635 [ INFO] [282] becomes leader with 249 votes
+24:26.649682542 [ INFO] [164] has timed out. starting new election...
+24:26.678095435 [ INFO] [164] becomes leader with 315 votes
+24:26.830081143 [ INFO] [299] has timed out. starting new election...
+24:26.862097773 [ INFO] [299] becomes leader with 161 votes
+24:27.168907426 [ INFO] [50] has timed out. starting new election...
+24:27.177835026 [ INFO] [50] becomes leader with 161 votes
+24:27.400772401 [ INFO] [42] has timed out. starting new election...
+24:27.401235645 [ INFO] [35] has timed out. starting new election...
+24:27.403078691 [ INFO] [209] has timed out. starting new election...
+24:27.405031435 [ INFO] [181] has timed out. starting new election...
+24:27.438091303 [ INFO] [181] becomes leader with 312 votes
+24:27.672667428 [ INFO] [282] has timed out. starting new election...
+24:27.675756274 [ INFO] [271] has timed out. starting new election...
+24:27.680654011 [ INFO] [248] has timed out. starting new election...
+24:27.718360209 [ INFO] [248] becomes leader with 313 votes
+24:28.014994480 [ INFO] [271] candidate has timed out. starting new election...
+24:28.019153960 [ INFO] [282] candidate has timed out. starting new election...
+24:28.024639434 [ INFO] [42] has timed out. starting new election...
+24:28.054691978 [ INFO] [42] becomes leader with 277 votes
+24:28.338097306 [ INFO] [35] has timed out. starting new election...
+24:28.374682399 [ INFO] [35] becomes leader with 313 votes
+24:28.613266640 [ INFO] [50] has timed out. starting new election...
+24:28.622087207 [ INFO] [50] becomes leader with 161 votes
+24:28.877554969 [ INFO] [209] has timed out. starting new election...
+24:28.879505846 [ INFO] [181] has timed out. starting new election...
+24:28.889865338 [ INFO] [181] becomes leader with 167 votes
+24:29.059106459 [ INFO] [164] has timed out. starting new election...
+24:29.056498698 [ INFO] [299] has timed out. starting new election...
+24:29.056185965 [ INFO] [265] has timed out. starting new election...
+24:29.061518608 [ INFO] [248] has timed out. starting new election...
+24:29.091989279 [ INFO] [299] becomes leader with 161 votes
+24:29.277168547 [ INFO] [42] has timed out. starting new election...
+24:29.289142175 [ INFO] [42] becomes leader with 161 votes
+24:29.534887346 [ INFO] [209] has timed out. starting new election...
+24:29.578658605 [ INFO] [209] becomes leader with 313 votes
+24:29.782314542 [ INFO] [35] has timed out. starting new election...
+24:29.811853278 [ INFO] [35] becomes leader with 194 votes
+24:30.047913854 [ INFO] [50] has timed out. starting new election...
+24:30.078683790 [ INFO] [50] becomes leader with 273 votes
+24:30.273090387 [ INFO] [181] has timed out. starting new election...
+24:30.301654041 [ INFO] [181] becomes leader with 313 votes
+24:30.453688687 [ INFO] [299] has timed out. starting new election...
+24:30.464763567 [ INFO] [299] becomes leader with 161 votes
+24:30.739407645 [ INFO] [42] has timed out. starting new election...
+24:30.741046474 [ INFO] [209] has timed out. starting new election...
+24:30.742797737 [ INFO] [164] has timed out. starting new election...
+24:30.757997392 [ INFO] [209] becomes leader with 161 votes
+24:30.977511392 [ INFO] [146] has timed out. starting new election...
+24:30.978979943 [ INFO] [248] has timed out. starting new election...
+24:30.976271881 [ INFO] [265] has timed out. starting new election...
+24:30.979787781 [ INFO] [168] has timed out. starting new election...
+24:31.006751896 [ INFO] [168] becomes leader with 161 votes
+24:31.236859558 [ INFO] [42] has timed out. starting new election...
+24:31.266681846 [ INFO] [42] becomes leader with 312 votes
+24:31.459726801 [ INFO] [50] has timed out. starting new election...
+24:31.461807667 [ INFO] [35] has timed out. starting new election...
+24:31.465485440 [ INFO] [164] has timed out. starting new election...
+24:31.465638414 [ INFO] [181] has timed out. starting new election...
+24:31.498658374 [ INFO] [181] becomes leader with 161 votes
+24:31.662514728 [ INFO] [248] has timed out. starting new election...
+24:31.698358483 [ INFO] [248] becomes leader with 313 votes
+24:31.921958004 [ INFO] [50] has timed out. starting new election...
+24:31.923657912 [ INFO] [35] has timed out. starting new election...
+24:31.942684197 [ INFO] [35] becomes leader with 311 votes
+24:32.170225863 [ INFO] [209] has timed out. starting new election...
+24:32.171896256 [ INFO] [164] has timed out. starting new election...
+24:32.175409329 [ INFO] [146] has timed out. starting new election...
+24:32.172919349 [ INFO] [299] has timed out. starting new election...
+24:32.176179213 [ INFO] [183] has timed out. starting new election...
+24:32.229903775 [ INFO] [299] becomes leader with 308 votes
+24:32.439742781 [ INFO] [50] has timed out. starting new election...
+24:32.448551173 [ INFO] [50] becomes leader with 161 votes
+24:32.658187946 [ INFO] [42] has timed out. starting new election...
+24:32.682683044 [ INFO] [42] becomes leader with 199 votes
+24:32.890168579 [ INFO] [181] has timed out. starting new election...
+24:32.891362953 [ INFO] [164] has timed out. starting new election...
+24:32.930095218 [ INFO] [164] becomes leader with 312 votes
+24:33.104703311 [ INFO] [209] has timed out. starting new election...
+24:33.109768307 [ INFO] [248] has timed out. starting new election...
+24:33.158361192 [ INFO] [248] becomes leader with 312 votes
+24:33.393931704 [ INFO] [35] has timed out. starting new election...
+24:33.394965874 [ INFO] [181] has timed out. starting new election...
+24:33.434093160 [ INFO] [181] becomes leader with 310 votes
+24:33.610894786 [ INFO] [209] has timed out. starting new election...
+24:33.642652053 [ INFO] [209] becomes leader with 313 votes
+24:33.848112476 [ INFO] [50] has timed out. starting new election...
+24:33.890682020 [ INFO] [50] becomes leader with 313 votes
+24:34.089469888 [ INFO] [42] has timed out. starting new election...
+24:34.090288974 [ INFO] [35] has timed out. starting new election...
+24:34.097579547 [ INFO] [168] has timed out. starting new election...
+24:34.097297471 [ INFO] [80] has timed out. starting new election...
+24:34.094934082 [ INFO] [299] has timed out. starting new election...
+24:34.098142483 [ INFO] [146] has timed out. starting new election...
+24:34.132153638 [ INFO] [80] becomes leader with 161 votes
+24:34.356424217 [ INFO] [164] has timed out. starting new election...
+24:34.359227399 [ INFO] [248] has timed out. starting new election...
+24:34.370418655 [ INFO] [248] becomes leader with 161 votes
+24:34.593194268 [ INFO] [42] has timed out. starting new election...
+24:34.601845270 [ INFO] [42] becomes leader with 161 votes
+24:34.856894115 [ INFO] [35] has timed out. starting new election...
+24:34.859171086 [ INFO] [181] has timed out. starting new election...
+24:34.898821146 [ INFO] [181] becomes leader with 310 votes
+24:35.052658151 [ INFO] [209] has timed out. starting new election...
+24:35.077806193 [ INFO] [209] becomes leader with 161 votes
+24:35.292333572 [ INFO] [50] has timed out. starting new election...
+24:35.326681959 [ INFO] [50] becomes leader with 313 votes
+24:35.529405595 [ INFO] [35] has timed out. starting new election...
+24:35.533255816 [ INFO] [164] has timed out. starting new election...
+24:35.562606841 [ INFO] [164] becomes leader with 161 votes
+24:35.769335449 [ INFO] [248] has timed out. starting new election...
+24:35.782401315 [ INFO] [248] becomes leader with 161 votes
+24:36.057923545 [ INFO] [42] has timed out. starting new election...
+24:36.090423007 [ INFO] [42] becomes leader with 165 votes
+24:36.249600403 [ INFO] [181] has timed out. starting new election...
+24:36.252137060 [ INFO] [35] has timed out. starting new election...
+24:36.252745098 [ INFO] [146] has timed out. starting new election...
+24:36.252933083 [ INFO] [183] has timed out. starting new election...
+24:36.250475564 [ INFO] [299] has timed out. starting new election...
+24:36.309903579 [ INFO] [299] becomes leader with 313 votes
+24:36.486824477 [ INFO] [35] has timed out. starting new election...
+24:36.489806235 [ INFO] [181] has timed out. starting new election...
+24:36.498760155 [ INFO] [181] becomes leader with 161 votes
+24:36.718678185 [ INFO] [50] has timed out. starting new election...
+24:36.723057509 [ INFO] [209] has timed out. starting new election...
+24:36.754755203 [ INFO] [209] becomes leader with 161 votes
+24:36.941487963 [ INFO] [35] has timed out. starting new election...
+24:36.969775200 [ INFO] [35] becomes leader with 161 votes
+24:37.248589927 [ INFO] [50] has timed out. starting new election...
+24:37.260400733 [ INFO] [50] becomes leader with 161 votes
+24:37.478495933 [ INFO] [42] has timed out. starting new election...
+24:37.487223463 [ INFO] [42] becomes leader with 161 votes
+24:37.662397386 [ INFO] [164] has timed out. starting new election...
+24:37.662707668 [ INFO] [181] has timed out. starting new election...
+24:37.671397127 [ INFO] [181] becomes leader with 161 votes
+24:37.921671533 [ INFO] [209] has timed out. starting new election...
+24:37.958656563 [ INFO] [209] becomes leader with 313 votes
+24:38.148102695 [ INFO] [248] has timed out. starting new election...
+24:38.173031568 [ INFO] [248] becomes leader with 161 votes
+24:38.424814385 [ INFO] [35] has timed out. starting new election...
+24:38.428698603 [ INFO] [164] has timed out. starting new election...
+24:38.429807824 [ INFO] [50] has timed out. starting new election...
+24:38.458828013 [ INFO] [164] becomes leader with 161 votes
+24:38.474683784 [ INFO] [50] becomes leader with 312 votes
+24:38.647244247 [ INFO] [35] has timed out. starting new election...
+24:38.651508015 [ INFO] [299] has timed out. starting new election...
+24:38.654583459 [ INFO] [168] has timed out. starting new election...
+24:38.654891686 [ INFO] [42] has timed out. starting new election...
+24:38.687341181 [ INFO] [42] becomes leader with 161 votes
+24:38.700629040 [ INFO] [299] becomes leader with 161 votes
+24:38.861301118 [ INFO] [181] has timed out. starting new election...
+24:38.861490718 [ INFO] [35] has timed out. starting new election...
+24:38.906680796 [ INFO] [35] becomes leader with 260 votes
+24:39.155319859 [ INFO] [209] has timed out. starting new election...
+24:39.159222480 [ INFO] [168] has timed out. starting new election...
+24:39.175719449 [ INFO] [209] becomes leader with 161 votes
+24:39.333553530 [ INFO] [181] has timed out. starting new election...
+24:39.361584549 [ INFO] [181] becomes leader with 283 votes
+24:39.482775759 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.640069706 [ INFO] [50] has timed out. starting new election...
+24:39.640571546 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.649027611 [ INFO] [50] becomes leader with 161 votes
+24:39.650029087 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.697837873 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.857074248 [ INFO] [248] has timed out. starting new election...
+24:39.857586958 [ INFO] [168] has timed out. starting new election...
+24:39.857921082 [ INFO] [146] has timed out. starting new election...
+24:39.854659092 [ INFO] [265] has timed out. starting new election...
+24:39.858168830 [ INFO] [183] has timed out. starting new election...
+24:39.858475554 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.855605594 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:39.858912381 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.855983793 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:39.866354569 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.863557886 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:39.883407816 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:39.886493045 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.898709756 [ INFO] [146] becomes leader with 161 votes
+24:39.900785981 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.897851233 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:39.914416207 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.916593094 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:39.913802567 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:39.915962522 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.072189989 [ INFO] [42] has timed out. starting new election...
+24:40.074534446 [ INFO] [309] has timed out. starting new election...
+24:40.076236441 [ INFO] [264] has timed out. starting new election...
+24:40.080263515 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.077734117 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.102972583 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.100086337 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.103337259 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.100578345 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.110000465 [ INFO] [264] becomes leader with 244 votes
+24:40.115260658 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.112381847 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.185146862 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.186691032 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.337552973 [ INFO] [35] has timed out. starting new election...
+24:40.337821227 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.334856739 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.367264837 [ INFO] [35] becomes leader with 179 votes
+24:40.368568539 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.365643030 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.369470187 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.371100718 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.524994070 [ INFO] [42] has timed out. starting new election...
+24:40.525583726 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.522726494 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.558681747 [ INFO] [42] becomes leader with 311 votes
+24:40.559703148 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.556714653 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.657047303 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.658668011 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.810931444 [ INFO] [181] has timed out. starting new election...
+24:40.811300665 [ INFO] [209] has timed out. starting new election...
+24:40.813480823 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.810464127 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.838555088 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.835722707 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.838370732 [ INFO] [209] becomes leader with 243 votes
+24:40.841085208 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.838246169 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:40.920050238 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:40.921848334 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.056560437 [ INFO] [50] has timed out. starting new election...
+24:41.056787292 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.054063825 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.069194336 [ INFO] [50] becomes leader with 161 votes
+24:41.070180544 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.067278334 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.121998259 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.123596012 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.276343303 [ INFO] [181] has timed out. starting new election...
+24:41.277012426 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.274159511 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.297788645 [ INFO] [181] becomes leader with 161 votes
+24:41.298965826 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.296532603 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.375571480 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.377021007 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.533190490 [ INFO] [146] has timed out. starting new election...
+24:41.534929275 [ INFO] [248] has timed out. starting new election...
+24:41.530808480 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.533814710 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.535618159 [ INFO] [183] has timed out. starting new election...
+24:41.536439825 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.539590204 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.543126577 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.540581245 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.554670706 [ INFO] [146] becomes leader with 161 votes
+24:41.555903167 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.552991220 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.564670618 [ INFO] [248] becomes leader with 161 votes
+24:41.564426604 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.561668509 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.565318507 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.566188260 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.722682356 [ INFO] [35] has timed out. starting new election...
+24:41.722551381 [ INFO] [265] has timed out. starting new election...
+24:41.726432931 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.723656752 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.730888295 [ INFO] [183] has timed out. starting new election...
+24:41.731363297 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.728432902 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.735057181 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.732122199 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.758218855 [ INFO] [265] becomes leader with 274 votes
+24:41.762689948 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.759717133 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.847825983 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:41.849472726 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:41.999469372 [ INFO] [42] has timed out. starting new election...
+24:42.003648162 [ INFO] [209] has timed out. starting new election...
+24:42.005706898 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.003033630 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.012496331 [ INFO] [209] becomes leader with 161 votes
+24:42.015125570 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.012390136 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.018622338 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.015964726 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.080671803 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.082299333 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.232769623 [ INFO] [35] has timed out. starting new election...
+24:42.233317059 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.230584395 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.256817800 [ INFO] [35] becomes leader with 161 votes
+24:42.257849861 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.254919221 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.306409143 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.308042316 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.456507938 [ INFO] [50] has timed out. starting new election...
+24:42.456598716 [ INFO] [42] has timed out. starting new election...
+24:42.457075309 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.454056648 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.454262122 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.457325994 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.491021334 [ INFO] [50] becomes leader with 161 votes
+24:42.492234769 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.489283371 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.571145092 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:42.571818980 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.573562706 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.725697820 [ INFO] [181] has timed out. starting new election...
+24:42.725988410 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.726033726 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:42.723073654 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.754091454 [ INFO] [181] becomes leader with 310 votes
+24:42.755070580 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:42.755081105 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.752196510 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.768756106 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:42.769340163 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.770947703 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.921600204 [ INFO] [42] has timed out. starting new election...
+24:42.921973732 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:42.922038231 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:42.919105724 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.930511193 [ INFO] [42] becomes leader with 161 votes
+24:42.931305788 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:42.928374362 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:42.931362713 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.021175533 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.022059970 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.023637599 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.177615322 [ INFO] [209] has timed out. starting new election...
+24:43.179855834 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.179934612 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.177118734 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.186380828 [ INFO] [209] becomes leader with 161 votes
+24:43.189031668 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.189087376 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.186152580 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.263289261 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.263920889 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.265551634 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.423346470 [ INFO] [248] has timed out. starting new election...
+24:43.423526285 [ INFO] [168] has timed out. starting new election...
+24:43.420578424 [ INFO] [265] has timed out. starting new election...
+24:43.424327950 [ INFO] [183] has timed out. starting new election...
+24:43.424936513 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.425054222 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.422316872 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.448713481 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.448769510 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.445982215 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.449989068 [ INFO] [183] becomes leader with 161 votes
+24:43.451159168 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.451244861 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.448402707 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.453447646 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.453722877 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.450966796 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.457809948 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.457768053 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.454959458 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.498157297 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.498820466 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.500563520 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.651335535 [ INFO] [35] has timed out. starting new election...
+24:43.651499335 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.648608031 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.651560453 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.694683984 [ INFO] [35] becomes leader with 310 votes
+24:43.726963213 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.726957072 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.724082290 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.761187121 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.761840688 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.763558053 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.912017288 [ INFO] [50] has timed out. starting new election...
+24:43.912283698 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.912361789 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.909480200 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.937344153 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.938036629 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.939578673 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:43.954683318 [ INFO] [50] becomes leader with 310 votes
+24:43.955630189 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:43.955704598 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:43.952802916 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.111214904 [ INFO] [181] has timed out. starting new election...
+24:44.108408116 [ INFO] [265] has timed out. starting new election...
+24:44.114067510 [ INFO] [248] has timed out. starting new election...
+24:44.113196075 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.113349465 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.110419804 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.130796583 [ INFO] [248] becomes leader with 161 votes
+24:44.130701607 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.130817978 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.127962422 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.131050188 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.130976675 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.128154466 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.133730072 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.133852605 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.131182342 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.195023565 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.195690336 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.197261083 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.347032311 [ INFO] [42] has timed out. starting new election...
+24:44.347362467 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.347405586 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.344537921 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.365281237 [ INFO] [165] has timed out. starting new election...
+24:44.374209763 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.374988863 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.387486034 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.398683511 [ INFO] [42] becomes leader with 309 votes
+24:44.399629999 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.399602380 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.396747120 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.457634781 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.458227564 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.459899777 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.610284120 [ INFO] [181] has timed out. starting new election...
+24:44.610761198 [ INFO] [209] has timed out. starting new election...
+24:44.617821188 [ INFO] [168] has timed out. starting new election...
+24:44.618129923 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.618116303 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.615431216 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.630467914 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.630458322 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.627723249 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.658200782 [ INFO] [168] becomes leader with 161 votes
+24:44.659478658 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.659510444 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.656891482 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.676697249 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.676749551 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.674028989 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.733052088 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.733700395 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.735279758 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.891094853 [ INFO] [265] has timed out. starting new election...
+24:44.894714350 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.894654071 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.891796995 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.924873187 [ INFO] [265] becomes leader with 175 votes
+24:44.929218639 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.929341861 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.926448807 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:44.961792346 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:44.962506859 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:44.964096915 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.114649536 [ INFO] [35] has timed out. starting new election...
+24:45.114969150 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.115117582 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.112209256 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.126629770 [ INFO] [35] becomes leader with 161 votes
+24:45.127758650 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.127831207 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.124908940 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.136952244 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.137272542 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.139236964 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.289176546 [ INFO] [50] has timed out. starting new election...
+24:45.289704390 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.289676206 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.286841961 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.326682625 [ INFO] [50] becomes leader with 310 votes
+24:45.327644620 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.327732268 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.324795840 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.405819151 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.406504118 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.408135612 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.560473112 [ INFO] [181] has timed out. starting new election...
+24:45.560860517 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.560891694 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.558090578 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.586035998 [ INFO] [181] becomes leader with 161 votes
+24:45.587037531 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.587023215 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.584256632 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.666603700 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.667295812 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.669445816 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.816580172 [ INFO] [42] has timed out. starting new election...
+24:45.816987231 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.817057386 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.814123036 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.850686521 [ INFO] [42] becomes leader with 310 votes
+24:45.851595994 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.851662882 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.848744557 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:45.935592982 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:45.936374678 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:45.938004231 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.090599833 [ INFO] [209] has timed out. starting new election...
+24:46.092673736 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.092753804 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.089796620 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.126651187 [ INFO] [209] becomes leader with 308 votes
+24:46.129264099 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.129359727 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.126391882 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.133935370 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.134577386 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.136110252 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.293783284 [ INFO] [248] has timed out. starting new election...
+24:46.294093610 [ INFO] [168] has timed out. starting new election...
+24:46.294398831 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.294509222 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.291682785 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.322098617 [ INFO] [168] becomes leader with 309 votes
+24:46.333787137 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.334622970 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.337136637 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.337340720 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.334517530 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.337847275 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.338028008 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.335116995 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.336142024 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.491767935 [ INFO] [265] has timed out. starting new election...
+24:46.498896810 [ INFO] [35] has timed out. starting new election...
+24:46.497358657 [ INFO] [221] has timed out. starting new election...
+24:46.499052951 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.496175480 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.499329138 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.511282302 [ INFO] [35] becomes leader with 161 votes
+24:46.512327024 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.512414099 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.509594783 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.513002122 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.513093116 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.510209552 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.528723091 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.528799506 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.526069222 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.592981880 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.593674133 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.595513350 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.743667229 [ INFO] [50] has timed out. starting new election...
+24:46.740924050 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.743811616 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.743872784 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.757193300 [ INFO] [50] becomes leader with 161 votes
+24:46.758166081 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.755197398 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:46.758197859 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.857826220 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:46.858423434 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:46.859928272 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.012663220 [ INFO] [181] has timed out. starting new election...
+24:47.013081783 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.013114712 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.010222868 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.042090472 [ INFO] [181] becomes leader with 310 votes
+24:47.040183212 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.043103040 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.043201842 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.135553878 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.136325825 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.137716092 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.287583400 [ INFO] [42] has timed out. starting new election...
+24:47.291688370 [ INFO] [209] has timed out. starting new election...
+24:47.293922940 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.293992457 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.291118073 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.300984158 [ INFO] [209] becomes leader with 161 votes
+24:47.303396137 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.300716605 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.303767939 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.322872246 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.320018560 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.323061532 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.349341632 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.350324438 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.351942350 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.506838369 [ INFO] [248] has timed out. starting new election...
+24:47.505806286 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.505876090 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.502995327 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.518717677 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.519440166 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.520604050 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.554358716 [ INFO] [248] becomes leader with 310 votes
+24:47.554267234 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.554409660 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.551520928 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.707343785 [ INFO] [265] has timed out. starting new election...
+24:47.711142008 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.711284451 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.708309706 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.736619232 [ INFO] [265] becomes leader with 161 votes
+24:47.741099220 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.738254601 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.741196093 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.764569478 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.765311942 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.766928907 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.916212282 [ INFO] [42] has timed out. starting new election...
+24:47.916628709 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.913695273 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.916719734 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:47.925737186 [ INFO] [42] becomes leader with 161 votes
+24:47.926868110 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:47.923992716 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:47.926964843 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.049368991 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.050014032 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.051575319 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.200354231 [ INFO] [50] has timed out. starting new election...
+24:48.200754851 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.197872609 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.200839293 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.242690431 [ INFO] [50] becomes leader with 310 votes
+24:48.243657162 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.243753773 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.240753270 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.309806370 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.310486952 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.312021016 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.461863030 [ INFO] [181] has timed out. starting new election...
+24:48.462528487 [ INFO] [35] has timed out. starting new election...
+24:48.462909314 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.462942329 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.460040512 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.465221248 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.465278728 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.462464808 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.506689043 [ INFO] [35] becomes leader with 309 votes
+24:48.507638403 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.507679903 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.504781432 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.561088280 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.561557864 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.563356087 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.715853392 [ INFO] [209] has timed out. starting new election...
+24:48.717688264 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.717747333 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.715132245 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.728195070 [ INFO] [209] becomes leader with 161 votes
+24:48.731045342 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.731085040 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.728187711 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.747393076 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.747943591 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.749694437 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.901895072 [ INFO] [181] has timed out. starting new election...
+24:48.907134597 [ INFO] [248] has timed out. starting new election...
+24:48.906280206 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.906384120 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.903501956 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.917054629 [ INFO] [248] becomes leader with 161 votes
+24:48.916994950 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.917002815 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.914160536 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.917354724 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.917444948 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.914545318 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:48.939843487 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:48.940461401 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:48.942158356 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.099695427 [ INFO] [42] has timed out. starting new election...
+24:49.099813802 [ INFO] [168] has timed out. starting new election...
+24:49.099900996 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.096976843 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.099839577 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.100096195 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.100390421 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.097458754 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.113390395 [ INFO] [42] becomes leader with 161 votes
+24:49.114353850 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.114485248 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.111501896 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.249565812 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.250478142 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.252024251 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.404678960 [ INFO] [181] has timed out. starting new election...
+24:49.405261124 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.405396026 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.402544839 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.413559047 [ INFO] [181] becomes leader with 161 votes
+24:49.414578628 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.414663335 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.411725066 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.523940157 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.524616038 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.526314600 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.675109087 [ INFO] [50] has timed out. starting new election...
+24:49.684240423 [ INFO] [168] has timed out. starting new election...
+24:49.681426154 [ INFO] [265] has timed out. starting new election...
+24:49.685242116 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.685295504 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.682391486 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.685452204 [ INFO] [221] has timed out. starting new election...
+24:49.724870291 [ INFO] [265] becomes leader with 307 votes
+24:49.730244972 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.730582214 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.727744452 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.735569161 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.732903802 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.735488899 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.738726103 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.738783371 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.736081151 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.744470290 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.744747583 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.741856046 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.745536846 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.746226624 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.749665991 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.906502305 [ INFO] [183] has timed out. starting new election...
+24:49.906730377 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.906807791 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.903999230 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.923531130 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.924085461 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.926159380 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:49.932692204 [ INFO] [183] becomes leader with 220 votes
+24:49.933690969 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:49.933782951 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:49.930880211 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.084716345 [ INFO] [209] has timed out. starting new election...
+24:50.087789179 [ INFO] [50] has timed out. starting new election...
+24:50.088268925 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.088371229 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.085533591 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.096571409 [ INFO] [50] becomes leader with 161 votes
+24:50.097409509 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.097609376 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.094654510 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.100724267 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.100929749 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.097772502 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.121029693 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.121893845 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.123680095 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.273397896 [ INFO] [35] has timed out. starting new election...
+24:50.278857760 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.278934657 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.276124869 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.287329470 [ INFO] [35] becomes leader with 161 votes
+24:50.288360978 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.285552080 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.288565019 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.420854581 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.421685997 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.423265832 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.573177396 [ INFO] [42] has timed out. starting new election...
+24:50.573456371 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.570657959 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.573680446 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.606685729 [ INFO] [42] becomes leader with 310 votes
+24:50.607600388 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.604739846 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.607755135 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.761356216 [ INFO] [181] has timed out. starting new election...
+24:50.763255257 [ INFO] [209] has timed out. starting new election...
+24:50.765272539 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.765301170 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.762439126 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.786384872 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.787306308 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.788522373 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.806654383 [ INFO] [209] becomes leader with 309 votes
+24:50.809405717 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.809538176 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.806680025 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.809806541 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.806983596 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:50.809941233 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.939605925 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:50.940280893 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:50.941837473 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.099543345 [ INFO] [248] has timed out. starting new election...
+24:51.099567958 [ INFO] [168] has timed out. starting new election...
+24:51.100085986 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.100089412 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.097249620 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.107948414 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.108586124 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.111349549 [ INFO] [181] candidate has timed out. starting new election...
+24:51.110074852 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.129456771 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.126534349 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.129528687 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.134837535 [ INFO] [168] becomes leader with 309 votes
+24:51.135948767 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.135954439 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.133033495 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.294549942 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.291862146 [ INFO] [265] has timed out. starting new election...
+24:51.295213582 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.292453659 [ INFO] [309] has timed out. starting new election...
+24:51.292556861 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.295662669 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.295966004 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.296933826 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.336869624 [ INFO] [265] becomes leader with 307 votes
+24:51.341234384 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.338240964 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.341211485 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.341602667 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.341634876 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.338948661 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.498686489 [ INFO] [35] has timed out. starting new election...
+24:51.498909126 [ INFO] [183] has timed out. starting new election...
+24:51.499144473 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.499118785 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.496245742 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.499500972 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.499688710 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.496750141 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.546684364 [ INFO] [35] becomes leader with 308 votes
+24:51.563165313 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.563183984 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.560241768 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.614052829 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.614641201 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.616600132 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.764518733 [ INFO] [50] has timed out. starting new election...
+24:51.764666810 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.761789592 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.764972895 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.790685824 [ INFO] [50] becomes leader with 231 votes
+24:51.791679244 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.791697555 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.788761107 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.815847861 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.816425637 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.818008444 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.971946286 [ INFO] [209] has timed out. starting new election...
+24:51.974000589 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.974217869 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.971388327 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:51.980803506 [ INFO] [209] becomes leader with 161 votes
+24:51.983459006 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:51.983547183 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:51.980617641 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.137327856 [ INFO] [42] has timed out. starting new election...
+24:52.141407252 [ INFO] [248] has timed out. starting new election...
+24:52.142544072 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.143020369 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.141050461 [ INFO] [309] has timed out. starting new election...
+24:52.144372937 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.141169211 [ INFO] [283] has timed out. starting new election...
+24:52.144542658 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.141605071 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.145090421 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.145276309 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.145459854 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.142583425 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.142870644 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.145948653 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.145069943 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.153812529 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.153870980 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.151055680 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.171356495 [ INFO] [309] becomes leader with 161 votes
+24:52.176149298 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.176187812 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.182004861 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.336882619 [ INFO] [183] has timed out. starting new election...
+24:52.336390772 [ INFO] [221] has timed out. starting new election...
+24:52.338324550 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.338373344 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.341168679 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.346438526 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.343441357 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.346518763 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.347316677 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.347739761 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.349331610 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.366631777 [ INFO] [221] becomes leader with 304 votes
+24:52.370259040 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.370373901 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.369399352 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.525620719 [ INFO] [42] has timed out. starting new election...
+24:52.526949560 [ INFO] [248] has timed out. starting new election...
+24:52.525929776 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.525891849 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.523106671 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.523292972 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.526234301 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.526316577 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.539301538 [ INFO] [42] becomes leader with 161 votes
+24:52.540025627 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.540276155 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.553905075 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.569842640 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.570378777 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.585949375 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.727929647 [ INFO] [183] has timed out. starting new election...
+24:52.729951963 [ INFO] [168] has timed out. starting new election...
+24:52.727019851 [ INFO] [265] has timed out. starting new election...
+24:52.730855326 [ INFO] [80] has timed out. starting new election...
+24:52.731712121 [ INFO] [35] has timed out. starting new election...
+24:52.730470962 [ INFO] [98] has timed out. starting new election...
+24:52.731824079 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.731886608 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.729056183 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.732614742 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.729836420 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.732881582 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.738850690 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.740191765 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.740355126 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.737480321 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.737866631 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.741557574 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.741657138 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.741725580 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.744529650 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.760319697 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.760512255 [ INFO] [35] becomes leader with 182 votes
+24:52.757483409 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.761486791 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.758680474 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.766166215 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.766444744 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.773985144 [ INFO] [80] becomes leader with 234 votes
+24:52.775457330 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.772616794 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.775599343 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.797635033 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.798290564 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.799884448 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.955754401 [ INFO] [50] has timed out. starting new election...
+24:52.956013772 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.956126208 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.953274068 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.985921006 [ INFO] [50] becomes leader with 309 votes
+24:52.983952711 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:52.986854123 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.986985714 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.989702257 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:52.990480130 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:52.991879730 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.149682078 [ INFO] [248] has timed out. starting new election...
+24:53.148812387 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.148883457 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.145948681 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.178355217 [ INFO] [248] becomes leader with 309 votes
+24:53.178059878 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.175179472 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.178154465 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.182568752 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.183229348 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.184840332 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.337610093 [ INFO] [209] has timed out. starting new election...
+24:53.336640269 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.339629001 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.339728996 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.376815109 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.377455200 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.379240170 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.389650877 [ INFO] [209] becomes leader with 309 votes
+24:53.392425912 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.392500957 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.389585512 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.546457727 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.547043915 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.548606761 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.706959087 [ INFO] [168] has timed out. starting new election...
+24:53.704029531 [ INFO] [265] has timed out. starting new election...
+24:53.707381610 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.707452240 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.704542102 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.710590126 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.710717708 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.707953755 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.744869453 [ INFO] [265] becomes leader with 309 votes
+24:53.767048496 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.767611124 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.770314869 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.770357600 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.767523193 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.768086339 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.790506794 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.791213721 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.793258851 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.942078943 [ INFO] [42] has timed out. starting new election...
+24:53.942279701 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.939350174 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.942243627 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.966774154 [ INFO] [42] becomes leader with 161 votes
+24:53.967696326 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.967746951 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.964782239 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:53.993129641 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:53.993695335 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:53.995343477 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.145791644 [ INFO] [35] has timed out. starting new election...
+24:54.146195923 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.143220965 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.146259258 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.174246158 [ INFO] [35] becomes leader with 309 votes
+24:54.175124331 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.175235221 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.172316463 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.185644285 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.186312159 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.188161877 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.336606700 [ INFO] [50] has timed out. starting new election...
+24:54.336968623 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.336997899 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.334102602 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.374688468 [ INFO] [50] becomes leader with 187 votes
+24:54.375636413 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.375675456 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.372787049 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.398776091 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.399298196 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.400963522 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.554946855 [ INFO] [209] has timed out. starting new election...
+24:54.557118349 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.557161965 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.554424758 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.563702517 [ INFO] [209] becomes leader with 161 votes
+24:54.566368656 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.566368426 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.563484758 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.724616841 [ INFO] [248] has timed out. starting new election...
+24:54.724034253 [ INFO] [183] has timed out. starting new election...
+24:54.721494886 [ INFO] [309] has timed out. starting new election...
+24:54.722085398 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.725044524 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.725134210 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.729412963 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.729673295 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.726798451 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.758614953 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.758617394 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.755854840 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.759612918 [ INFO] [309] becomes leader with 307 votes
+24:54.764064211 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.761125203 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.764134697 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.780848808 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.781549691 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.783493678 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.941462342 [ INFO] [168] has timed out. starting new election...
+24:54.938806594 [ INFO] [265] has timed out. starting new election...
+24:54.942570326 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.942522061 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.939786461 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.975193282 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:54.975984150 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.977558844 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:54.980869865 [ INFO] [265] becomes leader with 308 votes
+24:55.002346160 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.002482335 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:54.999679875 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.004573506 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.004726337 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.001871630 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.159213704 [ INFO] [248] has timed out. starting new election...
+24:55.159173740 [ INFO] [42] has timed out. starting new election...
+24:55.156456508 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.159337585 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.159390614 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.177494534 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.177651505 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.174764906 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.181310327 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.182086165 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.183565615 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.218680689 [ INFO] [42] becomes leader with 308 votes
+24:55.252029115 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.254994001 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.255047357 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.381628384 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.382298268 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.383878524 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.478903672 [ INFO] [248] candidate has timed out. starting new election...
+24:55.534903130 [ INFO] [35] has timed out. starting new election...
+24:55.535455216 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.535491541 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.532585970 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.543670553 [ INFO] [35] becomes leader with 161 votes
+24:55.541743518 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.544689218 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.544732507 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.572557495 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.573200803 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.574738540 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.721288414 [ INFO] [50] has timed out. starting new election...
+24:55.728693093 [ INFO] [209] has timed out. starting new election...
+24:55.730920561 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.730998065 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.728142692 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.736056212 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.736217609 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.733368757 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.738215060 [ INFO] [209] becomes leader with 161 votes
+24:55.740889337 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.740968204 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.738055728 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.770250036 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.770925231 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.772479031 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.930724917 [ INFO] [168] has timed out. starting new election...
+24:55.931136874 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.931229311 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.931229156 [ INFO] [183] has timed out. starting new election...
+24:55.928510283 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.931649735 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.931690995 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.928892118 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.931514182 [ INFO] [283] has timed out. starting new election...
+24:55.935426730 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.935689255 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:55.932866195 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.957468655 [ INFO] [168] becomes leader with 205 votes
+24:55.958566643 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:55.955589871 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:55.958663322 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.010730073 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.011382625 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.012905767 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.161888237 [ INFO] [50] has timed out. starting new election...
+24:56.162160985 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.162259045 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.159420028 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.170560468 [ INFO] [50] becomes leader with 161 votes
+24:56.171519487 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.168621411 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.171646243 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.261138184 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.261918017 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.263419232 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.418463691 [ INFO] [265] has timed out. starting new election...
+24:56.422075115 [ INFO] [183] has timed out. starting new election...
+24:56.422190243 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.422186183 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.419355290 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.425926631 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.423191578 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.426193358 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.434659278 [ INFO] [183] becomes leader with 161 votes
+24:56.435444791 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.435540130 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.432603971 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.553187741 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.553929043 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.555484578 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.703095013 [ INFO] [42] has timed out. starting new election...
+24:56.703311225 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.700401290 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.703461754 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.738683634 [ INFO] [42] becomes leader with 308 votes
+24:56.739618958 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.739675014 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.736746393 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.749476437 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.750071087 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.751702142 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.902243580 [ INFO] [35] has timed out. starting new election...
+24:56.902597129 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.902688115 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.899556107 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.934681785 [ INFO] [35] becomes leader with 308 votes
+24:56.935536181 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.932668304 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:56.935658343 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.965143841 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:56.965917245 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:56.968548318 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.120248687 [ INFO] [209] has timed out. starting new election...
+24:57.124743285 [ INFO] [80] has timed out. starting new election...
+24:57.122468653 [ INFO] [265] has timed out. starting new election...
+24:57.125888681 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.122942596 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.125919391 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.126162776 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.126247991 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.123298596 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.152604883 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.152654228 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.149739385 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.156420422 [ INFO] [80] becomes leader with 176 votes
+24:57.157882489 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.158139560 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.155158455 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.177504944 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.178213371 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.179775767 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.335635465 [ INFO] [50] has timed out. starting new election...
+24:57.336027572 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.336104655 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.333272545 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.345703783 [ INFO] [50] becomes leader with 161 votes
+24:57.346667408 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.346646732 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.343732925 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.441650941 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.442269364 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.443869866 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.596940218 [ INFO] [209] has timed out. starting new election...
+24:57.599003072 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.599223240 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.596394484 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.606052620 [ INFO] [209] becomes leader with 161 votes
+24:57.608771716 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.608751590 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.605870337 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.745884378 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.746475963 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.748101703 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.905761757 [ INFO] [42] has timed out. starting new election...
+24:57.904253055 [ INFO] [221] has timed out. starting new election...
+24:57.905924499 [ INFO] [168] has timed out. starting new election...
+24:57.906182054 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.906326200 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.906402605 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.903541328 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.906676394 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.903845404 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.909379527 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.909455786 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.906920666 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.940046915 [ INFO] [42] becomes leader with 232 votes
+24:57.940968911 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.941162568 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.938345005 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:57.941534046 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:57.942227986 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:57.943788415 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.101053007 [ INFO] [183] has timed out. starting new election...
+24:58.101284229 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.101352810 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.098474821 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.142097912 [ INFO] [183] becomes leader with 308 votes
+24:58.143127198 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.143173010 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.140310715 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.164960346 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.165617365 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.167649581 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.317118486 [ INFO] [35] has timed out. starting new election...
+24:58.317464696 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.317517701 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.314614223 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.342528280 [ INFO] [35] becomes leader with 161 votes
+24:58.340690402 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.343682514 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.343792535 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.354184146 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.354887168 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.356350497 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.514095283 [ INFO] [168] has timed out. starting new election...
+24:58.511690275 [ INFO] [265] has timed out. starting new election...
+24:58.515703464 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.515757882 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.513021689 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.524943958 [ INFO] [265] becomes leader with 161 votes
+24:58.529460510 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.529490394 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.526577167 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.546299336 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.546517579 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.543658752 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.614692906 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.615489144 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.617099853 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.764168337 [ INFO] [50] has timed out. starting new election...
+24:58.771129081 [ INFO] [209] has timed out. starting new election...
+24:58.773320693 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.770359943 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.773346786 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.802653465 [ INFO] [209] becomes leader with 307 votes
+24:58.820473585 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.820683201 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.820874403 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.817815040 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.817920272 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:58.821093233 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.947391171 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:58.948008292 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:58.949562094 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.107300396 [ INFO] [42] has timed out. starting new election...
+24:59.107595760 [ INFO] [168] has timed out. starting new election...
+24:59.107844120 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.107833967 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.105022048 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.110912176 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.110889322 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.107979941 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.142091137 [ INFO] [168] becomes leader with 308 votes
+24:59.149713134 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.150360075 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.154618909 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.154666545 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.151870343 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.152227432 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.309300530 [ INFO] [50] has timed out. starting new election...
+24:59.309458743 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.309518468 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.306613970 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.311391528 [ INFO] [221] has timed out. starting new election...
+24:59.349439482 [ INFO] [50] becomes leader with 248 votes
+24:59.349847368 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.350627691 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.350673358 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.347925181 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.351193976 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.352196118 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.424519302 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.424639188 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.421822942 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.535723224 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.536393886 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.538090241 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.688131042 [ INFO] [42] has timed out. starting new election...
+24:59.688883656 [ INFO] [35] has timed out. starting new election...
+24:59.696858554 [ INFO] [183] has timed out. starting new election...
+24:59.693598866 [ INFO] [265] has timed out. starting new election...
+24:59.697299026 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.697368524 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.694483751 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.697539492 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.694745773 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.697766156 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.698864847 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.698914532 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.696137283 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.718944860 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.719016118 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.716113863 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.782235227 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.831836802 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+24:59.989079330 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.000619124 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.157482509 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.166300218 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.168745084 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.329870784 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.346288246 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.356972738 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.515242973 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.590859685 [ WARN] [146] panicked because it's election signal channel has failed (on send)
+25:00.157177789 [ INFO] [42] has timed out. starting new election...
+25:00.167856419 [ INFO] [42] becomes leader with 161 votes
+25:00.514951003 [ INFO] [50] has timed out. starting new election...
+25:00.558684408 [ INFO] [50] becomes leader with 277 votes
+25:00.329453854 [ INFO] [35] has timed out. starting new election...
+25:00.345505349 [ INFO] [35] becomes leader with 161 votes
+24:59.779407695 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.832973708 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.986125214 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.997801743 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.154578082 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.165827857 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.169346641 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.327173010 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.343506379 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.359204280 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.512352896 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+25:00.588017150 [ WARN] [299] panicked because it's election signal channel has failed (on send)
+24:59.750095077 [ INFO] [183] becomes leader with 304 votes
+24:59.782287939 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.832239987 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.989137844 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.000661708 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.157497755 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.166885852 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.168839977 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.329921044 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.346430501 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.357610904 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.515257899 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+25:00.590906479 [ WARN] [164] panicked because it's election signal channel has failed (on send)
+24:59.987138693 [ INFO] [209] has timed out. starting new election...
+24:59.998020782 [ INFO] [209] becomes leader with 161 votes
