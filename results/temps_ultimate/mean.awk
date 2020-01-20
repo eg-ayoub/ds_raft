@@ -13,6 +13,6 @@ BEGIN {
 END {
   mean = total/num;
   avg = 225;
-  throughput = (60000 / num) / 60;
+  throughput = num/60;
   print num " " mean " " avg " " 1000/avg " " throughput;
 }
