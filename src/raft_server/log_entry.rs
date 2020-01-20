@@ -90,12 +90,14 @@ impl RaftList for Log{
 
     fn append_rest(&mut self, starting: usize, prev: usize, compare_to: &Vec<LogEntry>) {
         for index in starting-prev..compare_to.len() {
+            info!("follower appended <{}>", prev + index + 1);
             self.list.push(compare_to[index]);
         }
     }
 
     fn append_all(&mut self, prev: usize, compare_to: &Vec<LogEntry>) {
         for index in self.len()-prev..compare_to.len() {
+            info!("follower appended <{}>", prev + index + 1);
             self.list.push(compare_to[index]);
         }
     }

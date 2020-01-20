@@ -112,9 +112,15 @@ fn main() {
                     while now.elapsed().as_millis() <= 1000 {
                         thread::yield_now();
                     }
+                    // while now.elapsed().as_millis() <= 10000 {
+                    //     for _ in election_receiver.try_iter() {
+                    //         // !
+                    //     }
+                    //     thread::yield_now();
+                    // }
                     let mut server = server_arc_main.lock().unwrap();
                     server.update_commit_index(size);
-                    // server.dummy_incr();
+                    server.dummy_incr();
                     // * send messages
                     for r in 0..size {
                         if r != rank {
@@ -123,16 +129,6 @@ fn main() {
                             universe_arc_main.world().process_at_rank(r).send(msg.as_bytes());
                         }
                     }
-                    // For crash simulation
-                    let now = Instant::now();
-                    let mut rngg = rand::thread_rng();
-                    while now.elapsed().as_millis() <= 10000 {
-                        thread::yield_now();
-                    }
-                    // while now.elapsed().as_millis() <= 1000 {
-                    //     thread::yield_now();
-                    // }
-                    // end crash simulation
                 },
                 ServerState::Candidate => {
                     let mut server = server_arc_main.lock().unwrap();
@@ -279,7 +275,11 @@ fn main() {
                 }
                 // * step 2 : change commit indexes
                 if params.leader_commit > server.commit_index {
+                    let commit_index_cpy = server.commit_index;
                     server.commit_index = min(params.leader_commit, server.persistence.log.len());
+                    for c in commit_index_cpy+1..server.commit_index+1 {
+                        info!("follower commited {}", c);
+                    }
                 }
                 // info!("[{}] log is now ci:{}|{}" ,server.rank, server.commit_index, server.persistence.log);
             }

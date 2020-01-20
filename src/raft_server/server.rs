@@ -210,6 +210,7 @@ impl Server for RaftServer {
             operation: RaftOperation::Incr 
         };
         self.put_in_log(entry);
+        info!("leader sends <{}>", self.last_log_index());
     }
 
     fn dummy_decr(&mut self) {
@@ -247,6 +248,7 @@ impl Server for RaftServer {
                 }
                 if count > size - count {
                     self.commit_index = n;
+                    info!("leader commited {}", n);
                 }
             }
         }
