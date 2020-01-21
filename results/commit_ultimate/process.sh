@@ -2,6 +2,7 @@
 
 for d in ex_*; do
   echo '' > $d/means.result
+  echo '' > $d/stats.result
   for l in $d/*.log;do
     FILE=${l%.*}
     NODE=`cut -d'-' -f2 <<<"$FILE"`
@@ -10,6 +11,7 @@ for d in ex_*; do
     ./cleaner.awk $FILE.result > $FILE.result.new
     mv $FILE.result.new $FILE.result
     echo $NODE " " `./mean.awk $FILE.result` >> $d/means.result
+    echo $NODE " " `./stats.awk $FILE.result` >> $d/stats.result
 
     gnuplot -e "set title 'Temps du commit du leader'; \
 set xlabel 'Numero du commit'; \
@@ -30,6 +32,9 @@ plot '< sort -n $d/means.result' using 2:xtic(1) with line;"
 done
 
 paste ex_1/means.result ex_2/means.result ex_4/means.result ex_5/means.result | ./combine.awk > means.result
+paste ex_1/stats.result ex_2/stats.result ex_4/stats.result ex_5/stats.result | ./combine_stats.awk > stats.result
+
+paste means.result stats.result | ./interval.awk > interval.result
 
   gnuplot -e "set title 'Temps Moyen du commit du leader'; \
 set xlabel 'Nombre de noeuds'; \

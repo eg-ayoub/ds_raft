@@ -12,5 +12,5 @@ BEGIN {
 
 END {
   avg = total / num;
-  print avg;  
+  print avg " " num;  
 }
