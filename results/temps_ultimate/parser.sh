@@ -10,6 +10,7 @@ for d in ex_*; do
     ./script.awk $f > $FILE.result
     echo $NODE " " `./mean.awk $FILE.result` >> $d/means.result
     echo $NODE " " `./candidate.awk $FILE.log` >> $d/candidate.result
+    echo $NODE " " `./stats.awk $FILE.result` >> $d/stats.result
 
     gnuplot -e "set title 'Temps entre chaque election pour $NODE noeuds'; \
 set xlabel 'Numero election'; \

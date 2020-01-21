@@ -1,7 +1,12 @@
 #!/bin/bash
 
 paste ex_1/means.result ex_2/means.result ex_3/means.result ex_4/means.result ex_5/means.result | ./combine.awk > means.result
+
 paste ex_1/candidate.result ex_2/candidate.result ex_3/candidate.result ex_4/candidate.result ex_5/candidate.result | ./combine.awk > candidate.result
+
+paste ex_1/stats.result ex_2/stats.result ex_3/stats.result ex_4/stats.result ex_5/stats.result | ./combine_stats.awk > stats.result
+
+paste means.result stats.result | ./interval.awk > interval.result
 
   gnuplot -e "set title 'Temps Moyen Election par nombre de noeuds'; \
 set xlabel 'Nombre de noeuds'; \
