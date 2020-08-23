@@ -14,7 +14,7 @@ set ylabel 'Temps moyen election en ms'; \
 set term png; set output 'means.png'; \
 set boxwidth 5; set style fill solid; \
 set yrange [0:500]; \
-plot '< sort -n means.result' using 3:xtic(1) with line, \
+plot '< sort -n means.result' using 3:xtic(1) with line title 'Temps moyen', \
 '' using 4:xtic(1) with line title 'Ideal';" 
 
   gnuplot -e "set title 'Throughput'; \

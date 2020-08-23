@@ -17,20 +17,20 @@ set xlabel 'Numero election'; \
 set ylabel 'Temps election en ms'; \
 set yrange [0:1000]; set term png; \
 set output '$FILE.png'; \
-plot '$FILE.result' using 1:2, '' using 1:3 with line title 'Ideal';" 
+plot '$FILE.result' using 1:2 title 'Temps moyen', '' using 1:3 with line title 'Ideal';" 
 
   done
 
-  gnuplot -e "set title 'Temps Moyen Election par nombre de noeuds'; \
+gnuplot -e "set title 'Temps Moyen Election par nombre de noeuds'; \
 set xlabel 'Nombre de noeuds'; \
 set ylabel 'Temps moyen election en ms'; \
-set term png; set output '$d/means.png'; \
+set term png; set output '$d/means2.png'; \
 set boxwidth 5; set style fill solid; \
 set yrange [0:500]; \
-plot '< sort -n $d/means.result' using 3:xtic(1) with line, \
+plot '< sort -n $d/means.result' using 3:xtic(1) with line title 'Temps moyen', \
 '' using 4:xtic(1) with line title 'Ideal';" 
 
-  gnuplot -e "set title 'Throughput'; \
+gnuplot -e "set title 'Throughput'; \
 set xlabel 'Nombre de noeuds'; \
 set ylabel 'Nombre d élection par secondes'; \
 set term png; set output '$d/throughtput.png'; \
@@ -39,7 +39,7 @@ set yrange [0:6]; \
 plot '< sort -n $d/means.result' using 6:xtic(1) with line title 'Throughput', \
 '' using 5:xtic(1) with line title 'Ideal';" 
 
-  gnuplot -e "set title 'Nombre de candidature par rapport au nombre d election'; \
+gnuplot -e "set title 'Nombre de candidature par rapport au nombre d election'; \
 set xlabel 'Nombre de noeuds'; \
 set ylabel 'Instance'; \
 set term png; set output '$d/candidate.png'; \
@@ -50,7 +50,7 @@ plot '< sort -n $d/candidate.result' using 2:xtic(1) with line title 'Elections'
 '' using 3:xtic(1) with line title 'Candidature', \
 '' using 6:xtic(1) with line title 'Recandidature';"
 
-  gnuplot -e "set title 'Succès des candidatures'; \
+gnuplot -e "set title 'Succès des candidatures'; \
 set xlabel 'Nombre de noeuds'; \
 set ylabel 'Taux de succès'; \
 set term png; set output '$d/success.png'; \
